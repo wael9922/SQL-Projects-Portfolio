@@ -10,9 +10,11 @@ I am a passionate data analyst with extensive experience in SQL and database tec
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Data Roles and Skills** | Comprehensive analysis of data roles, required skills, and salary based on roles and skills insights | [View Project](./Data-Roles-and-Skills/) |
-| **Sales Analysis Project** | In-depth sales performance analysis with revenue trends and business insights | [View Project](./Sales-Analysis-Project/) |
+| **Data Roles and Skills Analysis** | Comprehensive analysis of data roles, required skills, and salary based on roles and skills insights | [View Project](./Data-Roles-and-Skills/) |
+| **Sales Analysis** | In-depth sales performance analysis with revenue trends and business insights | [View Project](./Sales-Analysis-Project/) |
 | **SQL Data Cleaning Project** | Data cleaning and transformation techniques using SQL for data quality improvement | [View Project](./SQL-Data-Cleaning_Project/) |
+| **Restaurant Order Analysis** | xplores a fictional restaurant's order data to uncover key insights using SQL. | [View Project](https://github.com/wael9922/SQL-Projects-Portfolio/tree/main/Restaurant%20Orders%20Analysis) |
+
 
 ## 🛠 Technical Skills
 
