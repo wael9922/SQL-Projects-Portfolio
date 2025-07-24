@@ -30,15 +30,15 @@ The dataset contains order-level data and menu item metadata including names, ca
 
 ## 📊 Key Findings:
 
-![Revenue per Cuisine](charts\Revnue_and_Orders_Per_Cuisine.png)
+![Revenue per Cuisine](charts/Revnue_and_Orders_Per_Cuisine.png)
 
 - **Italian** and **Asian** cuisines lead in both popularity and revenue.
 
-![Orders Per Hour](charts\orders_per_hour.png)
+![Orders Per Hour](charts/orders_per_hour.png)
 
 - The busiest hours are around **12 PM and 5 PM**, both in number of orders and total revenue.
 
-![Most Ordered Items](charts\most_ordered_items.png)
+![Most Ordered Items](charts/most_ordered_items.png)
 
 - Most ordered items were `Hamburger`, `Edamame`, and `Korean Beef Bowl`.
 
