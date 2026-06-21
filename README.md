@@ -9,12 +9,14 @@ I am a passionate data analyst with extensive experience in SQL and database tec
 ## 📁 Projects
 
 | Project | Description | Link |
-|---------|-------------|------|
-| **Data Roles and Skills Analysis** | Comprehensive analysis of data roles, required skills, and salary based on roles and skills insights | [View Project](./Data-Roles-and-Skills/) |
-| **Sales Analysis** | In-depth sales performance analysis with revenue trends and business insights | [View Project](./Sales-Analysis-Project/) |
-| **SQL Data Cleaning Project** | Data cleaning and transformation techniques using SQL for data quality improvement | [View Project](./SQL-Data-Cleaning_Project/) |
-| **Restaurant Order Analysis** | explores a fictional restaurant's order data to uncover key insights using SQL. | [View Project](https://github.com/wael9922/SQL-Projects-Portfolio/tree/main/Restaurant%20Orders%20Analysis) |
-| **Video Games Sales Analysis** | Analyze a dataset of 64,000 video games across various consoles, genres, and regions. | [View Project](https://github.com/wael9922/SQL-Projects-Portfolio/tree/main/Video%20Games%20Sales%20Analysis) |
+| --- | --- | --- |
+| **Data Roles and Skills Analysis** | Comprehensive analysis of data roles, required skills, and salary based on roles and skills insights | [View Project](https://github.com/wael9922/SQL-Projects-Portfolio/tree/main/Data%20Roles%20and%20Skills/SQL-Project-main) |
+| **Payment Revenue Drop — Root Cause Analysis** | Investigates a drop in payment revenue using SQL to isolate contributing factors and surface the root cause | [View Project](https://github.com/wael9922/SQL-Projects-Portfolio/tree/main/Payment%20Revenue%20Drop%20%E2%80%94%20Root%20Cause%20Analysis) |
+| **Restaurant Orders Analysis** | Explores a fictional restaurant's order data to uncover key insights using SQL | [View Project](https://github.com/wael9922/SQL-Projects-Portfolio/tree/main/Restaurant%20Orders%20Analysis) |
+| **SQL Case Studies - Problem Solving** | A collection of SQL case studies showcasing analytical problem solving, advanced querying techniques, and business-rule implementation using PostgreSQL | [View Project](https://github.com/wael9922/SQL-Projects-Portfolio/tree/main/SQL%20Case%20Studies%20-%20Problems%20Solving) |
+| **SQL Data Cleaning Project** | Data cleaning and transformation techniques using SQL for data quality improvement | [View Project](https://github.com/wael9922/SQL-Projects-Portfolio/tree/main/SQL%20Data%20Cleaning_Project/SQL_Data_Cleaning_Project-main) |
+| **Sales Analysis** | In-depth sales performance analysis with revenue trends and business insights | [View Project](https://github.com/wael9922/SQL-Projects-Portfolio/tree/main/Sales%20Analysis%20Project) |
+| **Video Games Sales Analysis** | Analyze a dataset of 64,000 video games across various consoles, genres, and regions | [View Project](https://github.com/wael9922/SQL-Projects-Portfolio/tree/main/Video%20Games%20Sales%20Analysis) |
 
 ## 🛠 Technical Skills
 
@@ -35,7 +37,8 @@ I am a passionate data analyst with extensive experience in SQL and database tec
 
 ---
 
-*Each project folder contains detailed documentation, SQL scripts, and analysis results.
+*Each project folder contains detailed documentation, SQL scripts, and analysis results.*
 
 Feel free to reach out:
+
 - LinkedIn: [View Profile](https://www.linkedin.com/in/wael-khalaf92/)
