@@ -1,0 +1,2001 @@
+order_id,order_date,city,device_type,traffic_source,payment_method,website_visitors,added_to_cart,started_checkout,payment_success,order_value
+1,2026-03-23,Amman,Desktop,Organic,Card,1,1,1,1,45.51
+2,2026-01-12,Aqaba,Mobile,TikTok,Wallet,2,1,1,1,44.38
+3,2026-02-05,Irbid,Desktop,Instagram,Cash,1,0,0,0,0.0
+4,2026-01-20,Zarqa,Mobile,Organic,Cash,2,0,0,0,0.0
+5,2026-01-13,Zarqa,Mobile,TikTok,Wallet,3,0,0,0,0.0
+6,2026-01-16,Zarqa,Mobile,Organic,Card,4,1,1,1,53.7
+7,2026-03-26,Amman,Mobile,Organic,Cash,2,0,0,0,0.0
+8,2026-02-05,Zarqa,Mobile,Email,Wallet,4,1,1,1,16.52
+9,2026-01-22,Irbid,Desktop,Organic,Card,5,1,1,1,59.42
+10,2026-01-05,Zarqa,Mobile,TikTok,Cash,3,1,1,1,36.19
+11,2026-03-24,Zarqa,Desktop,Email,Cash,4,1,1,0,0.0
+12,2026-02-16,Irbid,Desktop,Organic,Card,2,0,0,0,0.0
+13,2026-01-15,Aqaba,Desktop,Email,Cash,2,1,1,1,8.49
+14,2026-03-12,Zarqa,Desktop,Organic,Cash,1,1,1,0,0.0
+15,2026-02-25,Zarqa,Mobile,Email,Card,2,1,0,0,0.0
+16,2026-03-22,Irbid,Mobile,Instagram,Card,3,0,0,0,0.0
+17,2026-03-11,Zarqa,Desktop,Organic,Card,5,0,0,0,0.0
+18,2026-02-16,Aqaba,Mobile,Email,Card,3,1,1,1,9.33
+19,2026-01-17,Irbid,Desktop,Email,Wallet,4,0,0,0,0.0
+20,2026-02-24,Irbid,Desktop,TikTok,Wallet,2,0,0,0,0.0
+21,2026-03-25,Zarqa,Mobile,Email,Wallet,3,1,1,1,17.36
+22,2026-01-30,Amman,Desktop,Organic,Wallet,5,1,1,1,17.59
+23,2026-01-31,Aqaba,Mobile,TikTok,Cash,3,1,1,1,56.45
+24,2026-01-25,Amman,Mobile,Organic,Cash,1,1,1,1,30.69
+25,2026-02-13,Zarqa,Desktop,Paid Ads,Card,1,1,1,1,28.2
+26,2026-02-26,Amman,Mobile,Paid Ads,Cash,5,1,1,1,5.81
+27,2026-03-04,Aqaba,Desktop,TikTok,Cash,4,1,1,1,25.84
+28,2026-02-24,Amman,Mobile,Instagram,Card,5,1,1,1,16.97
+29,2026-01-07,Irbid,Mobile,Email,Card,5,1,0,0,0.0
+30,2026-01-24,Irbid,Mobile,Email,Card,1,1,1,1,11.59
+31,2026-02-23,Zarqa,Mobile,Instagram,Cash,5,1,1,1,41.83
+32,2026-01-17,Amman,Mobile,TikTok,Wallet,3,1,0,0,0.0
+33,2026-03-14,Amman,Mobile,Instagram,Cash,1,1,1,1,56.33
+34,2026-01-21,Zarqa,Mobile,Email,Cash,4,0,0,0,0.0
+35,2026-03-26,Irbid,Desktop,Organic,Card,1,0,0,0,0.0
+36,2026-03-12,Zarqa,Desktop,Instagram,Card,2,1,1,1,16.2
+37,2026-01-12,Amman,Mobile,Instagram,Card,4,0,0,0,0.0
+38,2026-03-23,Amman,Mobile,Paid Ads,Wallet,3,1,1,1,35.85
+39,2026-01-05,Amman,Desktop,Paid Ads,Wallet,3,1,1,1,21.95
+40,2026-02-01,Irbid,Mobile,Paid Ads,Card,1,1,1,1,58.56
+41,2026-02-22,Aqaba,Mobile,Instagram,Card,1,1,0,0,0.0
+42,2026-03-31,Aqaba,Desktop,Instagram,Card,1,1,1,1,15.98
+43,2026-01-29,Zarqa,Desktop,Email,Cash,1,1,1,1,8.82
+44,2026-03-28,Zarqa,Mobile,Email,Cash,5,1,1,0,0.0
+45,2026-01-05,Amman,Desktop,Email,Card,1,1,1,1,29.0
+46,2026-02-02,Irbid,Desktop,TikTok,Card,1,1,1,1,34.61
+47,2026-03-27,Zarqa,Desktop,Instagram,Cash,3,1,1,1,54.5
+48,2026-03-31,Irbid,Desktop,TikTok,Wallet,3,1,1,1,25.85
+49,2026-01-01,Aqaba,Desktop,TikTok,Wallet,3,1,1,1,41.01
+50,2026-01-28,Irbid,Mobile,Instagram,Wallet,5,1,0,0,0.0
+51,2026-03-26,Zarqa,Mobile,Paid Ads,Card,5,1,1,0,0.0
+52,2026-01-04,Aqaba,Mobile,TikTok,Cash,1,1,1,1,9.01
+53,2026-02-21,Amman,Desktop,Paid Ads,Card,2,1,1,1,52.32
+54,2026-03-31,Amman,Desktop,Paid Ads,Cash,5,1,1,0,0.0
+55,2026-03-27,Zarqa,Desktop,Email,Wallet,5,0,0,0,0.0
+56,2026-03-06,Aqaba,Mobile,TikTok,Cash,4,0,0,0,0.0
+57,2026-02-03,Zarqa,Desktop,Paid Ads,Cash,2,0,0,0,0.0
+58,2026-02-26,Amman,Mobile,Paid Ads,Card,1,1,1,1,54.12
+59,2026-02-19,Aqaba,Mobile,Paid Ads,Cash,2,1,1,1,34.84
+60,2026-02-19,Amman,Desktop,TikTok,Card,5,0,0,0,0.0
+61,2026-02-15,Aqaba,Mobile,TikTok,Card,3,0,0,0,0.0
+62,2026-02-04,Irbid,Desktop,Paid Ads,Wallet,4,1,1,1,48.9
+63,2026-03-10,Amman,Mobile,TikTok,Card,1,0,0,0,0.0
+64,2026-03-01,Aqaba,Desktop,TikTok,Cash,2,1,1,1,22.98
+65,2026-01-11,Zarqa,Mobile,Organic,Wallet,4,1,1,0,0.0
+66,2026-01-06,Irbid,Mobile,Email,Card,1,0,0,0,0.0
+67,2026-01-31,Zarqa,Desktop,Paid Ads,Wallet,2,1,1,1,30.58
+68,2026-03-19,Irbid,Desktop,Organic,Wallet,1,0,0,0,0.0
+69,2026-01-04,Aqaba,Desktop,Paid Ads,Card,3,1,0,0,0.0
+70,2026-03-17,Amman,Mobile,Instagram,Wallet,2,1,1,0,0.0
+71,2026-02-24,Aqaba,Mobile,TikTok,Cash,3,1,1,1,28.1
+72,2026-03-23,Zarqa,Desktop,TikTok,Cash,4,1,1,0,0.0
+73,2026-03-17,Zarqa,Desktop,Paid Ads,Cash,3,1,1,0,0.0
+74,2026-03-14,Aqaba,Mobile,Instagram,Cash,5,1,1,1,22.88
+75,2026-02-13,Zarqa,Mobile,Email,Card,3,0,0,0,0.0
+76,2026-01-11,Aqaba,Desktop,Organic,Card,2,1,1,1,42.98
+77,2026-02-07,Zarqa,Desktop,Email,Cash,2,1,1,1,25.3
+78,2026-02-15,Amman,Mobile,Paid Ads,Card,4,1,1,1,15.59
+79,2026-03-03,Zarqa,Mobile,Paid Ads,Cash,3,1,0,0,0.0
+80,2026-01-30,Amman,Desktop,Paid Ads,Wallet,3,1,1,1,20.09
+81,2026-03-04,Zarqa,Desktop,TikTok,Cash,1,0,0,0,0.0
+82,2026-02-13,Zarqa,Desktop,Organic,Card,2,0,0,0,0.0
+83,2026-02-21,Zarqa,Mobile,Paid Ads,Card,4,1,1,1,13.21
+84,2026-03-13,Aqaba,Desktop,Instagram,Wallet,4,1,1,1,33.74
+85,2026-02-24,Amman,Mobile,Paid Ads,Cash,3,1,1,0,0.0
+86,2026-03-26,Aqaba,Desktop,Instagram,Card,1,1,1,1,5.15
+87,2026-01-30,Zarqa,Mobile,TikTok,Card,3,1,1,1,42.81
+88,2026-03-11,Irbid,Mobile,Organic,Card,2,1,0,0,0.0
+89,2026-02-09,Zarqa,Desktop,Instagram,Wallet,5,1,1,1,11.84
+90,2026-03-11,Zarqa,Desktop,Organic,Card,4,1,1,0,0.0
+91,2026-01-30,Amman,Mobile,TikTok,Wallet,5,1,1,1,50.18
+92,2026-03-25,Irbid,Desktop,TikTok,Card,4,0,0,0,0.0
+93,2026-03-02,Aqaba,Desktop,Instagram,Wallet,3,1,1,1,13.85
+94,2026-02-21,Aqaba,Mobile,Email,Cash,5,1,1,1,11.38
+95,2026-02-22,Amman,Mobile,Instagram,Wallet,1,1,1,1,39.4
+96,2026-01-17,Irbid,Mobile,Instagram,Wallet,3,1,1,1,58.52
+97,2026-01-02,Amman,Mobile,TikTok,Wallet,5,1,1,1,11.24
+98,2026-02-07,Aqaba,Mobile,TikTok,Card,5,1,1,1,30.97
+99,2026-03-18,Aqaba,Desktop,Email,Cash,5,1,1,1,47.5
+100,2026-01-01,Irbid,Desktop,Email,Cash,3,1,1,1,41.3
+101,2026-02-14,Irbid,Mobile,Email,Cash,3,1,1,1,22.7
+102,2026-01-30,Aqaba,Mobile,TikTok,Card,4,1,1,1,49.63
+103,2026-01-17,Zarqa,Mobile,TikTok,Card,5,0,0,0,0.0
+104,2026-03-09,Irbid,Mobile,TikTok,Cash,4,1,1,0,0.0
+105,2026-02-13,Aqaba,Desktop,TikTok,Wallet,5,1,1,1,51.88
+106,2026-01-05,Amman,Desktop,Organic,Wallet,5,1,1,1,59.86
+107,2026-01-13,Amman,Desktop,Instagram,Cash,4,1,1,1,22.84
+108,2026-02-25,Irbid,Mobile,Email,Cash,2,1,1,1,14.9
+109,2026-03-21,Aqaba,Desktop,Organic,Cash,2,1,1,1,40.08
+110,2026-02-06,Aqaba,Desktop,TikTok,Cash,5,1,1,1,37.32
+111,2026-01-26,Amman,Mobile,TikTok,Wallet,4,0,0,0,0.0
+112,2026-02-15,Aqaba,Desktop,Organic,Wallet,5,1,1,1,50.65
+113,2026-03-29,Aqaba,Desktop,Paid Ads,Wallet,1,0,0,0,0.0
+114,2026-02-15,Irbid,Mobile,Organic,Cash,2,1,1,1,44.65
+115,2026-02-26,Aqaba,Mobile,Paid Ads,Card,1,1,1,1,21.23
+116,2026-03-11,Irbid,Desktop,TikTok,Cash,3,1,0,0,0.0
+117,2026-02-13,Aqaba,Desktop,Organic,Cash,1,1,1,1,17.41
+118,2026-01-02,Aqaba,Desktop,Organic,Wallet,3,1,1,1,41.98
+119,2026-01-30,Zarqa,Mobile,Organic,Wallet,4,1,0,0,0.0
+120,2026-03-01,Aqaba,Mobile,Organic,Card,3,1,1,1,7.05
+121,2026-03-10,Aqaba,Mobile,TikTok,Wallet,2,1,1,0,0.0
+122,2026-01-13,Zarqa,Mobile,Instagram,Card,4,1,0,0,0.0
+123,2026-02-26,Zarqa,Mobile,Instagram,Wallet,4,0,0,0,0.0
+124,2026-03-24,Aqaba,Mobile,Paid Ads,Wallet,3,1,1,0,0.0
+125,2026-03-23,Amman,Desktop,Paid Ads,Card,5,0,0,0,0.0
+126,2026-03-14,Irbid,Desktop,Paid Ads,Wallet,2,1,1,1,16.88
+127,2026-01-01,Irbid,Mobile,Email,Cash,3,0,0,0,0.0
+128,2026-01-23,Irbid,Desktop,Organic,Card,1,1,1,1,48.45
+129,2026-02-03,Aqaba,Desktop,Email,Wallet,1,1,1,1,8.5
+130,2026-01-14,Amman,Desktop,TikTok,Wallet,4,1,0,0,0.0
+131,2026-01-04,Aqaba,Desktop,Organic,Cash,1,0,0,0,0.0
+132,2026-02-26,Zarqa,Mobile,Organic,Card,1,0,0,0,0.0
+133,2026-02-05,Zarqa,Desktop,Email,Wallet,5,1,1,1,59.7
+134,2026-02-25,Amman,Mobile,TikTok,Cash,1,0,0,0,0.0
+135,2026-01-30,Aqaba,Desktop,Instagram,Cash,4,1,1,1,10.23
+136,2026-01-20,Zarqa,Mobile,Email,Card,4,1,1,1,10.31
+137,2026-03-17,Aqaba,Mobile,Instagram,Wallet,5,1,1,1,53.05
+138,2026-02-09,Amman,Desktop,Email,Cash,3,1,1,1,31.52
+139,2026-01-15,Amman,Desktop,Organic,Card,3,1,1,1,58.6
+140,2026-02-04,Zarqa,Mobile,Paid Ads,Card,3,0,0,0,0.0
+141,2026-03-14,Amman,Mobile,TikTok,Cash,4,1,1,0,0.0
+142,2026-02-28,Amman,Mobile,Paid Ads,Card,3,1,1,1,56.78
+143,2026-03-21,Aqaba,Desktop,Instagram,Card,1,1,1,1,31.71
+144,2026-03-07,Zarqa,Mobile,Paid Ads,Cash,1,1,1,1,37.62
+145,2026-03-18,Zarqa,Desktop,Instagram,Card,1,1,1,1,12.55
+146,2026-01-01,Zarqa,Mobile,TikTok,Wallet,4,1,1,1,43.7
+147,2026-01-06,Zarqa,Desktop,Email,Cash,4,1,0,0,0.0
+148,2026-03-23,Irbid,Desktop,Instagram,Card,4,1,1,0,0.0
+149,2026-02-25,Zarqa,Desktop,Paid Ads,Cash,1,1,1,1,26.77
+150,2026-01-22,Zarqa,Desktop,Paid Ads,Card,1,1,1,1,54.83
+151,2026-01-14,Amman,Mobile,TikTok,Cash,2,1,1,1,46.75
+152,2026-03-14,Zarqa,Desktop,Paid Ads,Cash,5,1,0,0,0.0
+153,2026-01-09,Amman,Desktop,TikTok,Cash,4,1,1,1,8.09
+154,2026-01-05,Amman,Desktop,TikTok,Wallet,1,1,1,1,58.76
+155,2026-03-12,Aqaba,Mobile,Organic,Cash,1,1,1,1,22.68
+156,2026-01-14,Amman,Mobile,Organic,Card,3,0,0,0,0.0
+157,2026-02-26,Aqaba,Desktop,Instagram,Wallet,4,1,1,1,55.49
+158,2026-03-18,Zarqa,Mobile,Instagram,Card,1,0,0,0,0.0
+159,2026-03-13,Irbid,Desktop,Organic,Wallet,4,1,1,1,54.85
+160,2026-03-26,Zarqa,Desktop,Paid Ads,Wallet,2,0,0,0,0.0
+161,2026-01-11,Amman,Desktop,Email,Cash,3,1,1,1,12.03
+162,2026-01-03,Zarqa,Desktop,Paid Ads,Card,3,1,0,0,0.0
+163,2026-01-18,Amman,Desktop,Email,Card,2,1,1,1,47.4
+164,2026-03-18,Irbid,Desktop,Organic,Cash,4,1,1,1,39.36
+165,2026-02-16,Zarqa,Desktop,Paid Ads,Wallet,2,0,0,0,0.0
+166,2026-01-31,Aqaba,Mobile,Instagram,Wallet,3,0,0,0,0.0
+167,2026-03-15,Irbid,Mobile,Email,Card,4,1,1,1,34.01
+168,2026-02-02,Amman,Desktop,Organic,Card,1,1,1,1,10.64
+169,2026-02-04,Irbid,Desktop,Organic,Card,4,0,0,0,0.0
+170,2026-02-27,Aqaba,Mobile,TikTok,Wallet,3,0,0,0,0.0
+171,2026-02-17,Amman,Desktop,Paid Ads,Card,2,1,1,1,22.53
+172,2026-01-05,Aqaba,Mobile,TikTok,Cash,3,0,0,0,0.0
+173,2026-03-20,Amman,Desktop,Paid Ads,Card,1,0,0,0,0.0
+174,2026-03-12,Amman,Mobile,TikTok,Wallet,5,1,1,1,21.56
+175,2026-03-21,Irbid,Mobile,Instagram,Cash,4,1,1,1,34.48
+176,2026-01-01,Zarqa,Mobile,Email,Wallet,5,1,1,1,41.75
+177,2026-03-06,Zarqa,Desktop,Organic,Cash,5,1,1,1,39.96
+178,2026-01-09,Zarqa,Mobile,Organic,Cash,3,1,1,1,37.0
+179,2026-03-11,Irbid,Desktop,TikTok,Wallet,3,0,0,0,0.0
+180,2026-01-24,Amman,Mobile,Organic,Cash,2,1,1,1,21.14
+181,2026-02-09,Irbid,Desktop,Instagram,Card,5,1,1,1,7.01
+182,2026-03-25,Aqaba,Desktop,Instagram,Card,3,1,1,1,27.0
+183,2026-03-05,Aqaba,Mobile,TikTok,Wallet,4,1,1,1,9.54
+184,2026-01-24,Aqaba,Desktop,Paid Ads,Wallet,5,1,1,1,21.26
+185,2026-02-26,Aqaba,Desktop,Organic,Card,3,1,1,1,38.82
+186,2026-03-27,Irbid,Desktop,Organic,Card,4,1,1,1,57.4
+187,2026-01-09,Zarqa,Desktop,TikTok,Wallet,2,0,0,0,0.0
+188,2026-01-05,Amman,Mobile,Email,Cash,5,1,1,1,29.42
+189,2026-02-20,Aqaba,Desktop,Email,Card,3,1,1,1,45.46
+190,2026-02-03,Aqaba,Mobile,Organic,Card,3,1,1,1,43.17
+191,2026-01-10,Zarqa,Desktop,Organic,Wallet,4,1,1,0,0.0
+192,2026-03-11,Irbid,Mobile,Instagram,Wallet,3,0,0,0,0.0
+193,2026-01-29,Irbid,Mobile,TikTok,Card,1,0,0,0,0.0
+194,2026-02-16,Irbid,Mobile,Organic,Cash,5,1,1,0,0.0
+195,2026-02-20,Zarqa,Mobile,TikTok,Cash,4,1,1,1,9.06
+196,2026-03-29,Irbid,Mobile,TikTok,Wallet,5,1,1,0,0.0
+197,2026-01-08,Irbid,Desktop,Email,Cash,1,1,1,1,56.41
+198,2026-01-11,Zarqa,Mobile,Instagram,Wallet,3,1,0,0,0.0
+199,2026-03-10,Irbid,Mobile,Email,Wallet,1,1,1,0,0.0
+200,2026-03-19,Amman,Mobile,Organic,Card,3,0,0,0,0.0
+201,2026-03-24,Amman,Desktop,Email,Cash,5,1,1,1,39.0
+202,2026-03-24,Amman,Mobile,Paid Ads,Cash,3,1,1,1,21.36
+203,2026-02-23,Zarqa,Desktop,TikTok,Card,4,1,1,1,52.38
+204,2026-02-17,Irbid,Mobile,Organic,Card,5,1,1,1,19.71
+205,2026-02-07,Aqaba,Mobile,Paid Ads,Cash,4,0,0,0,0.0
+206,2026-03-15,Aqaba,Desktop,Instagram,Cash,3,1,1,0,0.0
+207,2026-01-03,Aqaba,Mobile,Paid Ads,Wallet,1,0,0,0,0.0
+208,2026-02-15,Aqaba,Desktop,Email,Card,1,1,1,1,40.98
+209,2026-01-14,Amman,Desktop,Organic,Wallet,4,1,1,1,27.18
+210,2026-03-13,Zarqa,Mobile,Paid Ads,Card,2,1,1,1,29.77
+211,2026-02-20,Zarqa,Desktop,Paid Ads,Card,3,0,0,0,0.0
+212,2026-03-19,Aqaba,Desktop,Paid Ads,Wallet,5,1,1,1,44.25
+213,2026-03-07,Zarqa,Desktop,Email,Wallet,2,1,1,1,59.48
+214,2026-03-10,Zarqa,Desktop,Organic,Cash,4,1,1,0,0.0
+215,2026-03-16,Amman,Desktop,Instagram,Wallet,3,0,0,0,0.0
+216,2026-03-16,Aqaba,Mobile,Paid Ads,Card,5,1,1,1,33.83
+217,2026-03-15,Irbid,Desktop,Email,Wallet,1,1,1,1,27.71
+218,2026-03-02,Aqaba,Desktop,Instagram,Card,1,1,1,1,59.9
+219,2026-02-28,Zarqa,Desktop,Paid Ads,Card,5,1,1,1,44.65
+220,2026-02-05,Zarqa,Desktop,Paid Ads,Wallet,5,1,0,0,0.0
+221,2026-03-04,Zarqa,Desktop,Organic,Wallet,3,1,1,0,0.0
+222,2026-03-28,Zarqa,Mobile,Instagram,Card,5,1,0,0,0.0
+223,2026-02-06,Irbid,Desktop,Email,Wallet,1,1,1,1,31.35
+224,2026-02-04,Irbid,Mobile,Organic,Card,2,1,1,1,7.79
+225,2026-02-22,Irbid,Desktop,TikTok,Cash,3,1,1,1,5.28
+226,2026-03-25,Zarqa,Desktop,Instagram,Wallet,2,0,0,0,0.0
+227,2026-01-08,Amman,Mobile,TikTok,Card,1,1,1,1,51.77
+228,2026-01-05,Irbid,Desktop,Organic,Card,4,0,0,0,0.0
+229,2026-02-08,Zarqa,Desktop,TikTok,Wallet,5,1,0,0,0.0
+230,2026-03-11,Aqaba,Desktop,Paid Ads,Card,5,1,0,0,0.0
+231,2026-02-12,Zarqa,Desktop,Email,Wallet,2,1,1,1,5.77
+232,2026-01-25,Zarqa,Mobile,TikTok,Wallet,2,1,1,1,28.52
+233,2026-01-13,Aqaba,Desktop,Paid Ads,Card,2,0,0,0,0.0
+234,2026-02-03,Zarqa,Mobile,Instagram,Wallet,4,1,1,0,0.0
+235,2026-02-16,Zarqa,Mobile,Instagram,Cash,2,1,1,1,27.3
+236,2026-03-20,Zarqa,Desktop,Email,Cash,2,1,1,1,46.13
+237,2026-03-10,Amman,Desktop,Email,Wallet,2,0,0,0,0.0
+238,2026-02-16,Amman,Mobile,Email,Wallet,1,0,0,0,0.0
+239,2026-01-26,Irbid,Desktop,Organic,Wallet,5,1,1,1,29.3
+240,2026-02-27,Aqaba,Desktop,Organic,Cash,1,1,1,1,8.18
+241,2026-02-02,Amman,Mobile,Organic,Cash,1,1,1,1,23.95
+242,2026-01-05,Aqaba,Desktop,TikTok,Cash,3,1,1,1,58.81
+243,2026-02-18,Irbid,Desktop,Organic,Card,4,1,0,0,0.0
+244,2026-03-10,Amman,Desktop,TikTok,Wallet,4,1,1,1,5.19
+245,2026-03-11,Zarqa,Mobile,Organic,Card,4,1,1,1,24.04
+246,2026-03-26,Amman,Mobile,Paid Ads,Card,4,1,0,0,0.0
+247,2026-01-13,Amman,Desktop,TikTok,Card,5,1,1,1,7.68
+248,2026-03-11,Amman,Mobile,Email,Cash,2,0,0,0,0.0
+249,2026-01-30,Zarqa,Mobile,Email,Card,5,1,1,1,22.64
+250,2026-02-22,Irbid,Desktop,Email,Cash,3,1,1,1,45.44
+251,2026-01-07,Aqaba,Desktop,TikTok,Cash,3,0,0,0,0.0
+252,2026-01-20,Zarqa,Mobile,TikTok,Card,3,1,1,1,51.71
+253,2026-03-13,Irbid,Desktop,Paid Ads,Cash,4,0,0,0,0.0
+254,2026-01-27,Zarqa,Mobile,Email,Wallet,3,1,0,0,0.0
+255,2026-01-25,Irbid,Mobile,TikTok,Card,1,1,1,1,53.05
+256,2026-02-12,Amman,Mobile,Paid Ads,Wallet,3,0,0,0,0.0
+257,2026-01-16,Irbid,Desktop,Paid Ads,Wallet,4,0,0,0,0.0
+258,2026-02-11,Aqaba,Desktop,Organic,Wallet,3,1,1,1,19.39
+259,2026-03-02,Zarqa,Desktop,TikTok,Card,3,0,0,0,0.0
+260,2026-03-14,Aqaba,Desktop,Paid Ads,Card,2,1,1,1,37.12
+261,2026-02-12,Zarqa,Desktop,TikTok,Wallet,2,1,1,1,41.0
+262,2026-03-24,Aqaba,Mobile,Email,Wallet,4,1,1,1,12.7
+263,2026-01-08,Amman,Desktop,Paid Ads,Wallet,5,1,1,1,41.75
+264,2026-01-30,Aqaba,Desktop,Organic,Card,1,1,1,1,25.53
+265,2026-03-10,Zarqa,Mobile,Email,Wallet,5,1,1,0,0.0
+266,2026-03-28,Irbid,Mobile,Organic,Wallet,4,0,0,0,0.0
+267,2026-01-20,Aqaba,Mobile,Instagram,Cash,2,1,1,1,19.7
+268,2026-02-28,Amman,Mobile,Organic,Cash,5,1,1,1,50.54
+269,2026-02-18,Aqaba,Desktop,Instagram,Wallet,4,1,1,1,14.43
+270,2026-01-13,Irbid,Mobile,Email,Cash,5,0,0,0,0.0
+271,2026-02-04,Zarqa,Mobile,Paid Ads,Cash,1,0,0,0,0.0
+272,2026-01-03,Amman,Desktop,Paid Ads,Wallet,2,1,1,1,26.91
+273,2026-01-31,Aqaba,Desktop,TikTok,Wallet,5,0,0,0,0.0
+274,2026-01-18,Amman,Mobile,TikTok,Card,1,1,0,0,0.0
+275,2026-01-10,Zarqa,Mobile,Instagram,Cash,3,1,1,1,58.29
+276,2026-03-04,Aqaba,Mobile,Email,Wallet,2,1,0,0,0.0
+277,2026-02-18,Zarqa,Mobile,Organic,Card,1,0,0,0,0.0
+278,2026-02-04,Zarqa,Mobile,Organic,Card,2,1,1,1,26.43
+279,2026-02-09,Aqaba,Desktop,Organic,Card,4,1,1,1,15.31
+280,2026-01-12,Amman,Desktop,TikTok,Cash,3,1,1,1,52.5
+281,2026-01-11,Irbid,Mobile,TikTok,Card,5,0,0,0,0.0
+282,2026-01-18,Aqaba,Desktop,TikTok,Card,3,1,1,1,28.91
+283,2026-02-16,Aqaba,Mobile,TikTok,Card,3,0,0,0,0.0
+284,2026-01-18,Zarqa,Desktop,Instagram,Cash,3,1,1,1,25.89
+285,2026-03-25,Irbid,Desktop,Instagram,Card,5,1,1,0,0.0
+286,2026-02-20,Irbid,Desktop,TikTok,Cash,3,1,1,1,36.67
+287,2026-02-20,Amman,Desktop,Paid Ads,Cash,3,1,1,1,35.01
+288,2026-02-07,Aqaba,Desktop,Paid Ads,Wallet,1,0,0,0,0.0
+289,2026-02-08,Aqaba,Desktop,Email,Cash,2,1,1,1,25.73
+290,2026-03-10,Aqaba,Mobile,Instagram,Wallet,5,0,0,0,0.0
+291,2026-03-10,Zarqa,Mobile,Email,Card,5,1,1,0,0.0
+292,2026-03-14,Zarqa,Desktop,Organic,Card,4,0,0,0,0.0
+293,2026-01-13,Irbid,Desktop,Instagram,Cash,3,1,1,1,42.82
+294,2026-03-01,Aqaba,Mobile,Instagram,Cash,5,1,1,0,0.0
+295,2026-01-11,Irbid,Desktop,Instagram,Cash,1,0,0,0,0.0
+296,2026-02-28,Aqaba,Desktop,Organic,Cash,2,1,1,1,44.71
+297,2026-01-06,Irbid,Mobile,Email,Card,1,1,1,1,49.0
+298,2026-02-12,Irbid,Desktop,TikTok,Card,5,1,1,1,39.64
+299,2026-03-20,Zarqa,Mobile,Email,Card,2,1,1,1,16.81
+300,2026-03-10,Aqaba,Desktop,Email,Cash,2,1,1,1,41.89
+301,2026-03-20,Irbid,Desktop,Email,Wallet,4,1,1,0,0.0
+302,2026-01-11,Irbid,Desktop,TikTok,Wallet,2,1,1,1,25.53
+303,2026-01-18,Irbid,Mobile,TikTok,Cash,5,1,1,1,43.14
+304,2026-01-18,Amman,Desktop,Paid Ads,Card,2,1,1,1,24.75
+305,2026-02-19,Aqaba,Desktop,Paid Ads,Card,5,1,1,1,27.86
+306,2026-03-14,Irbid,Desktop,Organic,Cash,1,0,0,0,0.0
+307,2026-01-29,Aqaba,Mobile,Email,Card,5,1,1,1,47.49
+308,2026-02-04,Zarqa,Mobile,TikTok,Wallet,5,0,0,0,0.0
+309,2026-01-28,Amman,Desktop,Instagram,Cash,4,1,1,1,21.37
+310,2026-01-12,Amman,Mobile,Paid Ads,Wallet,4,0,0,0,0.0
+311,2026-03-17,Aqaba,Mobile,Email,Card,3,0,0,0,0.0
+312,2026-01-27,Zarqa,Desktop,Email,Wallet,2,0,0,0,0.0
+313,2026-01-22,Zarqa,Desktop,Email,Cash,3,0,0,0,0.0
+314,2026-03-07,Zarqa,Mobile,Paid Ads,Card,1,1,1,1,8.26
+315,2026-01-19,Aqaba,Desktop,Paid Ads,Wallet,3,0,0,0,0.0
+316,2026-03-22,Amman,Desktop,Email,Wallet,3,1,1,1,48.7
+317,2026-02-05,Amman,Desktop,Instagram,Card,3,1,1,1,52.79
+318,2026-03-10,Zarqa,Desktop,Email,Wallet,4,1,1,1,19.77
+319,2026-01-17,Zarqa,Mobile,Organic,Card,5,0,0,0,0.0
+320,2026-03-22,Irbid,Desktop,TikTok,Card,4,1,0,0,0.0
+321,2026-02-24,Irbid,Desktop,Paid Ads,Cash,2,0,0,0,0.0
+322,2026-01-12,Aqaba,Desktop,Paid Ads,Cash,3,1,1,1,14.1
+323,2026-03-25,Irbid,Desktop,Organic,Card,1,1,1,1,12.3
+324,2026-03-31,Aqaba,Mobile,TikTok,Card,3,0,0,0,0.0
+325,2026-01-30,Zarqa,Mobile,TikTok,Card,4,1,1,1,25.22
+326,2026-03-24,Zarqa,Mobile,Paid Ads,Cash,2,1,1,1,14.03
+327,2026-03-20,Amman,Mobile,Paid Ads,Card,4,0,0,0,0.0
+328,2026-03-17,Irbid,Desktop,Organic,Card,4,1,1,0,0.0
+329,2026-03-12,Amman,Desktop,Paid Ads,Wallet,5,1,1,0,0.0
+330,2026-03-19,Irbid,Desktop,TikTok,Card,5,1,1,1,48.11
+331,2026-01-31,Zarqa,Desktop,Paid Ads,Cash,4,1,1,1,5.66
+332,2026-03-14,Amman,Mobile,Email,Card,4,1,1,0,0.0
+333,2026-01-02,Aqaba,Desktop,Email,Cash,3,1,0,0,0.0
+334,2026-02-24,Zarqa,Mobile,Email,Card,4,1,1,1,20.26
+335,2026-01-20,Amman,Desktop,TikTok,Wallet,5,1,1,1,40.74
+336,2026-01-31,Amman,Desktop,Email,Wallet,1,1,0,0,0.0
+337,2026-01-08,Irbid,Mobile,Paid Ads,Cash,3,1,1,1,5.7
+338,2026-02-14,Zarqa,Mobile,Organic,Cash,5,1,1,1,25.45
+339,2026-02-24,Amman,Desktop,TikTok,Wallet,3,1,1,0,0.0
+340,2026-02-16,Amman,Mobile,Paid Ads,Wallet,1,1,1,1,19.03
+341,2026-03-07,Aqaba,Mobile,Paid Ads,Card,1,1,1,1,30.95
+342,2026-03-12,Zarqa,Desktop,Organic,Wallet,4,1,1,0,0.0
+343,2026-02-17,Irbid,Mobile,Email,Card,1,1,0,0,0.0
+344,2026-02-21,Zarqa,Desktop,Instagram,Card,1,0,0,0,0.0
+345,2026-03-12,Irbid,Desktop,Instagram,Wallet,4,1,1,1,21.72
+346,2026-03-05,Irbid,Mobile,TikTok,Card,2,1,1,0,0.0
+347,2026-01-30,Amman,Desktop,Instagram,Card,5,1,1,1,57.3
+348,2026-01-27,Aqaba,Desktop,Organic,Card,5,0,0,0,0.0
+349,2026-02-05,Zarqa,Desktop,Organic,Wallet,1,1,1,1,27.72
+350,2026-01-13,Aqaba,Mobile,Paid Ads,Cash,5,1,1,1,36.23
+351,2026-02-03,Aqaba,Desktop,Instagram,Cash,3,0,0,0,0.0
+352,2026-02-04,Irbid,Mobile,Paid Ads,Cash,2,1,1,1,37.16
+353,2026-03-01,Irbid,Desktop,Instagram,Cash,3,1,1,0,0.0
+354,2026-02-03,Amman,Mobile,Instagram,Card,1,1,1,1,43.76
+355,2026-01-12,Aqaba,Mobile,Instagram,Cash,2,0,0,0,0.0
+356,2026-01-23,Aqaba,Mobile,Organic,Cash,1,0,0,0,0.0
+357,2026-01-14,Irbid,Desktop,Instagram,Wallet,2,1,1,1,17.23
+358,2026-03-22,Amman,Mobile,Paid Ads,Wallet,1,1,1,0,0.0
+359,2026-02-26,Aqaba,Mobile,Paid Ads,Wallet,2,1,1,1,11.74
+360,2026-02-25,Irbid,Desktop,Instagram,Cash,4,1,1,1,24.47
+361,2026-01-20,Aqaba,Mobile,Organic,Cash,1,1,1,1,32.44
+362,2026-02-19,Amman,Desktop,Instagram,Cash,2,1,1,1,18.7
+363,2026-03-11,Amman,Desktop,Email,Card,4,1,1,1,19.87
+364,2026-01-04,Zarqa,Mobile,Paid Ads,Card,3,1,0,0,0.0
+365,2026-02-01,Irbid,Desktop,Instagram,Card,2,1,1,1,8.07
+366,2026-01-23,Amman,Desktop,Email,Wallet,2,1,1,1,55.27
+367,2026-01-19,Aqaba,Desktop,Paid Ads,Cash,5,0,0,0,0.0
+368,2026-01-05,Zarqa,Mobile,Paid Ads,Cash,1,1,1,1,31.29
+369,2026-01-23,Amman,Desktop,Organic,Cash,3,1,1,1,12.79
+370,2026-03-26,Aqaba,Desktop,Instagram,Card,4,1,1,1,58.67
+371,2026-03-13,Irbid,Mobile,TikTok,Cash,5,0,0,0,0.0
+372,2026-03-30,Aqaba,Mobile,Paid Ads,Wallet,3,1,1,0,0.0
+373,2026-02-10,Amman,Mobile,Instagram,Cash,5,1,1,1,12.74
+374,2026-01-22,Zarqa,Desktop,Organic,Cash,1,0,0,0,0.0
+375,2026-01-27,Amman,Desktop,TikTok,Wallet,2,1,1,1,44.62
+376,2026-02-23,Aqaba,Desktop,Instagram,Wallet,2,0,0,0,0.0
+377,2026-02-18,Irbid,Mobile,TikTok,Card,1,0,0,0,0.0
+378,2026-01-05,Aqaba,Mobile,Organic,Wallet,3,1,1,1,23.8
+379,2026-01-12,Irbid,Desktop,Paid Ads,Card,3,1,1,1,6.7
+380,2026-01-13,Zarqa,Desktop,Instagram,Card,3,1,1,1,44.71
+381,2026-01-13,Amman,Desktop,Organic,Cash,1,1,1,1,8.0
+382,2026-03-26,Amman,Desktop,Organic,Cash,5,1,1,1,40.1
+383,2026-02-20,Irbid,Desktop,TikTok,Cash,4,1,1,1,34.93
+384,2026-01-24,Amman,Mobile,Organic,Card,4,1,1,1,51.04
+385,2026-03-27,Aqaba,Mobile,Email,Card,3,0,0,0,0.0
+386,2026-02-19,Irbid,Desktop,Instagram,Card,5,1,1,1,31.12
+387,2026-02-20,Irbid,Mobile,TikTok,Card,1,1,0,0,0.0
+388,2026-01-22,Irbid,Mobile,TikTok,Card,2,0,0,0,0.0
+389,2026-03-29,Zarqa,Mobile,Organic,Cash,4,1,1,1,37.73
+390,2026-03-13,Amman,Desktop,Organic,Cash,4,1,1,1,55.44
+391,2026-01-20,Amman,Mobile,Email,Card,2,1,1,0,0.0
+392,2026-02-06,Aqaba,Desktop,TikTok,Wallet,5,0,0,0,0.0
+393,2026-03-04,Aqaba,Mobile,TikTok,Cash,5,1,1,1,12.91
+394,2026-03-30,Zarqa,Desktop,Instagram,Cash,2,1,1,1,25.48
+395,2026-03-04,Irbid,Mobile,Instagram,Wallet,1,0,0,0,0.0
+396,2026-02-26,Irbid,Desktop,TikTok,Wallet,3,1,1,1,15.34
+397,2026-02-17,Irbid,Mobile,Paid Ads,Card,1,1,1,1,32.87
+398,2026-01-26,Zarqa,Desktop,TikTok,Wallet,1,1,1,1,43.75
+399,2026-02-20,Aqaba,Desktop,Instagram,Card,1,1,1,1,29.54
+400,2026-02-03,Irbid,Mobile,Paid Ads,Wallet,1,1,1,1,36.47
+401,2026-01-27,Amman,Desktop,Paid Ads,Wallet,3,1,1,1,58.19
+402,2026-01-23,Irbid,Desktop,Email,Cash,5,0,0,0,0.0
+403,2026-03-24,Aqaba,Desktop,Email,Wallet,3,1,1,1,18.86
+404,2026-02-20,Zarqa,Desktop,Instagram,Wallet,5,1,1,1,51.38
+405,2026-01-14,Zarqa,Desktop,Instagram,Wallet,4,1,0,0,0.0
+406,2026-03-25,Aqaba,Desktop,Paid Ads,Wallet,3,1,1,1,8.12
+407,2026-01-04,Zarqa,Desktop,TikTok,Cash,4,0,0,0,0.0
+408,2026-01-05,Irbid,Desktop,Instagram,Wallet,5,1,1,1,44.96
+409,2026-02-08,Irbid,Desktop,Organic,Cash,2,0,0,0,0.0
+410,2026-01-17,Zarqa,Mobile,Paid Ads,Cash,3,1,1,1,57.08
+411,2026-01-29,Zarqa,Desktop,Email,Cash,3,1,0,0,0.0
+412,2026-03-01,Amman,Desktop,Paid Ads,Wallet,1,1,1,1,56.94
+413,2026-01-16,Irbid,Desktop,TikTok,Wallet,4,1,1,1,13.29
+414,2026-02-28,Irbid,Desktop,Organic,Card,2,1,1,1,31.82
+415,2026-02-27,Amman,Mobile,Email,Cash,3,1,1,1,13.71
+416,2026-03-23,Aqaba,Mobile,Organic,Wallet,4,1,0,0,0.0
+417,2026-01-26,Zarqa,Mobile,Organic,Wallet,3,0,0,0,0.0
+418,2026-01-01,Zarqa,Mobile,Organic,Card,2,1,1,1,10.65
+419,2026-02-08,Irbid,Desktop,TikTok,Cash,3,1,1,1,28.85
+420,2026-01-25,Aqaba,Mobile,Paid Ads,Card,2,0,0,0,0.0
+421,2026-01-17,Amman,Desktop,Instagram,Wallet,2,1,1,1,25.16
+422,2026-03-21,Amman,Mobile,TikTok,Cash,1,1,1,1,50.99
+423,2026-02-18,Amman,Desktop,TikTok,Wallet,1,1,1,1,43.24
+424,2026-01-13,Amman,Mobile,Instagram,Card,5,1,1,1,50.69
+425,2026-01-14,Irbid,Desktop,TikTok,Cash,4,1,1,1,33.77
+426,2026-01-21,Aqaba,Desktop,Paid Ads,Card,1,1,0,0,0.0
+427,2026-01-02,Aqaba,Mobile,Organic,Wallet,1,0,0,0,0.0
+428,2026-01-10,Irbid,Desktop,Instagram,Cash,1,0,0,0,0.0
+429,2026-03-01,Zarqa,Desktop,Organic,Card,1,1,1,1,20.98
+430,2026-01-06,Irbid,Desktop,Instagram,Cash,1,0,0,0,0.0
+431,2026-03-21,Amman,Desktop,Instagram,Card,3,0,0,0,0.0
+432,2026-01-15,Aqaba,Desktop,Paid Ads,Card,4,1,1,1,42.94
+433,2026-01-17,Irbid,Mobile,TikTok,Wallet,1,0,0,0,0.0
+434,2026-03-03,Amman,Mobile,TikTok,Cash,5,1,1,1,24.72
+435,2026-01-15,Irbid,Desktop,Email,Wallet,4,1,1,1,5.68
+436,2026-03-30,Aqaba,Mobile,Email,Wallet,5,1,1,1,24.02
+437,2026-01-07,Irbid,Mobile,TikTok,Cash,1,1,1,1,51.85
+438,2026-01-31,Amman,Mobile,Email,Wallet,3,0,0,0,0.0
+439,2026-02-18,Amman,Desktop,TikTok,Wallet,4,0,0,0,0.0
+440,2026-02-27,Aqaba,Desktop,Organic,Cash,1,0,0,0,0.0
+441,2026-03-25,Amman,Desktop,Email,Wallet,1,1,1,1,5.01
+442,2026-01-27,Zarqa,Mobile,Paid Ads,Cash,4,0,0,0,0.0
+443,2026-02-12,Aqaba,Desktop,TikTok,Card,5,0,0,0,0.0
+444,2026-01-13,Zarqa,Mobile,Organic,Card,2,1,1,1,49.0
+445,2026-03-05,Aqaba,Mobile,Instagram,Wallet,2,0,0,0,0.0
+446,2026-01-26,Irbid,Desktop,Organic,Cash,2,1,1,1,50.35
+447,2026-01-06,Aqaba,Mobile,TikTok,Card,5,1,0,0,0.0
+448,2026-03-09,Irbid,Mobile,Paid Ads,Card,1,1,1,1,55.84
+449,2026-02-19,Irbid,Desktop,TikTok,Cash,5,1,1,1,28.03
+450,2026-02-07,Irbid,Desktop,Email,Wallet,4,0,0,0,0.0
+451,2026-03-07,Zarqa,Mobile,Paid Ads,Card,3,0,0,0,0.0
+452,2026-03-21,Irbid,Mobile,Email,Wallet,3,1,0,0,0.0
+453,2026-03-30,Aqaba,Desktop,TikTok,Card,3,1,1,1,37.05
+454,2026-03-08,Irbid,Desktop,Instagram,Card,1,1,1,1,15.99
+455,2026-01-08,Irbid,Desktop,Paid Ads,Wallet,3,1,1,1,29.89
+456,2026-03-31,Zarqa,Mobile,Organic,Wallet,3,1,1,1,27.91
+457,2026-02-02,Zarqa,Mobile,Paid Ads,Cash,2,1,1,1,50.65
+458,2026-02-27,Amman,Mobile,Paid Ads,Wallet,2,0,0,0,0.0
+459,2026-03-07,Zarqa,Mobile,Instagram,Cash,1,1,1,1,12.15
+460,2026-01-20,Zarqa,Desktop,Email,Wallet,1,1,1,1,56.28
+461,2026-02-15,Zarqa,Mobile,Paid Ads,Wallet,1,0,0,0,0.0
+462,2026-01-09,Irbid,Desktop,Instagram,Cash,5,1,1,1,24.22
+463,2026-02-07,Aqaba,Mobile,Organic,Wallet,2,0,0,0,0.0
+464,2026-02-14,Amman,Desktop,TikTok,Card,4,1,1,1,18.41
+465,2026-02-19,Zarqa,Desktop,TikTok,Card,3,1,1,1,50.22
+466,2026-02-07,Amman,Mobile,Paid Ads,Wallet,2,1,1,1,58.44
+467,2026-03-22,Aqaba,Mobile,Paid Ads,Wallet,2,0,0,0,0.0
+468,2026-03-31,Irbid,Mobile,TikTok,Wallet,4,1,0,0,0.0
+469,2026-02-12,Irbid,Desktop,TikTok,Cash,1,1,1,1,35.69
+470,2026-02-27,Amman,Mobile,Organic,Cash,4,1,1,1,34.42
+471,2026-03-06,Aqaba,Desktop,TikTok,Wallet,1,1,1,1,20.48
+472,2026-01-04,Zarqa,Mobile,Instagram,Wallet,4,1,1,1,48.82
+473,2026-03-24,Amman,Mobile,Organic,Card,3,0,0,0,0.0
+474,2026-01-01,Zarqa,Mobile,TikTok,Wallet,5,1,1,1,21.76
+475,2026-03-07,Irbid,Mobile,Paid Ads,Wallet,2,1,1,0,0.0
+476,2026-03-14,Aqaba,Mobile,Instagram,Wallet,1,0,0,0,0.0
+477,2026-01-09,Irbid,Mobile,Organic,Cash,3,1,1,1,23.2
+478,2026-03-21,Zarqa,Desktop,TikTok,Cash,1,0,0,0,0.0
+479,2026-03-20,Aqaba,Mobile,Organic,Cash,3,1,1,1,49.42
+480,2026-02-01,Zarqa,Desktop,TikTok,Cash,2,1,1,1,24.77
+481,2026-02-15,Zarqa,Mobile,Email,Card,3,1,1,1,9.51
+482,2026-02-03,Amman,Desktop,Email,Card,1,1,0,0,0.0
+483,2026-01-05,Aqaba,Mobile,Instagram,Cash,5,1,0,0,0.0
+484,2026-01-29,Aqaba,Desktop,Email,Card,5,1,1,1,33.07
+485,2026-03-26,Irbid,Mobile,TikTok,Card,2,0,0,0,0.0
+486,2026-01-23,Irbid,Desktop,Instagram,Card,5,0,0,0,0.0
+487,2026-01-29,Zarqa,Desktop,TikTok,Cash,4,1,1,1,41.77
+488,2026-01-06,Zarqa,Mobile,Email,Wallet,1,0,0,0,0.0
+489,2026-02-05,Amman,Desktop,TikTok,Card,3,1,1,1,25.82
+490,2026-03-08,Amman,Mobile,TikTok,Card,4,1,1,1,31.52
+491,2026-01-30,Amman,Mobile,TikTok,Cash,1,1,1,1,13.65
+492,2026-01-15,Aqaba,Mobile,Paid Ads,Card,4,1,1,1,40.6
+493,2026-01-17,Irbid,Mobile,Paid Ads,Cash,5,1,1,1,53.99
+494,2026-01-24,Amman,Desktop,Organic,Card,5,0,0,0,0.0
+495,2026-02-27,Aqaba,Mobile,Paid Ads,Cash,5,0,0,0,0.0
+496,2026-03-18,Irbid,Desktop,Paid Ads,Wallet,2,0,0,0,0.0
+497,2026-03-29,Amman,Mobile,TikTok,Cash,3,0,0,0,0.0
+498,2026-01-17,Irbid,Mobile,Paid Ads,Cash,1,1,1,1,42.64
+499,2026-03-20,Aqaba,Mobile,Email,Wallet,5,1,1,1,11.46
+500,2026-01-01,Irbid,Desktop,TikTok,Cash,4,1,1,1,34.14
+501,2026-03-17,Amman,Desktop,Email,Wallet,5,1,1,1,17.79
+502,2026-02-22,Amman,Mobile,TikTok,Wallet,3,1,1,1,36.79
+503,2026-01-27,Zarqa,Desktop,Email,Cash,3,1,1,1,37.2
+504,2026-03-20,Aqaba,Mobile,TikTok,Wallet,3,0,0,0,0.0
+505,2026-03-13,Zarqa,Desktop,Paid Ads,Wallet,4,1,1,1,59.37
+506,2026-01-16,Aqaba,Desktop,Email,Wallet,2,1,1,1,16.8
+507,2026-03-31,Amman,Mobile,Paid Ads,Cash,1,1,0,0,0.0
+508,2026-03-18,Aqaba,Desktop,Email,Wallet,4,1,1,1,38.5
+509,2026-03-08,Irbid,Desktop,TikTok,Card,3,1,1,0,0.0
+510,2026-01-26,Irbid,Mobile,Organic,Cash,5,1,1,1,33.37
+511,2026-01-31,Amman,Desktop,TikTok,Cash,1,0,0,0,0.0
+512,2026-03-27,Amman,Desktop,Email,Wallet,4,1,1,1,43.7
+513,2026-02-14,Zarqa,Mobile,Email,Card,3,0,0,0,0.0
+514,2026-02-28,Amman,Desktop,Instagram,Card,4,1,1,1,10.86
+515,2026-03-07,Zarqa,Desktop,TikTok,Wallet,3,0,0,0,0.0
+516,2026-03-03,Aqaba,Desktop,Email,Card,2,0,0,0,0.0
+517,2026-03-03,Irbid,Mobile,Instagram,Cash,1,1,1,0,0.0
+518,2026-02-15,Aqaba,Desktop,Organic,Wallet,5,1,1,1,20.8
+519,2026-01-23,Irbid,Desktop,Paid Ads,Card,4,1,1,1,15.05
+520,2026-01-31,Irbid,Mobile,Organic,Card,3,1,1,1,39.02
+521,2026-03-28,Aqaba,Desktop,Email,Cash,4,1,1,1,7.32
+522,2026-03-05,Aqaba,Mobile,Email,Cash,5,0,0,0,0.0
+523,2026-02-20,Irbid,Mobile,Email,Cash,2,0,0,0,0.0
+524,2026-03-03,Irbid,Desktop,Organic,Wallet,5,1,1,0,0.0
+525,2026-03-08,Amman,Desktop,Instagram,Wallet,4,1,1,1,25.87
+526,2026-02-03,Zarqa,Mobile,TikTok,Cash,2,1,1,1,38.72
+527,2026-01-27,Irbid,Mobile,Email,Wallet,4,1,1,1,20.38
+528,2026-01-30,Irbid,Mobile,Paid Ads,Cash,1,1,1,1,52.1
+529,2026-01-02,Zarqa,Desktop,Instagram,Cash,2,1,1,1,39.69
+530,2026-03-13,Zarqa,Desktop,Organic,Cash,5,1,1,1,16.85
+531,2026-02-12,Amman,Desktop,Organic,Cash,3,1,1,1,19.17
+532,2026-03-28,Zarqa,Desktop,Instagram,Wallet,5,1,1,1,14.6
+533,2026-03-07,Aqaba,Mobile,TikTok,Wallet,4,0,0,0,0.0
+534,2026-02-06,Zarqa,Desktop,Email,Wallet,4,1,1,1,49.42
+535,2026-02-21,Zarqa,Desktop,Instagram,Cash,1,1,1,1,40.92
+536,2026-02-16,Irbid,Mobile,Instagram,Wallet,5,1,1,1,51.98
+537,2026-03-31,Aqaba,Mobile,Organic,Cash,1,1,1,1,56.52
+538,2026-03-09,Aqaba,Desktop,Paid Ads,Card,1,1,1,1,56.24
+539,2026-02-06,Zarqa,Desktop,TikTok,Cash,4,1,1,1,6.57
+540,2026-03-11,Irbid,Desktop,Email,Cash,3,1,1,0,0.0
+541,2026-03-09,Aqaba,Desktop,Instagram,Cash,5,1,1,1,49.26
+542,2026-02-03,Zarqa,Desktop,TikTok,Wallet,2,1,1,1,51.64
+543,2026-01-02,Aqaba,Desktop,Organic,Cash,4,0,0,0,0.0
+544,2026-02-07,Aqaba,Desktop,Paid Ads,Card,5,1,1,1,27.65
+545,2026-03-24,Irbid,Desktop,Organic,Cash,4,0,0,0,0.0
+546,2026-03-22,Zarqa,Desktop,Email,Cash,2,1,1,1,43.17
+547,2026-02-22,Irbid,Mobile,Instagram,Card,2,0,0,0,0.0
+548,2026-03-23,Amman,Mobile,Organic,Wallet,4,1,1,1,15.33
+549,2026-01-03,Zarqa,Desktop,Paid Ads,Wallet,2,0,0,0,0.0
+550,2026-02-26,Zarqa,Desktop,Instagram,Cash,1,1,1,1,23.81
+551,2026-03-31,Amman,Desktop,TikTok,Card,1,1,1,0,0.0
+552,2026-03-11,Zarqa,Desktop,Organic,Card,4,1,0,0,0.0
+553,2026-02-01,Aqaba,Mobile,Organic,Card,4,0,0,0,0.0
+554,2026-02-28,Aqaba,Desktop,Instagram,Cash,1,1,0,0,0.0
+555,2026-01-21,Zarqa,Mobile,Instagram,Card,1,1,1,1,31.47
+556,2026-03-27,Irbid,Desktop,Instagram,Card,2,0,0,0,0.0
+557,2026-01-22,Aqaba,Mobile,Instagram,Card,3,1,1,1,58.29
+558,2026-02-01,Amman,Mobile,Instagram,Wallet,2,1,1,1,58.33
+559,2026-01-20,Irbid,Desktop,Paid Ads,Cash,5,0,0,0,0.0
+560,2026-03-13,Aqaba,Mobile,Organic,Wallet,3,0,0,0,0.0
+561,2026-02-18,Zarqa,Desktop,Paid Ads,Wallet,3,1,1,1,43.86
+562,2026-01-24,Irbid,Mobile,Email,Card,5,1,1,1,50.72
+563,2026-02-27,Zarqa,Desktop,Organic,Wallet,3,0,0,0,0.0
+564,2026-03-06,Zarqa,Mobile,Instagram,Wallet,4,1,0,0,0.0
+565,2026-01-09,Irbid,Desktop,Email,Card,5,0,0,0,0.0
+566,2026-03-20,Amman,Mobile,Paid Ads,Card,3,1,1,1,33.78
+567,2026-01-05,Aqaba,Desktop,Email,Wallet,2,1,1,1,40.3
+568,2026-03-31,Irbid,Desktop,Organic,Cash,5,1,1,1,8.9
+569,2026-03-23,Zarqa,Mobile,Email,Cash,1,1,1,0,0.0
+570,2026-03-09,Amman,Mobile,Paid Ads,Wallet,1,1,1,1,16.87
+571,2026-02-19,Aqaba,Mobile,Email,Cash,2,1,1,1,57.11
+572,2026-03-28,Aqaba,Desktop,Paid Ads,Wallet,4,1,1,1,48.59
+573,2026-03-18,Zarqa,Desktop,Instagram,Cash,4,0,0,0,0.0
+574,2026-03-23,Zarqa,Mobile,Email,Wallet,4,0,0,0,0.0
+575,2026-01-28,Zarqa,Desktop,TikTok,Cash,4,0,0,0,0.0
+576,2026-02-20,Amman,Mobile,Instagram,Card,1,1,0,0,0.0
+577,2026-02-08,Zarqa,Mobile,Organic,Card,2,1,1,1,56.88
+578,2026-02-28,Zarqa,Desktop,Organic,Wallet,3,1,1,1,18.74
+579,2026-02-21,Amman,Desktop,TikTok,Card,5,0,0,0,0.0
+580,2026-03-04,Amman,Desktop,Organic,Wallet,5,0,0,0,0.0
+581,2026-03-15,Zarqa,Desktop,TikTok,Card,4,1,1,0,0.0
+582,2026-01-30,Aqaba,Mobile,Instagram,Wallet,5,0,0,0,0.0
+583,2026-01-06,Amman,Desktop,TikTok,Wallet,3,1,1,1,17.14
+584,2026-03-15,Irbid,Mobile,Instagram,Card,5,1,1,0,0.0
+585,2026-03-02,Aqaba,Mobile,Paid Ads,Cash,5,1,1,1,26.92
+586,2026-03-13,Irbid,Mobile,Organic,Cash,2,1,1,1,38.88
+587,2026-02-25,Zarqa,Desktop,Paid Ads,Cash,3,1,1,1,27.75
+588,2026-02-14,Aqaba,Mobile,TikTok,Card,5,1,1,1,24.23
+589,2026-01-30,Amman,Mobile,Email,Card,2,1,1,1,9.72
+590,2026-02-06,Zarqa,Mobile,Email,Card,1,1,1,1,30.92
+591,2026-01-27,Irbid,Mobile,TikTok,Wallet,5,1,1,1,45.15
+592,2026-03-26,Zarqa,Mobile,TikTok,Wallet,5,1,1,1,48.41
+593,2026-01-02,Amman,Mobile,Instagram,Wallet,1,1,1,1,41.31
+594,2026-02-19,Amman,Desktop,TikTok,Wallet,2,0,0,0,0.0
+595,2026-03-10,Amman,Mobile,Paid Ads,Wallet,1,1,1,1,55.95
+596,2026-02-09,Zarqa,Desktop,Paid Ads,Wallet,3,1,1,1,42.64
+597,2026-02-05,Amman,Desktop,Paid Ads,Card,1,1,1,1,49.82
+598,2026-02-13,Irbid,Desktop,Paid Ads,Wallet,4,1,1,1,57.83
+599,2026-01-20,Zarqa,Desktop,Email,Card,4,0,0,0,0.0
+600,2026-01-27,Irbid,Desktop,Paid Ads,Wallet,2,1,1,1,12.6
+601,2026-03-14,Amman,Mobile,Instagram,Card,2,1,1,0,0.0
+602,2026-01-04,Aqaba,Desktop,Instagram,Cash,3,0,0,0,0.0
+603,2026-03-23,Zarqa,Mobile,Email,Card,3,1,1,1,6.44
+604,2026-01-30,Aqaba,Desktop,Paid Ads,Cash,1,1,1,1,32.63
+605,2026-03-04,Amman,Desktop,TikTok,Card,4,1,1,1,47.05
+606,2026-03-27,Amman,Mobile,TikTok,Wallet,2,0,0,0,0.0
+607,2026-03-04,Irbid,Desktop,TikTok,Card,3,0,0,0,0.0
+608,2026-03-19,Amman,Mobile,TikTok,Cash,4,1,1,0,0.0
+609,2026-01-06,Amman,Mobile,Instagram,Cash,2,1,1,1,35.67
+610,2026-02-20,Zarqa,Desktop,Paid Ads,Cash,3,0,0,0,0.0
+611,2026-02-07,Irbid,Desktop,TikTok,Card,5,0,0,0,0.0
+612,2026-03-06,Irbid,Desktop,TikTok,Cash,1,1,1,0,0.0
+613,2026-02-27,Aqaba,Mobile,Instagram,Cash,1,1,1,1,16.11
+614,2026-03-30,Zarqa,Mobile,Email,Wallet,2,1,1,1,29.72
+615,2026-02-19,Irbid,Desktop,Email,Wallet,5,1,1,1,7.41
+616,2026-01-20,Irbid,Mobile,TikTok,Cash,2,0,0,0,0.0
+617,2026-02-09,Amman,Desktop,Organic,Cash,4,1,1,1,57.82
+618,2026-03-05,Irbid,Mobile,Email,Wallet,4,1,1,0,0.0
+619,2026-03-02,Zarqa,Mobile,Organic,Card,4,1,1,1,18.46
+620,2026-01-19,Zarqa,Desktop,Organic,Card,1,1,1,1,41.68
+621,2026-01-14,Irbid,Desktop,Email,Wallet,4,0,0,0,0.0
+622,2026-03-30,Zarqa,Mobile,Organic,Cash,5,1,1,0,0.0
+623,2026-02-11,Amman,Desktop,Email,Card,3,0,0,0,0.0
+624,2026-02-07,Irbid,Mobile,Email,Card,4,1,1,1,33.99
+625,2026-01-14,Aqaba,Desktop,TikTok,Wallet,5,1,1,0,0.0
+626,2026-02-10,Zarqa,Mobile,Email,Wallet,3,1,0,0,0.0
+627,2026-03-05,Irbid,Desktop,Paid Ads,Card,5,1,1,0,0.0
+628,2026-01-16,Aqaba,Desktop,Organic,Cash,1,1,1,1,16.4
+629,2026-02-14,Irbid,Mobile,Paid Ads,Wallet,5,0,0,0,0.0
+630,2026-02-06,Zarqa,Desktop,Email,Wallet,3,0,0,0,0.0
+631,2026-02-11,Amman,Mobile,Paid Ads,Cash,1,1,1,1,36.29
+632,2026-02-13,Amman,Mobile,TikTok,Card,4,0,0,0,0.0
+633,2026-03-22,Zarqa,Desktop,TikTok,Wallet,4,0,0,0,0.0
+634,2026-01-08,Irbid,Desktop,Instagram,Card,5,1,1,1,34.47
+635,2026-01-20,Zarqa,Desktop,Email,Card,3,0,0,0,0.0
+636,2026-03-15,Zarqa,Desktop,Organic,Cash,5,1,1,0,0.0
+637,2026-02-22,Irbid,Desktop,Paid Ads,Card,1,1,1,1,57.29
+638,2026-02-17,Amman,Desktop,Email,Card,1,0,0,0,0.0
+639,2026-03-03,Zarqa,Desktop,Paid Ads,Card,5,1,1,1,53.06
+640,2026-03-08,Amman,Mobile,Instagram,Card,2,1,1,1,52.56
+641,2026-03-29,Zarqa,Desktop,Organic,Card,5,0,0,0,0.0
+642,2026-03-08,Irbid,Mobile,Instagram,Cash,3,1,1,1,16.54
+643,2026-03-10,Amman,Desktop,Paid Ads,Card,3,0,0,0,0.0
+644,2026-02-05,Zarqa,Desktop,Instagram,Card,1,1,1,1,16.36
+645,2026-02-06,Aqaba,Mobile,Paid Ads,Card,5,1,1,1,23.63
+646,2026-03-02,Aqaba,Desktop,Instagram,Cash,1,1,1,1,14.84
+647,2026-01-26,Aqaba,Mobile,Organic,Wallet,5,1,0,0,0.0
+648,2026-03-01,Irbid,Mobile,Paid Ads,Wallet,1,1,1,1,30.6
+649,2026-02-03,Zarqa,Desktop,TikTok,Card,3,1,1,1,48.38
+650,2026-01-09,Zarqa,Mobile,Email,Card,4,1,1,1,20.52
+651,2026-02-21,Aqaba,Desktop,Paid Ads,Wallet,1,1,1,1,34.3
+652,2026-02-01,Aqaba,Desktop,Email,Cash,5,1,1,1,16.45
+653,2026-03-11,Aqaba,Mobile,Email,Wallet,2,1,1,0,0.0
+654,2026-03-01,Amman,Mobile,Email,Cash,3,1,1,1,57.57
+655,2026-02-11,Amman,Mobile,Paid Ads,Cash,4,1,1,1,12.64
+656,2026-03-10,Zarqa,Desktop,Email,Wallet,3,1,1,1,42.48
+657,2026-02-08,Amman,Mobile,Email,Wallet,4,1,0,0,0.0
+658,2026-02-21,Amman,Desktop,Email,Card,2,0,0,0,0.0
+659,2026-01-01,Zarqa,Mobile,Instagram,Card,5,0,0,0,0.0
+660,2026-01-31,Aqaba,Desktop,Email,Card,4,1,1,1,26.05
+661,2026-03-26,Aqaba,Mobile,Instagram,Wallet,2,1,1,1,55.85
+662,2026-01-17,Aqaba,Mobile,Organic,Card,2,1,1,1,53.67
+663,2026-03-24,Aqaba,Mobile,TikTok,Wallet,4,0,0,0,0.0
+664,2026-02-24,Aqaba,Desktop,Paid Ads,Card,5,0,0,0,0.0
+665,2026-02-24,Zarqa,Desktop,Email,Wallet,5,1,1,1,44.17
+666,2026-02-16,Aqaba,Desktop,Organic,Wallet,1,0,0,0,0.0
+667,2026-03-03,Zarqa,Desktop,Email,Card,1,1,1,0,0.0
+668,2026-03-08,Amman,Desktop,Email,Card,5,1,1,0,0.0
+669,2026-02-13,Aqaba,Desktop,Email,Cash,5,0,0,0,0.0
+670,2026-03-15,Zarqa,Desktop,Paid Ads,Card,3,1,0,0,0.0
+671,2026-03-30,Aqaba,Mobile,Email,Card,5,1,1,1,8.38
+672,2026-03-26,Amman,Desktop,TikTok,Card,3,0,0,0,0.0
+673,2026-01-17,Zarqa,Desktop,Organic,Wallet,5,1,1,1,38.87
+674,2026-01-15,Irbid,Desktop,Paid Ads,Cash,5,1,1,1,29.57
+675,2026-01-24,Zarqa,Mobile,Paid Ads,Wallet,5,0,0,0,0.0
+676,2026-01-20,Aqaba,Desktop,Paid Ads,Wallet,4,0,0,0,0.0
+677,2026-02-26,Amman,Mobile,Paid Ads,Cash,2,1,1,1,40.32
+678,2026-02-21,Aqaba,Desktop,TikTok,Cash,4,1,1,1,34.29
+679,2026-01-19,Amman,Desktop,TikTok,Cash,5,0,0,0,0.0
+680,2026-03-28,Amman,Mobile,Email,Wallet,3,0,0,0,0.0
+681,2026-02-15,Amman,Desktop,Email,Cash,4,1,1,1,19.87
+682,2026-03-01,Irbid,Desktop,Email,Card,2,1,1,1,23.56
+683,2026-03-28,Amman,Desktop,Organic,Wallet,1,0,0,0,0.0
+684,2026-01-14,Amman,Mobile,Email,Wallet,4,1,1,1,6.87
+685,2026-01-28,Irbid,Desktop,Email,Card,5,1,1,1,52.1
+686,2026-01-15,Zarqa,Desktop,Instagram,Cash,2,1,1,1,40.13
+687,2026-01-21,Zarqa,Desktop,Paid Ads,Cash,1,1,1,1,59.78
+688,2026-01-09,Irbid,Desktop,Paid Ads,Wallet,4,0,0,0,0.0
+689,2026-03-04,Aqaba,Desktop,Organic,Card,1,1,1,1,40.38
+690,2026-01-10,Irbid,Mobile,Organic,Wallet,1,1,1,1,54.31
+691,2026-02-19,Aqaba,Desktop,TikTok,Cash,3,1,1,1,5.2
+692,2026-01-09,Amman,Desktop,Instagram,Wallet,5,1,1,1,47.89
+693,2026-02-08,Amman,Desktop,Email,Cash,4,1,0,0,0.0
+694,2026-01-11,Zarqa,Mobile,Paid Ads,Wallet,4,0,0,0,0.0
+695,2026-01-06,Zarqa,Desktop,Organic,Wallet,4,1,1,1,10.87
+696,2026-02-26,Aqaba,Desktop,Organic,Wallet,2,1,1,1,37.61
+697,2026-03-24,Aqaba,Mobile,Organic,Cash,3,1,0,0,0.0
+698,2026-01-08,Amman,Desktop,Organic,Card,3,0,0,0,0.0
+699,2026-03-25,Irbid,Mobile,Organic,Card,5,1,1,0,0.0
+700,2026-01-19,Irbid,Mobile,Paid Ads,Wallet,4,1,1,1,7.52
+701,2026-01-07,Amman,Desktop,Email,Card,3,0,0,0,0.0
+702,2026-03-17,Amman,Mobile,TikTok,Wallet,1,0,0,0,0.0
+703,2026-03-20,Aqaba,Desktop,Organic,Wallet,2,1,1,1,50.97
+704,2026-03-15,Amman,Mobile,Instagram,Card,5,1,1,0,0.0
+705,2026-01-16,Aqaba,Mobile,Email,Card,3,1,1,1,35.44
+706,2026-01-18,Aqaba,Mobile,Organic,Cash,1,0,0,0,0.0
+707,2026-01-11,Zarqa,Desktop,TikTok,Wallet,1,1,0,0,0.0
+708,2026-01-17,Irbid,Mobile,Email,Card,2,1,1,1,18.16
+709,2026-03-05,Zarqa,Desktop,TikTok,Card,5,0,0,0,0.0
+710,2026-03-13,Amman,Desktop,Email,Wallet,2,1,0,0,0.0
+711,2026-01-29,Irbid,Desktop,Organic,Card,4,0,0,0,0.0
+712,2026-01-15,Aqaba,Desktop,Paid Ads,Card,2,1,0,0,0.0
+713,2026-03-27,Aqaba,Mobile,Organic,Wallet,1,1,1,1,18.83
+714,2026-01-07,Irbid,Desktop,Email,Wallet,5,1,1,1,11.38
+715,2026-02-11,Zarqa,Mobile,Organic,Card,4,1,1,1,47.84
+716,2026-02-22,Aqaba,Mobile,Paid Ads,Wallet,2,1,1,1,31.64
+717,2026-02-28,Zarqa,Mobile,Instagram,Card,2,1,1,1,39.76
+718,2026-01-05,Irbid,Desktop,Paid Ads,Cash,5,1,1,1,30.22
+719,2026-03-19,Irbid,Mobile,Organic,Cash,2,0,0,0,0.0
+720,2026-03-08,Irbid,Desktop,TikTok,Cash,4,0,0,0,0.0
+721,2026-01-02,Irbid,Mobile,TikTok,Card,4,1,1,1,36.87
+722,2026-01-06,Amman,Desktop,TikTok,Card,4,1,1,1,26.69
+723,2026-01-11,Aqaba,Mobile,Paid Ads,Cash,5,0,0,0,0.0
+724,2026-02-07,Aqaba,Mobile,TikTok,Cash,2,1,1,1,21.77
+725,2026-01-18,Amman,Mobile,TikTok,Wallet,4,1,1,1,43.71
+726,2026-02-12,Irbid,Mobile,Email,Cash,5,1,1,1,57.04
+727,2026-01-08,Zarqa,Mobile,Organic,Cash,5,0,0,0,0.0
+728,2026-02-16,Amman,Mobile,Paid Ads,Cash,4,1,1,1,35.73
+729,2026-01-31,Irbid,Mobile,Instagram,Cash,5,1,1,1,36.91
+730,2026-02-04,Aqaba,Mobile,TikTok,Wallet,5,1,1,1,23.99
+731,2026-03-10,Aqaba,Desktop,Organic,Card,5,0,0,0,0.0
+732,2026-02-28,Zarqa,Mobile,Organic,Card,1,1,0,0,0.0
+733,2026-02-05,Amman,Desktop,TikTok,Wallet,1,1,1,1,33.64
+734,2026-03-11,Amman,Desktop,Paid Ads,Card,2,1,1,0,0.0
+735,2026-01-03,Zarqa,Desktop,Email,Cash,2,0,0,0,0.0
+736,2026-03-25,Aqaba,Desktop,Email,Card,3,1,1,1,35.17
+737,2026-02-09,Irbid,Desktop,Instagram,Cash,2,0,0,0,0.0
+738,2026-01-07,Zarqa,Mobile,Paid Ads,Wallet,2,1,1,1,55.83
+739,2026-03-30,Irbid,Desktop,Instagram,Cash,2,1,1,0,0.0
+740,2026-01-24,Zarqa,Desktop,Email,Card,2,1,1,1,23.91
+741,2026-03-10,Irbid,Desktop,Instagram,Card,3,1,1,0,0.0
+742,2026-01-01,Zarqa,Desktop,TikTok,Cash,5,0,0,0,0.0
+743,2026-03-15,Aqaba,Desktop,Organic,Wallet,2,0,0,0,0.0
+744,2026-03-03,Irbid,Desktop,Instagram,Card,1,1,1,1,27.09
+745,2026-02-11,Zarqa,Mobile,Organic,Card,1,1,1,1,47.97
+746,2026-03-10,Aqaba,Mobile,TikTok,Cash,4,1,0,0,0.0
+747,2026-03-19,Aqaba,Desktop,TikTok,Cash,5,1,1,1,26.87
+748,2026-01-02,Irbid,Desktop,TikTok,Cash,3,1,1,1,35.86
+749,2026-02-06,Aqaba,Desktop,Paid Ads,Wallet,2,0,0,0,0.0
+750,2026-03-18,Zarqa,Mobile,Email,Cash,1,1,1,0,0.0
+751,2026-01-12,Aqaba,Mobile,Email,Cash,1,1,0,0,0.0
+752,2026-03-14,Zarqa,Desktop,TikTok,Wallet,2,1,1,1,31.98
+753,2026-03-01,Aqaba,Mobile,Instagram,Cash,2,1,1,1,57.58
+754,2026-01-23,Irbid,Mobile,Organic,Cash,4,0,0,0,0.0
+755,2026-03-05,Zarqa,Desktop,Organic,Cash,1,1,1,1,28.98
+756,2026-03-07,Aqaba,Mobile,Instagram,Card,5,1,1,1,13.04
+757,2026-01-07,Amman,Desktop,Instagram,Wallet,3,1,1,0,0.0
+758,2026-03-23,Irbid,Desktop,Instagram,Wallet,1,1,1,1,10.2
+759,2026-02-08,Irbid,Mobile,Paid Ads,Wallet,3,1,1,1,36.9
+760,2026-02-06,Aqaba,Desktop,Paid Ads,Card,3,0,0,0,0.0
+761,2026-01-28,Amman,Desktop,TikTok,Card,2,1,1,1,35.73
+762,2026-01-15,Aqaba,Desktop,Instagram,Wallet,2,0,0,0,0.0
+763,2026-02-16,Zarqa,Mobile,Instagram,Card,2,0,0,0,0.0
+764,2026-01-16,Irbid,Mobile,Organic,Cash,2,1,1,1,21.91
+765,2026-03-30,Amman,Mobile,Organic,Card,1,1,1,0,0.0
+766,2026-03-26,Amman,Mobile,Instagram,Wallet,5,1,1,0,0.0
+767,2026-01-02,Irbid,Mobile,Paid Ads,Wallet,1,0,0,0,0.0
+768,2026-02-14,Zarqa,Desktop,Paid Ads,Wallet,1,1,1,1,57.18
+769,2026-03-20,Amman,Mobile,Paid Ads,Cash,2,1,1,0,0.0
+770,2026-01-22,Aqaba,Desktop,Email,Card,5,1,1,1,55.63
+771,2026-02-26,Irbid,Desktop,Organic,Cash,1,1,1,1,16.79
+772,2026-01-16,Amman,Mobile,Instagram,Cash,4,1,1,1,43.76
+773,2026-01-15,Aqaba,Mobile,Email,Cash,4,1,1,1,58.69
+774,2026-02-07,Zarqa,Mobile,Organic,Wallet,4,1,1,1,31.16
+775,2026-03-04,Aqaba,Desktop,Email,Card,1,1,1,1,11.56
+776,2026-01-22,Aqaba,Mobile,Paid Ads,Cash,1,1,1,1,51.42
+777,2026-03-05,Zarqa,Desktop,Instagram,Cash,3,0,0,0,0.0
+778,2026-03-27,Aqaba,Desktop,Paid Ads,Cash,5,0,0,0,0.0
+779,2026-01-14,Amman,Mobile,Organic,Cash,1,1,1,1,12.4
+780,2026-03-28,Aqaba,Desktop,Paid Ads,Cash,1,0,0,0,0.0
+781,2026-03-21,Aqaba,Desktop,Paid Ads,Cash,5,1,1,0,0.0
+782,2026-03-26,Amman,Mobile,TikTok,Card,4,1,1,1,52.28
+783,2026-02-19,Zarqa,Mobile,TikTok,Cash,4,1,1,1,6.81
+784,2026-01-18,Aqaba,Desktop,Email,Card,3,1,1,1,42.13
+785,2026-03-06,Zarqa,Desktop,Instagram,Card,1,1,1,0,0.0
+786,2026-01-04,Amman,Desktop,TikTok,Card,5,1,1,1,45.81
+787,2026-02-24,Aqaba,Desktop,Organic,Wallet,3,0,0,0,0.0
+788,2026-02-01,Zarqa,Mobile,Instagram,Card,2,1,1,1,42.84
+789,2026-01-03,Aqaba,Desktop,Organic,Wallet,5,1,1,1,36.24
+790,2026-03-02,Amman,Desktop,Organic,Wallet,5,1,1,1,22.73
+791,2026-03-28,Zarqa,Mobile,Email,Cash,2,1,1,0,0.0
+792,2026-02-16,Amman,Mobile,Instagram,Cash,4,1,1,0,0.0
+793,2026-01-07,Aqaba,Mobile,Email,Wallet,3,0,0,0,0.0
+794,2026-01-12,Aqaba,Desktop,Paid Ads,Cash,5,1,1,1,49.07
+795,2026-01-10,Aqaba,Desktop,Instagram,Wallet,3,1,1,1,22.23
+796,2026-03-07,Irbid,Desktop,Paid Ads,Wallet,4,1,1,0,0.0
+797,2026-03-01,Aqaba,Mobile,Email,Card,3,0,0,0,0.0
+798,2026-02-16,Aqaba,Desktop,Instagram,Card,4,1,1,1,21.52
+799,2026-03-23,Zarqa,Desktop,Paid Ads,Cash,2,0,0,0,0.0
+800,2026-03-29,Zarqa,Desktop,TikTok,Wallet,5,1,1,1,6.52
+801,2026-02-25,Zarqa,Desktop,Email,Card,4,1,1,1,12.5
+802,2026-03-24,Aqaba,Mobile,Organic,Card,1,0,0,0,0.0
+803,2026-02-10,Zarqa,Mobile,TikTok,Wallet,5,1,1,0,0.0
+804,2026-01-18,Zarqa,Desktop,Organic,Card,2,1,1,1,33.71
+805,2026-03-18,Zarqa,Desktop,Email,Wallet,1,0,0,0,0.0
+806,2026-02-19,Irbid,Mobile,Organic,Card,2,0,0,0,0.0
+807,2026-01-28,Zarqa,Mobile,Instagram,Wallet,3,1,1,1,31.97
+808,2026-02-24,Irbid,Desktop,TikTok,Wallet,4,1,0,0,0.0
+809,2026-02-17,Amman,Mobile,Paid Ads,Cash,3,1,0,0,0.0
+810,2026-03-12,Zarqa,Mobile,Email,Card,4,1,0,0,0.0
+811,2026-02-26,Zarqa,Desktop,Organic,Card,4,1,0,0,0.0
+812,2026-02-08,Irbid,Desktop,Instagram,Wallet,2,0,0,0,0.0
+813,2026-02-22,Aqaba,Desktop,TikTok,Card,1,1,1,1,32.04
+814,2026-01-21,Zarqa,Desktop,Organic,Card,3,1,1,1,49.74
+815,2026-03-24,Zarqa,Desktop,Email,Card,2,1,1,1,27.04
+816,2026-01-15,Irbid,Desktop,Instagram,Cash,2,1,1,1,40.7
+817,2026-03-03,Zarqa,Mobile,Organic,Cash,2,1,1,0,0.0
+818,2026-02-17,Amman,Mobile,Email,Wallet,2,1,1,1,36.37
+819,2026-03-20,Aqaba,Mobile,Instagram,Wallet,2,0,0,0,0.0
+820,2026-01-22,Zarqa,Mobile,Email,Card,1,1,1,1,9.9
+821,2026-01-02,Aqaba,Desktop,Organic,Card,5,1,0,0,0.0
+822,2026-01-27,Zarqa,Desktop,TikTok,Cash,2,0,0,0,0.0
+823,2026-01-17,Irbid,Desktop,Paid Ads,Cash,4,0,0,0,0.0
+824,2026-01-24,Amman,Desktop,Instagram,Card,4,0,0,0,0.0
+825,2026-03-21,Zarqa,Desktop,Organic,Card,4,0,0,0,0.0
+826,2026-03-02,Aqaba,Mobile,TikTok,Wallet,2,0,0,0,0.0
+827,2026-02-24,Irbid,Desktop,Instagram,Wallet,5,1,1,1,23.31
+828,2026-03-27,Aqaba,Desktop,TikTok,Wallet,5,1,1,1,32.75
+829,2026-02-17,Amman,Mobile,Instagram,Card,2,0,0,0,0.0
+830,2026-03-06,Aqaba,Mobile,Organic,Cash,4,0,0,0,0.0
+831,2026-03-09,Zarqa,Desktop,TikTok,Cash,4,1,1,1,12.03
+832,2026-02-03,Zarqa,Desktop,TikTok,Card,5,0,0,0,0.0
+833,2026-02-10,Irbid,Desktop,Organic,Card,4,0,0,0,0.0
+834,2026-01-20,Aqaba,Mobile,TikTok,Card,1,1,1,1,43.83
+835,2026-02-26,Aqaba,Desktop,TikTok,Card,3,0,0,0,0.0
+836,2026-01-19,Zarqa,Mobile,Email,Card,1,1,1,1,50.92
+837,2026-03-09,Irbid,Desktop,Organic,Cash,5,1,0,0,0.0
+838,2026-01-04,Amman,Desktop,Paid Ads,Card,3,1,1,1,37.47
+839,2026-01-11,Aqaba,Desktop,Instagram,Wallet,4,0,0,0,0.0
+840,2026-03-26,Irbid,Mobile,Organic,Wallet,1,1,1,1,29.92
+841,2026-02-06,Amman,Desktop,Organic,Cash,3,0,0,0,0.0
+842,2026-02-02,Irbid,Mobile,TikTok,Cash,2,1,1,1,6.13
+843,2026-02-06,Zarqa,Mobile,Instagram,Wallet,2,1,1,1,49.35
+844,2026-01-13,Aqaba,Mobile,TikTok,Cash,3,1,1,1,31.2
+845,2026-03-20,Aqaba,Mobile,Paid Ads,Cash,2,1,1,1,23.8
+846,2026-03-09,Zarqa,Mobile,Paid Ads,Wallet,5,1,1,1,49.08
+847,2026-02-08,Amman,Mobile,Email,Cash,2,1,1,1,9.21
+848,2026-02-22,Amman,Mobile,Organic,Wallet,1,1,1,1,24.55
+849,2026-03-26,Zarqa,Desktop,Email,Wallet,4,1,1,1,9.58
+850,2026-02-28,Irbid,Mobile,Paid Ads,Card,4,1,1,0,0.0
+851,2026-03-19,Amman,Desktop,Email,Card,3,0,0,0,0.0
+852,2026-01-01,Aqaba,Desktop,Email,Wallet,4,1,1,1,43.05
+853,2026-02-16,Amman,Mobile,Paid Ads,Card,4,0,0,0,0.0
+854,2026-01-25,Irbid,Mobile,Paid Ads,Cash,1,0,0,0,0.0
+855,2026-03-25,Irbid,Mobile,Instagram,Cash,2,1,1,1,48.45
+856,2026-01-19,Aqaba,Desktop,TikTok,Card,4,1,1,1,45.63
+857,2026-02-27,Zarqa,Mobile,Organic,Wallet,5,1,1,1,26.55
+858,2026-02-25,Zarqa,Mobile,TikTok,Cash,4,0,0,0,0.0
+859,2026-03-04,Aqaba,Mobile,Organic,Wallet,5,1,1,1,49.92
+860,2026-01-03,Aqaba,Mobile,TikTok,Wallet,4,1,1,1,40.66
+861,2026-03-24,Aqaba,Desktop,TikTok,Card,3,1,1,1,44.94
+862,2026-03-06,Aqaba,Mobile,Instagram,Wallet,2,1,1,0,0.0
+863,2026-02-19,Zarqa,Desktop,Paid Ads,Wallet,4,0,0,0,0.0
+864,2026-01-27,Irbid,Desktop,Organic,Cash,3,1,1,1,14.53
+865,2026-03-05,Zarqa,Desktop,Instagram,Wallet,3,1,1,0,0.0
+866,2026-01-21,Amman,Mobile,Instagram,Cash,2,0,0,0,0.0
+867,2026-01-15,Zarqa,Mobile,Email,Cash,5,1,1,1,59.65
+868,2026-01-20,Aqaba,Mobile,Organic,Wallet,5,1,1,1,57.04
+869,2026-03-20,Amman,Mobile,Paid Ads,Wallet,1,0,0,0,0.0
+870,2026-01-16,Irbid,Desktop,TikTok,Wallet,2,0,0,0,0.0
+871,2026-03-05,Amman,Mobile,TikTok,Cash,1,1,1,0,0.0
+872,2026-01-01,Aqaba,Desktop,Instagram,Wallet,2,0,0,0,0.0
+873,2026-01-22,Irbid,Mobile,Email,Cash,1,1,1,1,39.62
+874,2026-01-30,Aqaba,Desktop,TikTok,Wallet,2,0,0,0,0.0
+875,2026-03-29,Aqaba,Mobile,Organic,Wallet,3,0,0,0,0.0
+876,2026-03-08,Irbid,Desktop,Organic,Cash,1,1,1,0,0.0
+877,2026-01-05,Amman,Desktop,TikTok,Cash,2,0,0,0,0.0
+878,2026-03-29,Zarqa,Desktop,Organic,Cash,5,0,0,0,0.0
+879,2026-03-09,Aqaba,Desktop,Paid Ads,Wallet,5,0,0,0,0.0
+880,2026-03-21,Aqaba,Mobile,Instagram,Card,5,1,1,0,0.0
+881,2026-01-05,Zarqa,Mobile,Organic,Wallet,5,1,1,1,11.93
+882,2026-03-12,Zarqa,Mobile,Instagram,Wallet,3,1,1,1,6.53
+883,2026-02-24,Zarqa,Mobile,Organic,Wallet,5,1,1,1,39.48
+884,2026-01-16,Irbid,Desktop,Instagram,Cash,4,1,1,1,59.06
+885,2026-03-27,Zarqa,Mobile,Instagram,Cash,5,1,1,1,18.62
+886,2026-01-13,Irbid,Desktop,Paid Ads,Cash,2,1,1,1,8.42
+887,2026-01-10,Zarqa,Desktop,TikTok,Cash,3,1,1,1,47.84
+888,2026-03-30,Aqaba,Desktop,Paid Ads,Wallet,4,1,1,1,32.82
+889,2026-03-07,Zarqa,Mobile,Email,Cash,5,1,1,1,46.06
+890,2026-01-15,Zarqa,Desktop,Instagram,Cash,1,1,1,1,11.48
+891,2026-03-04,Irbid,Desktop,Organic,Cash,1,0,0,0,0.0
+892,2026-02-06,Amman,Mobile,TikTok,Cash,2,1,1,1,35.11
+893,2026-03-15,Aqaba,Desktop,Email,Card,3,1,0,0,0.0
+894,2026-01-18,Zarqa,Mobile,Email,Wallet,5,1,1,1,13.19
+895,2026-03-21,Zarqa,Mobile,TikTok,Wallet,4,1,0,0,0.0
+896,2026-02-05,Amman,Desktop,Email,Wallet,1,0,0,0,0.0
+897,2026-01-16,Amman,Mobile,TikTok,Wallet,5,1,0,0,0.0
+898,2026-01-03,Zarqa,Mobile,Paid Ads,Wallet,1,1,1,0,0.0
+899,2026-03-16,Aqaba,Mobile,Instagram,Cash,4,1,1,1,37.39
+900,2026-01-24,Amman,Mobile,Instagram,Card,4,1,1,1,10.01
+901,2026-01-24,Irbid,Desktop,TikTok,Wallet,3,0,0,0,0.0
+902,2026-01-22,Aqaba,Mobile,Instagram,Card,1,1,1,1,8.22
+903,2026-02-22,Amman,Mobile,Paid Ads,Card,3,1,0,0,0.0
+904,2026-03-18,Zarqa,Mobile,Instagram,Cash,5,1,1,1,57.21
+905,2026-03-12,Amman,Desktop,Email,Wallet,4,1,1,1,55.26
+906,2026-03-28,Zarqa,Desktop,TikTok,Card,1,1,1,0,0.0
+907,2026-03-23,Zarqa,Mobile,Paid Ads,Wallet,5,1,0,0,0.0
+908,2026-02-24,Zarqa,Mobile,Organic,Card,5,1,1,1,50.62
+909,2026-03-03,Irbid,Desktop,Organic,Card,3,1,1,1,24.33
+910,2026-03-10,Zarqa,Desktop,Paid Ads,Wallet,5,1,1,1,50.68
+911,2026-03-06,Zarqa,Desktop,TikTok,Cash,3,0,0,0,0.0
+912,2026-02-01,Irbid,Mobile,Email,Cash,3,1,1,1,5.87
+913,2026-01-01,Aqaba,Mobile,Organic,Wallet,1,1,1,1,43.68
+914,2026-01-04,Zarqa,Desktop,Paid Ads,Wallet,4,1,1,1,50.51
+915,2026-01-02,Aqaba,Mobile,Paid Ads,Wallet,1,1,0,0,0.0
+916,2026-01-03,Zarqa,Mobile,Paid Ads,Cash,3,1,1,1,49.9
+917,2026-02-16,Irbid,Mobile,Paid Ads,Wallet,1,1,0,0,0.0
+918,2026-02-20,Aqaba,Mobile,Email,Card,1,0,0,0,0.0
+919,2026-03-26,Amman,Mobile,Instagram,Wallet,5,1,1,1,37.35
+920,2026-01-30,Zarqa,Desktop,Organic,Cash,5,1,1,1,6.27
+921,2026-03-24,Zarqa,Desktop,TikTok,Cash,1,0,0,0,0.0
+922,2026-01-16,Irbid,Mobile,Instagram,Cash,5,1,1,1,53.61
+923,2026-03-10,Amman,Mobile,TikTok,Card,4,1,1,1,53.41
+924,2026-02-01,Aqaba,Desktop,Organic,Wallet,2,1,1,1,10.32
+925,2026-03-22,Irbid,Mobile,TikTok,Card,3,0,0,0,0.0
+926,2026-02-13,Irbid,Mobile,Email,Wallet,1,0,0,0,0.0
+927,2026-02-26,Amman,Desktop,Instagram,Wallet,1,1,1,1,8.34
+928,2026-01-09,Aqaba,Mobile,Organic,Wallet,2,1,1,1,38.59
+929,2026-01-08,Aqaba,Mobile,Email,Wallet,5,1,1,1,38.95
+930,2026-03-21,Amman,Desktop,Organic,Cash,1,1,1,1,39.11
+931,2026-03-08,Irbid,Mobile,Email,Cash,3,1,1,1,44.23
+932,2026-02-15,Amman,Mobile,Paid Ads,Cash,4,1,1,1,12.57
+933,2026-03-16,Irbid,Mobile,TikTok,Cash,4,1,1,1,37.1
+934,2026-03-19,Irbid,Mobile,Paid Ads,Wallet,3,1,0,0,0.0
+935,2026-03-13,Amman,Desktop,Paid Ads,Wallet,1,1,1,1,54.97
+936,2026-03-02,Zarqa,Desktop,Instagram,Card,4,1,1,1,57.97
+937,2026-01-14,Amman,Desktop,Paid Ads,Card,4,0,0,0,0.0
+938,2026-03-23,Zarqa,Desktop,Paid Ads,Cash,2,1,1,1,31.44
+939,2026-01-24,Zarqa,Desktop,Paid Ads,Wallet,1,1,1,1,11.34
+940,2026-03-16,Zarqa,Mobile,Instagram,Wallet,3,1,1,1,14.58
+941,2026-02-01,Irbid,Desktop,Organic,Cash,2,1,1,1,10.57
+942,2026-01-27,Aqaba,Mobile,Organic,Card,3,1,1,1,14.42
+943,2026-01-17,Irbid,Mobile,Email,Wallet,2,1,1,1,37.98
+944,2026-01-25,Zarqa,Mobile,Email,Wallet,5,1,1,1,39.62
+945,2026-03-04,Amman,Mobile,Email,Cash,2,1,1,0,0.0
+946,2026-03-24,Aqaba,Desktop,TikTok,Cash,5,1,1,1,44.19
+947,2026-03-16,Irbid,Desktop,Paid Ads,Cash,4,1,1,1,16.4
+948,2026-01-28,Zarqa,Mobile,Paid Ads,Card,3,1,1,1,51.33
+949,2026-02-07,Zarqa,Desktop,TikTok,Cash,4,1,1,1,33.17
+950,2026-02-25,Aqaba,Mobile,Instagram,Wallet,4,1,1,1,6.36
+951,2026-01-10,Zarqa,Mobile,Instagram,Card,3,0,0,0,0.0
+952,2026-01-13,Zarqa,Desktop,Instagram,Wallet,1,1,1,1,15.82
+953,2026-03-29,Zarqa,Mobile,Instagram,Cash,3,1,1,1,52.02
+954,2026-02-14,Amman,Desktop,Email,Card,4,0,0,0,0.0
+955,2026-02-20,Aqaba,Desktop,Instagram,Card,2,1,1,1,33.37
+956,2026-02-10,Aqaba,Mobile,TikTok,Cash,2,1,0,0,0.0
+957,2026-03-13,Amman,Desktop,Instagram,Cash,1,1,1,1,56.88
+958,2026-01-29,Zarqa,Desktop,Email,Card,4,1,1,1,42.98
+959,2026-03-14,Irbid,Desktop,Email,Wallet,1,0,0,0,0.0
+960,2026-03-19,Amman,Desktop,Paid Ads,Cash,5,1,1,1,57.18
+961,2026-01-14,Amman,Mobile,Organic,Wallet,3,1,1,1,10.13
+962,2026-03-19,Aqaba,Desktop,Paid Ads,Card,4,1,1,0,0.0
+963,2026-02-07,Aqaba,Desktop,Paid Ads,Card,5,1,1,1,14.45
+964,2026-01-17,Irbid,Mobile,Paid Ads,Cash,5,1,1,1,54.7
+965,2026-02-25,Aqaba,Desktop,Paid Ads,Card,4,1,1,1,16.16
+966,2026-01-19,Aqaba,Desktop,TikTok,Wallet,4,1,1,1,33.92
+967,2026-01-06,Aqaba,Desktop,Instagram,Cash,1,1,0,0,0.0
+968,2026-03-20,Aqaba,Mobile,Email,Card,2,1,1,1,28.76
+969,2026-02-20,Zarqa,Mobile,Paid Ads,Cash,1,1,1,1,39.54
+970,2026-02-22,Zarqa,Desktop,TikTok,Card,5,1,1,1,32.74
+971,2026-02-02,Aqaba,Desktop,Instagram,Wallet,2,1,1,1,43.2
+972,2026-02-21,Zarqa,Desktop,TikTok,Cash,2,1,1,1,55.44
+973,2026-01-09,Irbid,Desktop,Instagram,Card,1,1,1,0,0.0
+974,2026-01-22,Irbid,Mobile,Organic,Wallet,1,1,1,1,45.78
+975,2026-02-04,Irbid,Desktop,Organic,Wallet,2,1,1,1,54.1
+976,2026-03-08,Aqaba,Mobile,Paid Ads,Cash,1,1,1,1,5.26
+977,2026-01-31,Zarqa,Mobile,Organic,Card,2,1,1,0,0.0
+978,2026-01-13,Zarqa,Mobile,Email,Card,2,1,1,1,49.86
+979,2026-03-11,Amman,Mobile,Paid Ads,Card,4,0,0,0,0.0
+980,2026-02-15,Aqaba,Mobile,Organic,Wallet,3,1,1,1,26.41
+981,2026-02-05,Aqaba,Mobile,Email,Wallet,5,1,1,1,21.58
+982,2026-01-22,Zarqa,Desktop,Paid Ads,Cash,3,0,0,0,0.0
+983,2026-01-23,Aqaba,Mobile,Instagram,Card,3,0,0,0,0.0
+984,2026-03-19,Amman,Mobile,Organic,Wallet,5,1,1,0,0.0
+985,2026-01-16,Irbid,Desktop,TikTok,Cash,3,1,1,1,9.37
+986,2026-01-26,Aqaba,Desktop,Paid Ads,Cash,2,1,1,1,44.89
+987,2026-02-10,Zarqa,Mobile,Paid Ads,Wallet,1,1,0,0,0.0
+988,2026-02-12,Irbid,Mobile,Email,Cash,3,1,1,1,41.58
+989,2026-03-08,Irbid,Mobile,Paid Ads,Card,3,1,1,1,32.04
+990,2026-01-17,Amman,Desktop,TikTok,Cash,1,1,1,1,16.24
+991,2026-01-22,Aqaba,Mobile,Instagram,Cash,2,1,1,1,20.69
+992,2026-01-11,Aqaba,Mobile,TikTok,Card,3,1,1,1,32.79
+993,2026-02-18,Zarqa,Mobile,Email,Wallet,4,0,0,0,0.0
+994,2026-01-23,Aqaba,Mobile,Instagram,Card,3,1,1,1,35.92
+995,2026-03-02,Zarqa,Desktop,TikTok,Cash,2,1,1,1,32.54
+996,2026-02-20,Amman,Desktop,Organic,Card,3,1,1,0,0.0
+997,2026-02-19,Zarqa,Desktop,Instagram,Wallet,5,1,1,0,0.0
+998,2026-01-08,Irbid,Mobile,TikTok,Card,4,0,0,0,0.0
+999,2026-02-16,Irbid,Desktop,Paid Ads,Wallet,1,1,1,1,30.05
+1000,2026-03-16,Aqaba,Mobile,Email,Card,2,1,1,1,55.43
+1001,2026-02-24,Zarqa,Desktop,Email,Wallet,2,0,0,0,0.0
+1002,2026-03-26,Amman,Mobile,Email,Cash,4,1,1,0,0.0
+1003,2026-01-19,Aqaba,Desktop,Organic,Card,3,1,0,0,0.0
+1004,2026-03-04,Zarqa,Desktop,Paid Ads,Card,1,1,1,1,27.93
+1005,2026-02-17,Aqaba,Mobile,Paid Ads,Card,2,1,1,1,57.17
+1006,2026-01-08,Irbid,Desktop,TikTok,Cash,2,0,0,0,0.0
+1007,2026-03-22,Amman,Desktop,Organic,Cash,5,1,1,1,9.71
+1008,2026-01-04,Zarqa,Mobile,Email,Card,5,1,1,1,5.52
+1009,2026-01-13,Zarqa,Desktop,TikTok,Cash,2,1,1,1,59.28
+1010,2026-03-19,Irbid,Desktop,TikTok,Cash,4,1,1,1,22.34
+1011,2026-03-20,Zarqa,Mobile,Organic,Cash,1,0,0,0,0.0
+1012,2026-03-31,Irbid,Mobile,Email,Card,4,1,0,0,0.0
+1013,2026-03-09,Irbid,Desktop,TikTok,Wallet,3,0,0,0,0.0
+1014,2026-03-29,Zarqa,Mobile,Instagram,Card,4,1,1,1,40.09
+1015,2026-02-11,Zarqa,Desktop,TikTok,Wallet,4,1,1,1,48.67
+1016,2026-03-31,Amman,Mobile,TikTok,Card,1,1,1,1,12.87
+1017,2026-02-08,Aqaba,Mobile,TikTok,Card,5,0,0,0,0.0
+1018,2026-03-03,Amman,Mobile,TikTok,Wallet,5,1,1,0,0.0
+1019,2026-01-04,Zarqa,Desktop,Instagram,Card,2,0,0,0,0.0
+1020,2026-02-02,Amman,Mobile,Email,Wallet,4,0,0,0,0.0
+1021,2026-03-04,Zarqa,Mobile,Email,Wallet,1,0,0,0,0.0
+1022,2026-01-09,Aqaba,Mobile,Paid Ads,Cash,3,1,1,1,25.99
+1023,2026-01-15,Amman,Desktop,Paid Ads,Cash,3,1,1,1,56.55
+1024,2026-02-18,Aqaba,Desktop,Instagram,Cash,5,1,1,1,15.44
+1025,2026-03-28,Aqaba,Desktop,Paid Ads,Cash,2,1,1,1,26.74
+1026,2026-01-29,Amman,Desktop,Instagram,Wallet,4,1,1,1,46.09
+1027,2026-03-30,Irbid,Desktop,Instagram,Wallet,1,1,1,1,39.71
+1028,2026-02-18,Zarqa,Mobile,Paid Ads,Wallet,1,0,0,0,0.0
+1029,2026-01-29,Irbid,Desktop,TikTok,Cash,1,0,0,0,0.0
+1030,2026-03-26,Aqaba,Desktop,TikTok,Wallet,2,0,0,0,0.0
+1031,2026-03-02,Aqaba,Mobile,Email,Wallet,3,0,0,0,0.0
+1032,2026-02-06,Irbid,Desktop,Email,Card,3,1,1,1,26.66
+1033,2026-02-08,Irbid,Mobile,Paid Ads,Wallet,4,1,1,1,31.53
+1034,2026-01-26,Irbid,Desktop,TikTok,Wallet,1,1,1,1,48.2
+1035,2026-01-22,Irbid,Mobile,Organic,Wallet,1,1,0,0,0.0
+1036,2026-03-25,Aqaba,Mobile,Organic,Card,3,1,0,0,0.0
+1037,2026-01-31,Aqaba,Mobile,TikTok,Wallet,4,1,1,0,0.0
+1038,2026-02-18,Amman,Desktop,Email,Card,3,1,1,1,11.41
+1039,2026-01-03,Irbid,Desktop,TikTok,Wallet,5,1,1,1,45.99
+1040,2026-03-31,Irbid,Desktop,Organic,Cash,4,1,1,1,44.26
+1041,2026-03-13,Aqaba,Mobile,Email,Wallet,5,0,0,0,0.0
+1042,2026-03-10,Irbid,Mobile,Paid Ads,Wallet,1,0,0,0,0.0
+1043,2026-03-30,Irbid,Mobile,Organic,Wallet,2,1,1,1,7.15
+1044,2026-02-02,Irbid,Desktop,Organic,Card,1,1,1,1,58.15
+1045,2026-02-08,Zarqa,Desktop,Paid Ads,Wallet,1,0,0,0,0.0
+1046,2026-03-04,Zarqa,Mobile,Organic,Wallet,3,1,0,0,0.0
+1047,2026-01-06,Irbid,Mobile,Email,Cash,2,1,1,1,16.84
+1048,2026-02-05,Irbid,Desktop,TikTok,Card,2,1,1,1,19.34
+1049,2026-02-02,Irbid,Mobile,Organic,Wallet,4,0,0,0,0.0
+1050,2026-02-04,Irbid,Desktop,Paid Ads,Cash,2,1,1,1,33.13
+1051,2026-02-25,Amman,Desktop,Organic,Cash,4,1,1,1,11.85
+1052,2026-03-23,Irbid,Desktop,Organic,Card,1,1,1,1,52.79
+1053,2026-02-18,Zarqa,Desktop,Organic,Wallet,2,1,1,1,14.67
+1054,2026-02-14,Zarqa,Mobile,Organic,Card,5,0,0,0,0.0
+1055,2026-02-10,Aqaba,Desktop,Email,Card,4,1,1,1,48.38
+1056,2026-02-03,Zarqa,Mobile,Instagram,Wallet,1,1,1,1,12.85
+1057,2026-02-01,Aqaba,Desktop,Instagram,Cash,5,1,1,1,24.47
+1058,2026-03-08,Aqaba,Desktop,Organic,Wallet,2,1,1,0,0.0
+1059,2026-01-11,Irbid,Mobile,Organic,Wallet,1,1,0,0,0.0
+1060,2026-02-06,Amman,Desktop,Email,Wallet,5,0,0,0,0.0
+1061,2026-01-18,Amman,Desktop,Organic,Wallet,4,1,1,1,34.28
+1062,2026-01-25,Amman,Desktop,Paid Ads,Wallet,1,1,1,1,18.43
+1063,2026-03-09,Amman,Desktop,TikTok,Cash,2,1,1,1,24.43
+1064,2026-01-22,Zarqa,Mobile,Email,Card,3,0,0,0,0.0
+1065,2026-02-07,Aqaba,Mobile,Instagram,Wallet,3,1,1,1,39.71
+1066,2026-03-07,Aqaba,Mobile,Instagram,Card,1,0,0,0,0.0
+1067,2026-03-20,Irbid,Desktop,Instagram,Card,4,1,1,1,53.96
+1068,2026-01-13,Amman,Desktop,Organic,Card,4,1,1,1,13.45
+1069,2026-03-26,Irbid,Desktop,Organic,Cash,3,1,1,1,28.56
+1070,2026-03-26,Irbid,Mobile,Paid Ads,Cash,4,1,1,1,24.76
+1071,2026-01-06,Irbid,Desktop,Instagram,Card,2,1,1,1,13.82
+1072,2026-02-23,Aqaba,Desktop,Paid Ads,Card,4,1,1,1,22.87
+1073,2026-01-14,Amman,Desktop,TikTok,Wallet,1,1,1,1,42.64
+1074,2026-01-02,Irbid,Mobile,Paid Ads,Cash,4,1,1,1,28.59
+1075,2026-01-15,Irbid,Desktop,Paid Ads,Cash,3,0,0,0,0.0
+1076,2026-01-14,Irbid,Mobile,Organic,Card,5,1,1,1,39.59
+1077,2026-02-21,Irbid,Mobile,Organic,Cash,1,1,1,1,5.97
+1078,2026-02-22,Aqaba,Mobile,Email,Cash,5,1,1,1,23.49
+1079,2026-03-24,Aqaba,Mobile,Instagram,Card,1,1,1,1,24.31
+1080,2026-01-24,Zarqa,Mobile,TikTok,Card,1,1,1,1,20.69
+1081,2026-02-02,Irbid,Desktop,Instagram,Wallet,4,1,1,1,5.75
+1082,2026-02-16,Aqaba,Mobile,Organic,Card,5,1,1,1,16.55
+1083,2026-03-22,Irbid,Mobile,TikTok,Card,5,1,1,0,0.0
+1084,2026-01-10,Irbid,Mobile,Paid Ads,Card,5,1,1,1,46.85
+1085,2026-02-23,Zarqa,Desktop,TikTok,Wallet,5,1,0,0,0.0
+1086,2026-01-16,Amman,Mobile,Email,Cash,4,1,1,1,32.71
+1087,2026-03-31,Amman,Mobile,TikTok,Cash,2,1,0,0,0.0
+1088,2026-03-29,Amman,Mobile,TikTok,Wallet,5,0,0,0,0.0
+1089,2026-02-19,Aqaba,Desktop,Paid Ads,Card,5,0,0,0,0.0
+1090,2026-01-01,Aqaba,Desktop,Instagram,Card,2,1,1,1,56.07
+1091,2026-02-07,Amman,Mobile,Instagram,Card,3,1,1,1,18.1
+1092,2026-02-04,Amman,Desktop,Email,Cash,1,1,1,1,34.4
+1093,2026-02-11,Zarqa,Mobile,TikTok,Wallet,1,0,0,0,0.0
+1094,2026-02-07,Amman,Desktop,Paid Ads,Wallet,3,0,0,0,0.0
+1095,2026-02-05,Amman,Desktop,Instagram,Wallet,2,1,1,1,52.74
+1096,2026-03-23,Aqaba,Mobile,TikTok,Card,5,1,1,1,19.78
+1097,2026-02-25,Irbid,Mobile,Email,Cash,3,1,1,1,30.27
+1098,2026-01-24,Irbid,Mobile,Paid Ads,Card,3,1,1,1,26.68
+1099,2026-02-24,Irbid,Mobile,Email,Card,2,1,1,1,44.84
+1100,2026-02-18,Amman,Mobile,Paid Ads,Card,4,1,1,1,40.45
+1101,2026-02-04,Amman,Mobile,Organic,Wallet,2,0,0,0,0.0
+1102,2026-02-13,Irbid,Desktop,Instagram,Cash,1,1,1,1,29.44
+1103,2026-01-20,Amman,Mobile,Email,Cash,2,1,1,1,11.77
+1104,2026-01-14,Aqaba,Mobile,Organic,Card,5,0,0,0,0.0
+1105,2026-01-04,Aqaba,Mobile,TikTok,Card,2,1,1,1,17.42
+1106,2026-01-15,Zarqa,Mobile,Email,Cash,2,1,0,0,0.0
+1107,2026-01-16,Amman,Mobile,Email,Card,3,0,0,0,0.0
+1108,2026-01-23,Zarqa,Desktop,Instagram,Card,4,1,1,1,13.26
+1109,2026-02-04,Amman,Mobile,Paid Ads,Wallet,4,1,0,0,0.0
+1110,2026-01-19,Amman,Mobile,Email,Cash,3,1,1,1,58.7
+1111,2026-02-05,Irbid,Desktop,Instagram,Cash,2,1,0,0,0.0
+1112,2026-03-05,Zarqa,Mobile,Paid Ads,Cash,4,1,0,0,0.0
+1113,2026-02-23,Aqaba,Mobile,Email,Wallet,5,1,1,1,50.18
+1114,2026-02-23,Irbid,Desktop,Organic,Card,5,1,1,1,43.67
+1115,2026-01-03,Amman,Mobile,Instagram,Cash,3,1,0,0,0.0
+1116,2026-01-18,Aqaba,Mobile,Paid Ads,Card,3,1,1,1,56.22
+1117,2026-01-08,Aqaba,Desktop,Organic,Wallet,2,1,1,1,45.32
+1118,2026-01-14,Zarqa,Mobile,Organic,Card,5,1,1,1,6.66
+1119,2026-01-10,Irbid,Desktop,TikTok,Cash,1,1,1,1,15.03
+1120,2026-02-13,Amman,Desktop,Organic,Card,4,0,0,0,0.0
+1121,2026-01-08,Aqaba,Desktop,Email,Wallet,1,1,1,1,26.8
+1122,2026-02-03,Amman,Desktop,Paid Ads,Wallet,5,1,1,1,13.62
+1123,2026-01-28,Amman,Desktop,TikTok,Cash,4,1,1,1,46.03
+1124,2026-03-25,Irbid,Mobile,Instagram,Wallet,4,0,0,0,0.0
+1125,2026-02-24,Zarqa,Mobile,Paid Ads,Cash,2,1,1,1,47.83
+1126,2026-01-21,Irbid,Mobile,Organic,Card,5,1,1,1,55.03
+1127,2026-02-04,Amman,Desktop,Organic,Card,1,0,0,0,0.0
+1128,2026-02-10,Amman,Desktop,Instagram,Cash,1,0,0,0,0.0
+1129,2026-03-06,Amman,Desktop,TikTok,Wallet,2,1,1,1,12.12
+1130,2026-03-06,Aqaba,Mobile,Instagram,Card,1,1,1,1,48.78
+1131,2026-01-20,Irbid,Mobile,Paid Ads,Wallet,4,1,1,0,0.0
+1132,2026-01-21,Zarqa,Desktop,Paid Ads,Cash,5,1,1,1,56.16
+1133,2026-02-07,Amman,Desktop,Paid Ads,Card,3,1,0,0,0.0
+1134,2026-03-20,Amman,Mobile,Instagram,Wallet,5,1,1,1,32.36
+1135,2026-01-12,Zarqa,Desktop,Instagram,Card,4,1,1,1,13.88
+1136,2026-01-10,Zarqa,Desktop,Paid Ads,Card,2,1,1,0,0.0
+1137,2026-03-14,Irbid,Desktop,Instagram,Wallet,4,1,1,1,52.14
+1138,2026-03-21,Amman,Mobile,Paid Ads,Wallet,3,1,1,1,19.46
+1139,2026-03-13,Amman,Mobile,TikTok,Cash,1,1,1,1,36.36
+1140,2026-03-27,Amman,Mobile,Paid Ads,Wallet,1,1,1,1,50.01
+1141,2026-01-14,Irbid,Desktop,Instagram,Card,4,0,0,0,0.0
+1142,2026-02-10,Aqaba,Mobile,TikTok,Card,3,0,0,0,0.0
+1143,2026-02-05,Zarqa,Mobile,Email,Cash,4,1,1,1,40.21
+1144,2026-01-08,Aqaba,Mobile,Organic,Card,3,0,0,0,0.0
+1145,2026-01-03,Aqaba,Mobile,Instagram,Wallet,4,1,1,1,8.81
+1146,2026-02-27,Amman,Desktop,Instagram,Cash,4,1,1,1,50.68
+1147,2026-01-22,Irbid,Desktop,Instagram,Wallet,2,1,1,1,42.89
+1148,2026-03-15,Irbid,Mobile,Email,Wallet,4,0,0,0,0.0
+1149,2026-01-19,Zarqa,Mobile,Paid Ads,Cash,3,1,1,1,50.39
+1150,2026-01-19,Amman,Desktop,Instagram,Wallet,4,0,0,0,0.0
+1151,2026-01-01,Irbid,Desktop,Email,Card,4,0,0,0,0.0
+1152,2026-01-05,Aqaba,Mobile,Instagram,Card,2,1,1,1,47.59
+1153,2026-01-25,Zarqa,Desktop,Organic,Cash,5,0,0,0,0.0
+1154,2026-02-09,Amman,Desktop,TikTok,Cash,5,0,0,0,0.0
+1155,2026-02-22,Amman,Mobile,TikTok,Cash,3,1,1,1,47.08
+1156,2026-02-17,Aqaba,Desktop,Email,Card,2,1,1,1,20.68
+1157,2026-01-12,Amman,Desktop,Email,Wallet,1,1,1,1,10.7
+1158,2026-01-05,Irbid,Mobile,TikTok,Wallet,3,0,0,0,0.0
+1159,2026-02-18,Aqaba,Desktop,TikTok,Card,1,1,1,1,58.22
+1160,2026-02-17,Aqaba,Mobile,Organic,Cash,2,1,1,1,21.91
+1161,2026-01-05,Zarqa,Desktop,Paid Ads,Wallet,1,1,1,1,33.54
+1162,2026-02-25,Amman,Desktop,Paid Ads,Wallet,2,1,1,1,26.63
+1163,2026-02-19,Irbid,Mobile,Email,Cash,2,1,1,1,17.7
+1164,2026-03-22,Irbid,Desktop,Paid Ads,Card,3,0,0,0,0.0
+1165,2026-01-12,Amman,Desktop,Organic,Wallet,1,1,1,1,6.53
+1166,2026-01-17,Irbid,Desktop,Paid Ads,Wallet,4,1,1,1,40.89
+1167,2026-02-01,Amman,Desktop,Organic,Card,4,0,0,0,0.0
+1168,2026-03-22,Amman,Mobile,Paid Ads,Cash,1,1,1,1,30.25
+1169,2026-02-03,Aqaba,Mobile,TikTok,Card,2,1,1,1,51.11
+1170,2026-02-22,Zarqa,Desktop,Paid Ads,Card,1,1,1,1,28.09
+1171,2026-02-08,Amman,Mobile,Instagram,Cash,1,0,0,0,0.0
+1172,2026-03-03,Amman,Mobile,Email,Card,5,1,1,1,19.0
+1173,2026-03-10,Irbid,Mobile,Instagram,Card,1,1,1,1,25.07
+1174,2026-01-29,Zarqa,Desktop,TikTok,Card,1,1,0,0,0.0
+1175,2026-01-12,Aqaba,Desktop,Paid Ads,Cash,3,1,1,1,49.5
+1176,2026-01-23,Zarqa,Desktop,Organic,Wallet,2,1,0,0,0.0
+1177,2026-03-17,Aqaba,Desktop,TikTok,Wallet,3,1,1,0,0.0
+1178,2026-02-04,Zarqa,Mobile,TikTok,Card,3,1,1,1,36.19
+1179,2026-01-05,Zarqa,Desktop,Organic,Card,5,1,1,1,53.25
+1180,2026-01-24,Zarqa,Desktop,Paid Ads,Cash,3,1,1,1,16.84
+1181,2026-01-16,Zarqa,Mobile,Email,Card,1,1,1,1,30.6
+1182,2026-02-19,Amman,Desktop,TikTok,Cash,3,1,1,1,20.29
+1183,2026-02-10,Aqaba,Mobile,Organic,Cash,2,1,1,1,59.46
+1184,2026-01-22,Amman,Desktop,Instagram,Card,5,1,1,1,20.68
+1185,2026-02-21,Amman,Desktop,Organic,Card,1,0,0,0,0.0
+1186,2026-03-02,Aqaba,Desktop,Instagram,Cash,1,0,0,0,0.0
+1187,2026-02-14,Zarqa,Desktop,TikTok,Wallet,4,1,1,1,7.59
+1188,2026-01-16,Amman,Mobile,Paid Ads,Card,3,0,0,0,0.0
+1189,2026-01-02,Irbid,Mobile,Paid Ads,Wallet,2,1,1,1,28.96
+1190,2026-02-17,Amman,Desktop,Organic,Card,5,0,0,0,0.0
+1191,2026-01-07,Zarqa,Mobile,Paid Ads,Wallet,3,1,1,1,49.69
+1192,2026-02-28,Aqaba,Desktop,Organic,Wallet,1,1,1,1,53.83
+1193,2026-03-09,Zarqa,Desktop,Paid Ads,Card,2,1,1,0,0.0
+1194,2026-02-03,Irbid,Mobile,Organic,Cash,3,1,1,1,18.33
+1195,2026-01-08,Amman,Desktop,Paid Ads,Wallet,2,1,1,1,15.34
+1196,2026-03-09,Zarqa,Desktop,Paid Ads,Wallet,5,0,0,0,0.0
+1197,2026-01-14,Irbid,Desktop,Paid Ads,Card,2,1,1,0,0.0
+1198,2026-02-05,Irbid,Desktop,Organic,Wallet,4,1,1,1,40.66
+1199,2026-01-15,Aqaba,Desktop,Instagram,Card,2,1,1,1,31.19
+1200,2026-03-12,Zarqa,Mobile,TikTok,Cash,1,1,1,1,28.7
+1201,2026-02-17,Irbid,Desktop,Paid Ads,Wallet,1,1,1,1,15.67
+1202,2026-02-05,Irbid,Mobile,Paid Ads,Card,5,1,1,1,7.74
+1203,2026-01-07,Aqaba,Desktop,TikTok,Card,1,1,1,1,20.15
+1204,2026-01-29,Zarqa,Mobile,Organic,Card,3,1,1,1,40.03
+1205,2026-03-06,Irbid,Mobile,Instagram,Wallet,5,1,1,0,0.0
+1206,2026-01-09,Irbid,Mobile,TikTok,Cash,2,1,0,0,0.0
+1207,2026-02-12,Amman,Desktop,TikTok,Wallet,1,1,1,1,42.36
+1208,2026-01-01,Aqaba,Mobile,Organic,Card,4,0,0,0,0.0
+1209,2026-03-14,Irbid,Mobile,Organic,Card,3,0,0,0,0.0
+1210,2026-02-08,Zarqa,Desktop,Instagram,Cash,3,1,1,0,0.0
+1211,2026-02-28,Zarqa,Desktop,Email,Wallet,1,0,0,0,0.0
+1212,2026-03-18,Amman,Mobile,TikTok,Card,4,1,1,0,0.0
+1213,2026-03-26,Aqaba,Desktop,Paid Ads,Wallet,2,1,1,1,43.27
+1214,2026-01-12,Aqaba,Mobile,Instagram,Wallet,2,0,0,0,0.0
+1215,2026-03-28,Aqaba,Mobile,Instagram,Wallet,5,0,0,0,0.0
+1216,2026-02-14,Zarqa,Mobile,Organic,Wallet,3,1,1,0,0.0
+1217,2026-03-08,Amman,Desktop,TikTok,Wallet,3,0,0,0,0.0
+1218,2026-02-14,Irbid,Desktop,Email,Wallet,3,1,1,1,13.09
+1219,2026-03-27,Amman,Desktop,Organic,Card,2,1,1,0,0.0
+1220,2026-02-06,Amman,Mobile,Instagram,Card,5,1,1,1,24.37
+1221,2026-02-14,Irbid,Mobile,Instagram,Card,3,0,0,0,0.0
+1222,2026-01-26,Zarqa,Mobile,TikTok,Cash,4,1,1,1,31.02
+1223,2026-02-21,Zarqa,Desktop,Paid Ads,Wallet,1,0,0,0,0.0
+1224,2026-02-25,Irbid,Mobile,Instagram,Card,3,0,0,0,0.0
+1225,2026-02-23,Aqaba,Mobile,TikTok,Cash,5,1,1,1,55.99
+1226,2026-01-13,Zarqa,Desktop,Instagram,Cash,2,1,1,1,42.68
+1227,2026-03-01,Aqaba,Mobile,Email,Card,4,0,0,0,0.0
+1228,2026-02-23,Zarqa,Mobile,Email,Wallet,1,0,0,0,0.0
+1229,2026-02-17,Zarqa,Mobile,TikTok,Card,2,1,0,0,0.0
+1230,2026-02-21,Amman,Mobile,Instagram,Wallet,1,1,1,1,51.16
+1231,2026-01-14,Amman,Mobile,Email,Wallet,3,1,1,1,42.98
+1232,2026-03-07,Irbid,Mobile,Paid Ads,Cash,1,1,1,1,58.2
+1233,2026-03-22,Aqaba,Mobile,Organic,Card,3,1,0,0,0.0
+1234,2026-01-01,Aqaba,Mobile,Email,Cash,2,1,1,1,16.24
+1235,2026-02-20,Zarqa,Desktop,TikTok,Card,1,0,0,0,0.0
+1236,2026-01-31,Amman,Desktop,Paid Ads,Wallet,5,1,1,1,41.2
+1237,2026-01-03,Irbid,Desktop,TikTok,Cash,2,1,1,1,33.13
+1238,2026-02-07,Aqaba,Desktop,Instagram,Cash,1,0,0,0,0.0
+1239,2026-02-19,Amman,Desktop,Organic,Wallet,1,1,1,1,20.59
+1240,2026-02-08,Aqaba,Mobile,Instagram,Card,1,1,0,0,0.0
+1241,2026-03-01,Zarqa,Mobile,Instagram,Wallet,4,1,0,0,0.0
+1242,2026-03-09,Zarqa,Desktop,Paid Ads,Cash,4,1,1,1,41.08
+1243,2026-03-26,Amman,Desktop,TikTok,Cash,3,0,0,0,0.0
+1244,2026-03-19,Zarqa,Mobile,Instagram,Wallet,2,1,0,0,0.0
+1245,2026-03-16,Irbid,Mobile,Organic,Wallet,3,1,1,1,6.62
+1246,2026-01-14,Aqaba,Desktop,Paid Ads,Wallet,4,0,0,0,0.0
+1247,2026-01-31,Irbid,Desktop,TikTok,Card,1,0,0,0,0.0
+1248,2026-01-08,Zarqa,Mobile,Paid Ads,Cash,5,1,1,1,29.28
+1249,2026-01-14,Irbid,Mobile,Instagram,Cash,4,1,0,0,0.0
+1250,2026-02-26,Irbid,Mobile,Email,Card,3,1,1,1,34.07
+1251,2026-03-22,Zarqa,Desktop,Email,Wallet,1,1,1,0,0.0
+1252,2026-01-10,Aqaba,Mobile,Paid Ads,Wallet,3,1,1,1,40.32
+1253,2026-03-02,Amman,Desktop,TikTok,Wallet,5,1,1,1,12.58
+1254,2026-02-18,Aqaba,Mobile,Organic,Wallet,1,1,1,1,10.55
+1255,2026-03-11,Aqaba,Desktop,Organic,Card,3,1,1,1,50.55
+1256,2026-02-06,Zarqa,Desktop,Email,Card,1,1,1,1,38.62
+1257,2026-03-11,Zarqa,Mobile,Organic,Cash,1,1,0,0,0.0
+1258,2026-02-23,Amman,Mobile,Paid Ads,Wallet,3,1,0,0,0.0
+1259,2026-02-12,Amman,Desktop,Organic,Cash,1,1,1,1,54.74
+1260,2026-03-18,Aqaba,Mobile,Instagram,Wallet,5,0,0,0,0.0
+1261,2026-01-06,Zarqa,Mobile,Organic,Card,1,1,1,1,28.73
+1262,2026-01-04,Aqaba,Mobile,TikTok,Cash,2,1,1,1,45.59
+1263,2026-03-31,Zarqa,Desktop,Paid Ads,Cash,2,1,1,1,29.09
+1264,2026-02-25,Amman,Mobile,Paid Ads,Card,1,1,1,1,27.72
+1265,2026-01-10,Irbid,Desktop,Paid Ads,Wallet,1,1,1,1,24.23
+1266,2026-02-20,Irbid,Desktop,Instagram,Card,4,1,1,1,56.61
+1267,2026-02-26,Zarqa,Mobile,Email,Cash,3,0,0,0,0.0
+1268,2026-02-10,Aqaba,Desktop,Organic,Card,5,1,1,1,43.8
+1269,2026-01-18,Irbid,Mobile,Paid Ads,Wallet,5,1,1,1,25.48
+1270,2026-02-26,Amman,Desktop,Organic,Cash,4,0,0,0,0.0
+1271,2026-02-05,Aqaba,Desktop,Organic,Cash,5,1,1,1,20.35
+1272,2026-02-19,Amman,Desktop,Organic,Wallet,4,1,1,1,28.71
+1273,2026-02-14,Zarqa,Desktop,Email,Card,1,0,0,0,0.0
+1274,2026-01-04,Amman,Mobile,Email,Cash,3,1,1,1,48.04
+1275,2026-03-28,Aqaba,Desktop,Email,Wallet,3,0,0,0,0.0
+1276,2026-03-14,Aqaba,Mobile,Paid Ads,Card,5,1,0,0,0.0
+1277,2026-02-05,Aqaba,Mobile,Email,Cash,3,1,1,1,23.56
+1278,2026-02-16,Amman,Desktop,Email,Wallet,3,1,1,1,38.44
+1279,2026-02-11,Aqaba,Desktop,Organic,Cash,3,0,0,0,0.0
+1280,2026-01-02,Aqaba,Mobile,Email,Card,4,1,1,1,35.61
+1281,2026-02-05,Aqaba,Mobile,Instagram,Cash,5,1,0,0,0.0
+1282,2026-02-03,Amman,Mobile,Organic,Wallet,4,1,1,1,38.99
+1283,2026-01-05,Irbid,Mobile,Instagram,Cash,2,1,1,1,7.31
+1284,2026-01-03,Aqaba,Mobile,Email,Card,3,1,1,1,11.0
+1285,2026-01-31,Aqaba,Desktop,Paid Ads,Card,2,1,1,1,27.88
+1286,2026-02-11,Zarqa,Desktop,Instagram,Cash,5,0,0,0,0.0
+1287,2026-02-07,Amman,Mobile,Email,Card,5,1,1,1,13.25
+1288,2026-02-10,Irbid,Desktop,Email,Card,5,1,1,1,44.21
+1289,2026-03-26,Amman,Mobile,Paid Ads,Wallet,2,1,0,0,0.0
+1290,2026-03-06,Amman,Desktop,Email,Wallet,5,1,1,1,11.67
+1291,2026-02-26,Irbid,Desktop,Paid Ads,Cash,3,1,1,1,18.42
+1292,2026-02-10,Aqaba,Desktop,Organic,Cash,1,1,1,0,0.0
+1293,2026-03-13,Aqaba,Mobile,Email,Card,5,1,1,1,17.67
+1294,2026-03-10,Aqaba,Mobile,Email,Cash,2,0,0,0,0.0
+1295,2026-02-06,Aqaba,Mobile,Paid Ads,Cash,3,1,1,1,59.08
+1296,2026-01-02,Amman,Mobile,Organic,Cash,2,1,1,1,56.16
+1297,2026-01-04,Irbid,Desktop,TikTok,Cash,2,0,0,0,0.0
+1298,2026-01-17,Zarqa,Mobile,Organic,Card,4,1,1,1,23.52
+1299,2026-02-15,Aqaba,Desktop,Instagram,Cash,4,0,0,0,0.0
+1300,2026-03-31,Amman,Mobile,Organic,Wallet,2,1,1,1,50.11
+1301,2026-03-17,Zarqa,Mobile,Paid Ads,Cash,3,1,1,1,14.72
+1302,2026-03-05,Aqaba,Desktop,Instagram,Cash,3,1,1,1,32.95
+1303,2026-02-10,Amman,Mobile,TikTok,Wallet,2,0,0,0,0.0
+1304,2026-02-05,Zarqa,Mobile,Instagram,Cash,5,0,0,0,0.0
+1305,2026-01-22,Zarqa,Mobile,Paid Ads,Wallet,1,1,1,1,14.31
+1306,2026-02-05,Amman,Mobile,Organic,Cash,2,1,1,1,14.29
+1307,2026-01-04,Aqaba,Desktop,Email,Card,3,1,0,0,0.0
+1308,2026-02-28,Amman,Desktop,TikTok,Cash,3,0,0,0,0.0
+1309,2026-02-03,Zarqa,Mobile,Instagram,Card,1,0,0,0,0.0
+1310,2026-01-29,Amman,Desktop,Organic,Cash,1,1,1,1,39.68
+1311,2026-01-13,Amman,Mobile,Paid Ads,Card,5,1,1,1,53.27
+1312,2026-03-17,Irbid,Mobile,Instagram,Cash,4,0,0,0,0.0
+1313,2026-01-20,Aqaba,Desktop,Paid Ads,Card,4,0,0,0,0.0
+1314,2026-03-23,Irbid,Mobile,TikTok,Card,1,0,0,0,0.0
+1315,2026-03-04,Aqaba,Mobile,Instagram,Cash,5,1,1,1,42.84
+1316,2026-03-09,Irbid,Desktop,TikTok,Cash,2,0,0,0,0.0
+1317,2026-03-22,Zarqa,Desktop,TikTok,Cash,4,1,1,1,17.04
+1318,2026-02-01,Aqaba,Mobile,TikTok,Cash,4,1,1,1,11.24
+1319,2026-03-18,Aqaba,Mobile,Email,Cash,4,1,1,1,16.83
+1320,2026-02-03,Amman,Desktop,TikTok,Wallet,3,1,1,1,19.34
+1321,2026-01-29,Irbid,Mobile,Organic,Wallet,3,1,1,1,17.17
+1322,2026-03-20,Amman,Desktop,Organic,Wallet,3,1,1,0,0.0
+1323,2026-02-12,Amman,Mobile,Email,Card,3,0,0,0,0.0
+1324,2026-02-16,Irbid,Desktop,Paid Ads,Cash,5,1,1,1,52.28
+1325,2026-02-12,Amman,Mobile,Email,Cash,4,1,1,1,6.98
+1326,2026-03-04,Irbid,Mobile,Instagram,Wallet,1,1,1,1,47.48
+1327,2026-01-16,Amman,Mobile,Organic,Wallet,4,1,1,1,19.85
+1328,2026-02-23,Aqaba,Mobile,Email,Cash,1,1,1,1,13.35
+1329,2026-02-11,Zarqa,Desktop,TikTok,Cash,4,1,1,1,16.15
+1330,2026-02-24,Irbid,Desktop,Organic,Cash,1,1,1,1,20.64
+1331,2026-02-20,Amman,Desktop,Paid Ads,Wallet,3,0,0,0,0.0
+1332,2026-01-04,Aqaba,Desktop,TikTok,Wallet,4,0,0,0,0.0
+1333,2026-01-14,Amman,Mobile,Paid Ads,Cash,3,1,1,0,0.0
+1334,2026-03-17,Irbid,Mobile,TikTok,Cash,2,1,1,0,0.0
+1335,2026-02-22,Aqaba,Mobile,Instagram,Wallet,3,1,1,1,42.89
+1336,2026-01-27,Aqaba,Desktop,Paid Ads,Cash,5,0,0,0,0.0
+1337,2026-03-01,Amman,Mobile,TikTok,Wallet,4,1,1,0,0.0
+1338,2026-01-10,Irbid,Desktop,Organic,Card,4,1,1,1,11.68
+1339,2026-02-24,Aqaba,Desktop,Organic,Cash,4,1,1,1,46.19
+1340,2026-01-16,Zarqa,Desktop,Email,Cash,4,0,0,0,0.0
+1341,2026-03-14,Zarqa,Desktop,TikTok,Cash,2,1,1,1,38.77
+1342,2026-01-27,Irbid,Mobile,Email,Wallet,3,0,0,0,0.0
+1343,2026-03-02,Amman,Desktop,Paid Ads,Card,1,1,1,1,59.63
+1344,2026-03-30,Irbid,Mobile,Instagram,Wallet,1,1,1,1,30.78
+1345,2026-03-13,Aqaba,Desktop,Instagram,Wallet,2,1,1,1,20.63
+1346,2026-02-21,Amman,Mobile,Instagram,Card,3,1,1,1,37.6
+1347,2026-02-03,Zarqa,Desktop,Email,Wallet,5,1,1,1,47.13
+1348,2026-03-02,Amman,Mobile,Paid Ads,Card,2,1,1,0,0.0
+1349,2026-03-02,Amman,Mobile,Email,Cash,1,1,0,0,0.0
+1350,2026-02-24,Aqaba,Desktop,TikTok,Cash,4,1,1,1,35.81
+1351,2026-02-09,Irbid,Desktop,Paid Ads,Cash,5,1,1,1,16.76
+1352,2026-03-13,Aqaba,Desktop,Paid Ads,Card,4,1,1,1,35.68
+1353,2026-02-16,Zarqa,Desktop,Paid Ads,Wallet,4,0,0,0,0.0
+1354,2026-03-13,Amman,Mobile,TikTok,Cash,2,1,1,0,0.0
+1355,2026-03-09,Zarqa,Mobile,Email,Cash,2,1,1,1,25.29
+1356,2026-01-05,Zarqa,Desktop,Organic,Wallet,3,1,1,0,0.0
+1357,2026-01-04,Aqaba,Desktop,Paid Ads,Cash,4,0,0,0,0.0
+1358,2026-03-24,Amman,Desktop,Organic,Wallet,5,0,0,0,0.0
+1359,2026-01-20,Irbid,Mobile,TikTok,Card,2,0,0,0,0.0
+1360,2026-01-08,Irbid,Mobile,Instagram,Wallet,4,1,1,1,34.92
+1361,2026-02-10,Zarqa,Mobile,TikTok,Cash,2,0,0,0,0.0
+1362,2026-03-27,Amman,Mobile,TikTok,Card,1,1,1,1,45.09
+1363,2026-02-05,Amman,Desktop,Instagram,Wallet,5,1,1,1,46.08
+1364,2026-02-14,Aqaba,Mobile,Organic,Card,1,1,1,1,36.14
+1365,2026-01-24,Irbid,Mobile,Paid Ads,Wallet,1,1,1,0,0.0
+1366,2026-02-17,Irbid,Mobile,Instagram,Card,4,1,1,1,51.05
+1367,2026-02-18,Irbid,Desktop,Paid Ads,Card,3,1,1,1,17.43
+1368,2026-02-07,Zarqa,Desktop,Paid Ads,Card,3,1,1,1,36.83
+1369,2026-03-16,Aqaba,Desktop,Instagram,Card,4,1,1,0,0.0
+1370,2026-02-13,Irbid,Desktop,Paid Ads,Cash,5,1,1,1,33.23
+1371,2026-02-03,Irbid,Desktop,Paid Ads,Cash,1,0,0,0,0.0
+1372,2026-03-17,Amman,Desktop,Organic,Card,3,1,1,1,6.86
+1373,2026-02-23,Zarqa,Mobile,TikTok,Wallet,4,1,1,1,55.22
+1374,2026-01-24,Aqaba,Desktop,Paid Ads,Cash,1,1,1,1,43.2
+1375,2026-02-17,Irbid,Mobile,TikTok,Cash,5,1,1,1,58.39
+1376,2026-02-04,Irbid,Mobile,Paid Ads,Wallet,5,1,1,1,55.73
+1377,2026-02-12,Zarqa,Mobile,Instagram,Cash,1,0,0,0,0.0
+1378,2026-02-20,Zarqa,Mobile,Paid Ads,Card,2,1,1,1,14.46
+1379,2026-01-27,Zarqa,Mobile,TikTok,Card,4,1,1,1,51.51
+1380,2026-02-14,Aqaba,Desktop,Paid Ads,Card,1,1,1,1,55.21
+1381,2026-02-19,Aqaba,Desktop,Instagram,Wallet,2,1,0,0,0.0
+1382,2026-02-24,Amman,Mobile,Email,Card,5,1,1,1,45.72
+1383,2026-01-31,Aqaba,Mobile,Paid Ads,Card,3,1,1,1,37.95
+1384,2026-03-05,Irbid,Desktop,Paid Ads,Cash,2,1,1,1,26.12
+1385,2026-02-09,Irbid,Mobile,TikTok,Wallet,4,1,1,1,57.53
+1386,2026-03-08,Aqaba,Mobile,Paid Ads,Cash,1,1,1,1,10.58
+1387,2026-01-17,Aqaba,Desktop,Organic,Cash,5,1,1,1,40.96
+1388,2026-02-24,Zarqa,Desktop,Instagram,Wallet,3,1,1,1,54.95
+1389,2026-02-16,Aqaba,Desktop,Organic,Card,1,0,0,0,0.0
+1390,2026-01-01,Zarqa,Mobile,Email,Wallet,3,0,0,0,0.0
+1391,2026-02-28,Zarqa,Mobile,Email,Wallet,4,1,1,1,31.93
+1392,2026-02-17,Zarqa,Mobile,Instagram,Cash,3,1,1,1,6.29
+1393,2026-02-23,Amman,Desktop,Paid Ads,Card,1,1,1,1,11.14
+1394,2026-01-11,Zarqa,Desktop,TikTok,Wallet,5,1,1,1,28.71
+1395,2026-03-21,Aqaba,Mobile,Organic,Cash,2,0,0,0,0.0
+1396,2026-02-17,Amman,Desktop,Email,Wallet,1,1,0,0,0.0
+1397,2026-01-11,Zarqa,Desktop,TikTok,Card,3,0,0,0,0.0
+1398,2026-01-24,Amman,Mobile,Email,Cash,3,1,1,1,55.18
+1399,2026-02-08,Zarqa,Desktop,Paid Ads,Cash,5,1,1,1,48.94
+1400,2026-02-05,Zarqa,Desktop,Organic,Cash,2,1,1,1,55.04
+1401,2026-01-27,Irbid,Desktop,Instagram,Cash,1,0,0,0,0.0
+1402,2026-03-18,Zarqa,Desktop,Email,Cash,3,1,1,1,17.16
+1403,2026-03-23,Amman,Desktop,Instagram,Cash,5,1,1,0,0.0
+1404,2026-02-14,Irbid,Desktop,Instagram,Cash,4,1,1,1,34.27
+1405,2026-01-05,Aqaba,Desktop,Organic,Card,5,0,0,0,0.0
+1406,2026-03-09,Irbid,Mobile,Email,Cash,3,1,1,1,30.71
+1407,2026-03-14,Zarqa,Desktop,Paid Ads,Cash,4,1,1,0,0.0
+1408,2026-03-10,Amman,Mobile,TikTok,Card,2,1,0,0,0.0
+1409,2026-01-28,Aqaba,Desktop,Instagram,Card,1,1,1,1,47.76
+1410,2026-02-23,Zarqa,Desktop,Paid Ads,Cash,5,1,1,1,41.53
+1411,2026-03-05,Irbid,Mobile,TikTok,Cash,4,1,0,0,0.0
+1412,2026-01-01,Aqaba,Mobile,Organic,Cash,5,0,0,0,0.0
+1413,2026-03-16,Aqaba,Mobile,Organic,Wallet,4,0,0,0,0.0
+1414,2026-01-29,Aqaba,Mobile,Instagram,Wallet,2,1,1,1,36.38
+1415,2026-02-01,Aqaba,Mobile,Paid Ads,Cash,2,1,1,1,25.37
+1416,2026-02-17,Irbid,Desktop,Paid Ads,Cash,2,1,0,0,0.0
+1417,2026-01-09,Irbid,Mobile,TikTok,Wallet,1,1,1,1,38.18
+1418,2026-03-24,Zarqa,Mobile,Paid Ads,Cash,1,0,0,0,0.0
+1419,2026-01-09,Aqaba,Desktop,Organic,Cash,1,1,1,1,33.59
+1420,2026-02-03,Amman,Desktop,TikTok,Wallet,5,1,1,1,34.38
+1421,2026-01-08,Amman,Desktop,TikTok,Wallet,3,0,0,0,0.0
+1422,2026-03-07,Amman,Mobile,Instagram,Cash,4,1,1,1,19.44
+1423,2026-03-26,Zarqa,Mobile,TikTok,Wallet,3,1,1,1,19.55
+1424,2026-03-04,Zarqa,Desktop,TikTok,Cash,2,0,0,0,0.0
+1425,2026-02-27,Zarqa,Mobile,Paid Ads,Cash,3,1,1,1,13.14
+1426,2026-03-14,Zarqa,Desktop,TikTok,Wallet,3,1,1,1,36.22
+1427,2026-02-07,Aqaba,Desktop,Paid Ads,Card,2,1,1,1,21.08
+1428,2026-01-28,Aqaba,Desktop,Email,Card,5,1,1,1,44.66
+1429,2026-02-14,Aqaba,Mobile,Email,Cash,2,1,1,1,25.79
+1430,2026-01-23,Amman,Mobile,Instagram,Card,4,0,0,0,0.0
+1431,2026-02-09,Irbid,Desktop,TikTok,Cash,2,1,1,1,48.41
+1432,2026-03-14,Irbid,Mobile,Instagram,Wallet,1,0,0,0,0.0
+1433,2026-01-05,Amman,Desktop,Email,Wallet,4,1,0,0,0.0
+1434,2026-03-10,Amman,Desktop,Email,Wallet,1,0,0,0,0.0
+1435,2026-02-01,Irbid,Mobile,TikTok,Card,2,1,1,1,40.79
+1436,2026-01-06,Amman,Mobile,Email,Cash,5,1,1,1,45.33
+1437,2026-01-08,Amman,Desktop,Organic,Card,2,1,1,1,30.53
+1438,2026-03-03,Aqaba,Desktop,Email,Card,1,1,1,1,37.42
+1439,2026-03-16,Amman,Desktop,Paid Ads,Wallet,4,0,0,0,0.0
+1440,2026-03-23,Amman,Desktop,TikTok,Wallet,5,0,0,0,0.0
+1441,2026-02-04,Zarqa,Desktop,Email,Card,4,1,1,1,20.61
+1442,2026-02-13,Irbid,Desktop,Organic,Cash,3,1,1,1,11.13
+1443,2026-03-07,Zarqa,Mobile,TikTok,Cash,4,1,1,0,0.0
+1444,2026-03-23,Irbid,Mobile,Paid Ads,Card,5,0,0,0,0.0
+1445,2026-02-09,Irbid,Mobile,Instagram,Card,5,1,1,1,42.66
+1446,2026-01-25,Irbid,Mobile,Instagram,Wallet,4,0,0,0,0.0
+1447,2026-03-02,Zarqa,Mobile,Instagram,Cash,5,0,0,0,0.0
+1448,2026-02-08,Aqaba,Desktop,TikTok,Wallet,3,1,1,1,45.99
+1449,2026-02-20,Amman,Desktop,Instagram,Wallet,4,1,0,0,0.0
+1450,2026-01-18,Amman,Mobile,Paid Ads,Wallet,4,0,0,0,0.0
+1451,2026-02-02,Amman,Desktop,TikTok,Cash,3,0,0,0,0.0
+1452,2026-02-11,Zarqa,Mobile,Organic,Card,5,1,1,1,32.66
+1453,2026-01-21,Aqaba,Mobile,TikTok,Wallet,3,1,0,0,0.0
+1454,2026-03-04,Zarqa,Desktop,Email,Cash,2,1,1,1,10.58
+1455,2026-02-26,Aqaba,Mobile,Paid Ads,Wallet,3,1,1,1,22.85
+1456,2026-02-08,Zarqa,Desktop,Organic,Card,5,1,1,1,36.5
+1457,2026-01-09,Zarqa,Desktop,Paid Ads,Card,3,0,0,0,0.0
+1458,2026-02-11,Zarqa,Desktop,Email,Wallet,4,1,1,1,58.43
+1459,2026-01-03,Amman,Mobile,Email,Cash,2,1,1,1,31.75
+1460,2026-01-03,Aqaba,Desktop,Email,Cash,5,1,1,1,48.91
+1461,2026-03-23,Amman,Mobile,Email,Card,1,1,1,0,0.0
+1462,2026-03-15,Amman,Desktop,Instagram,Cash,4,1,0,0,0.0
+1463,2026-02-27,Aqaba,Mobile,TikTok,Wallet,2,1,1,1,23.69
+1464,2026-02-07,Irbid,Desktop,Paid Ads,Wallet,1,1,1,1,22.73
+1465,2026-03-28,Zarqa,Mobile,Paid Ads,Card,3,1,1,1,50.18
+1466,2026-01-27,Irbid,Desktop,Organic,Cash,3,1,1,1,51.46
+1467,2026-02-10,Irbid,Mobile,Instagram,Card,2,1,1,1,59.51
+1468,2026-01-18,Amman,Desktop,Paid Ads,Cash,4,1,0,0,0.0
+1469,2026-01-07,Amman,Mobile,Paid Ads,Wallet,4,1,1,1,37.46
+1470,2026-03-16,Zarqa,Desktop,TikTok,Card,5,1,1,1,31.9
+1471,2026-01-27,Zarqa,Desktop,Instagram,Wallet,1,0,0,0,0.0
+1472,2026-01-15,Amman,Desktop,Instagram,Cash,4,1,1,1,57.89
+1473,2026-01-09,Zarqa,Mobile,Organic,Wallet,4,0,0,0,0.0
+1474,2026-03-24,Amman,Desktop,Instagram,Card,4,0,0,0,0.0
+1475,2026-01-19,Aqaba,Mobile,Organic,Wallet,2,1,1,1,12.71
+1476,2026-01-27,Irbid,Mobile,Instagram,Card,3,1,1,1,14.48
+1477,2026-01-21,Zarqa,Desktop,Organic,Card,1,1,1,1,54.99
+1478,2026-02-12,Amman,Mobile,TikTok,Card,1,0,0,0,0.0
+1479,2026-03-11,Irbid,Mobile,Organic,Card,4,0,0,0,0.0
+1480,2026-02-14,Amman,Desktop,TikTok,Cash,2,1,0,0,0.0
+1481,2026-03-10,Aqaba,Desktop,Paid Ads,Cash,4,1,1,1,22.13
+1482,2026-03-26,Irbid,Mobile,Paid Ads,Wallet,5,1,1,1,31.28
+1483,2026-01-17,Amman,Mobile,Paid Ads,Cash,2,1,1,1,27.21
+1484,2026-01-24,Zarqa,Mobile,Instagram,Cash,3,1,0,0,0.0
+1485,2026-02-17,Amman,Desktop,Organic,Card,2,1,0,0,0.0
+1486,2026-01-24,Zarqa,Mobile,Email,Cash,1,1,1,1,13.9
+1487,2026-03-03,Aqaba,Desktop,Paid Ads,Cash,3,1,1,0,0.0
+1488,2026-03-21,Zarqa,Desktop,Paid Ads,Cash,3,1,1,1,47.27
+1489,2026-02-13,Aqaba,Mobile,Instagram,Wallet,4,0,0,0,0.0
+1490,2026-02-03,Aqaba,Mobile,Email,Card,1,0,0,0,0.0
+1491,2026-01-13,Amman,Mobile,Email,Wallet,2,0,0,0,0.0
+1492,2026-02-07,Zarqa,Desktop,TikTok,Wallet,2,0,0,0,0.0
+1493,2026-01-11,Irbid,Mobile,Organic,Card,5,1,1,1,33.1
+1494,2026-02-15,Zarqa,Mobile,Email,Card,5,1,1,1,33.88
+1495,2026-02-17,Irbid,Desktop,Paid Ads,Cash,2,1,1,1,39.0
+1496,2026-01-07,Aqaba,Desktop,TikTok,Cash,4,1,0,0,0.0
+1497,2026-01-18,Amman,Mobile,TikTok,Card,3,1,1,1,22.14
+1498,2026-01-19,Irbid,Desktop,Paid Ads,Wallet,4,0,0,0,0.0
+1499,2026-02-23,Zarqa,Mobile,TikTok,Card,4,1,1,1,17.45
+1500,2026-03-16,Amman,Desktop,Email,Card,2,1,1,1,23.01
+1501,2026-03-22,Aqaba,Mobile,Organic,Wallet,5,1,1,1,11.87
+1502,2026-02-13,Amman,Desktop,Instagram,Card,3,0,0,0,0.0
+1503,2026-03-22,Aqaba,Desktop,Paid Ads,Wallet,4,1,1,1,52.6
+1504,2026-01-14,Zarqa,Mobile,TikTok,Wallet,1,0,0,0,0.0
+1505,2026-02-25,Zarqa,Desktop,Email,Cash,4,1,1,1,51.33
+1506,2026-02-23,Amman,Mobile,Organic,Wallet,3,0,0,0,0.0
+1507,2026-03-04,Aqaba,Desktop,Email,Wallet,2,1,1,1,19.62
+1508,2026-03-27,Amman,Mobile,Organic,Card,4,1,1,0,0.0
+1509,2026-02-16,Aqaba,Desktop,Organic,Cash,5,1,0,0,0.0
+1510,2026-03-24,Amman,Desktop,TikTok,Wallet,4,0,0,0,0.0
+1511,2026-01-04,Aqaba,Mobile,TikTok,Cash,2,1,1,1,10.43
+1512,2026-02-15,Zarqa,Desktop,Organic,Cash,3,1,0,0,0.0
+1513,2026-02-28,Irbid,Mobile,Email,Wallet,3,0,0,0,0.0
+1514,2026-03-24,Irbid,Desktop,Organic,Cash,3,1,1,0,0.0
+1515,2026-02-15,Zarqa,Desktop,Organic,Wallet,5,1,1,0,0.0
+1516,2026-01-12,Zarqa,Desktop,Instagram,Cash,4,1,1,1,26.05
+1517,2026-02-26,Irbid,Desktop,Organic,Card,3,0,0,0,0.0
+1518,2026-01-25,Irbid,Desktop,Email,Wallet,5,1,1,1,21.29
+1519,2026-01-10,Zarqa,Mobile,Instagram,Wallet,2,1,1,1,41.48
+1520,2026-02-15,Zarqa,Mobile,Instagram,Card,4,1,1,1,45.5
+1521,2026-02-26,Amman,Desktop,Paid Ads,Wallet,1,1,1,0,0.0
+1522,2026-01-29,Aqaba,Mobile,Paid Ads,Card,2,0,0,0,0.0
+1523,2026-02-07,Aqaba,Desktop,TikTok,Wallet,2,0,0,0,0.0
+1524,2026-03-12,Aqaba,Desktop,Instagram,Cash,5,1,1,1,26.98
+1525,2026-02-25,Irbid,Desktop,Email,Cash,3,1,0,0,0.0
+1526,2026-01-10,Irbid,Mobile,Email,Wallet,2,1,1,1,48.76
+1527,2026-03-02,Irbid,Desktop,Instagram,Wallet,5,1,1,1,44.61
+1528,2026-01-07,Irbid,Mobile,Email,Cash,4,1,1,1,57.42
+1529,2026-03-13,Aqaba,Mobile,Organic,Wallet,1,0,0,0,0.0
+1530,2026-02-15,Zarqa,Desktop,Organic,Wallet,1,0,0,0,0.0
+1531,2026-03-18,Aqaba,Desktop,Email,Wallet,4,1,1,1,26.79
+1532,2026-03-28,Aqaba,Mobile,Email,Wallet,3,1,1,0,0.0
+1533,2026-03-17,Amman,Desktop,Email,Card,3,0,0,0,0.0
+1534,2026-01-10,Irbid,Mobile,Organic,Wallet,5,1,1,1,15.7
+1535,2026-03-05,Aqaba,Desktop,TikTok,Wallet,1,1,1,1,43.55
+1536,2026-03-02,Irbid,Mobile,Instagram,Cash,2,0,0,0,0.0
+1537,2026-01-23,Aqaba,Mobile,Paid Ads,Cash,4,0,0,0,0.0
+1538,2026-02-21,Amman,Desktop,TikTok,Card,2,1,0,0,0.0
+1539,2026-03-09,Amman,Desktop,Organic,Card,3,1,1,0,0.0
+1540,2026-01-01,Zarqa,Mobile,Paid Ads,Card,5,1,1,1,49.0
+1541,2026-03-23,Amman,Mobile,Email,Cash,5,1,1,0,0.0
+1542,2026-03-15,Irbid,Mobile,TikTok,Card,2,0,0,0,0.0
+1543,2026-03-21,Amman,Desktop,Instagram,Card,1,0,0,0,0.0
+1544,2026-02-14,Irbid,Desktop,TikTok,Wallet,2,1,1,1,15.62
+1545,2026-03-12,Amman,Mobile,Instagram,Card,4,0,0,0,0.0
+1546,2026-02-16,Zarqa,Mobile,TikTok,Wallet,2,1,1,1,27.24
+1547,2026-03-17,Amman,Desktop,Email,Wallet,1,0,0,0,0.0
+1548,2026-03-15,Irbid,Desktop,Paid Ads,Cash,5,1,1,1,20.54
+1549,2026-03-22,Zarqa,Desktop,Email,Cash,4,1,1,1,32.02
+1550,2026-02-09,Zarqa,Mobile,Email,Card,4,0,0,0,0.0
+1551,2026-01-25,Zarqa,Mobile,Email,Card,1,1,1,1,34.85
+1552,2026-01-07,Aqaba,Mobile,Email,Cash,3,1,1,1,50.31
+1553,2026-03-29,Amman,Desktop,Paid Ads,Card,1,0,0,0,0.0
+1554,2026-02-10,Amman,Desktop,Paid Ads,Wallet,1,1,1,1,38.72
+1555,2026-01-15,Irbid,Desktop,Paid Ads,Cash,3,1,1,1,50.72
+1556,2026-02-21,Aqaba,Desktop,Paid Ads,Wallet,1,1,1,1,19.2
+1557,2026-02-04,Irbid,Desktop,Instagram,Wallet,4,1,1,1,20.29
+1558,2026-01-02,Amman,Mobile,Organic,Card,4,1,1,1,42.92
+1559,2026-03-04,Zarqa,Desktop,Instagram,Wallet,1,1,1,0,0.0
+1560,2026-02-06,Zarqa,Mobile,Organic,Cash,3,0,0,0,0.0
+1561,2026-01-26,Aqaba,Desktop,Organic,Card,1,1,1,1,59.76
+1562,2026-01-30,Irbid,Mobile,Organic,Card,1,0,0,0,0.0
+1563,2026-02-25,Irbid,Mobile,Instagram,Card,5,1,1,1,47.3
+1564,2026-03-14,Zarqa,Desktop,Paid Ads,Cash,1,0,0,0,0.0
+1565,2026-03-01,Amman,Desktop,TikTok,Card,2,0,0,0,0.0
+1566,2026-02-07,Aqaba,Mobile,TikTok,Card,5,1,1,1,41.19
+1567,2026-02-01,Amman,Mobile,Organic,Cash,5,1,1,1,58.03
+1568,2026-03-08,Zarqa,Desktop,Organic,Card,5,1,1,0,0.0
+1569,2026-01-14,Amman,Mobile,Organic,Wallet,2,1,1,1,26.31
+1570,2026-03-11,Aqaba,Desktop,Email,Cash,1,1,1,1,36.43
+1571,2026-02-27,Aqaba,Desktop,Paid Ads,Cash,2,1,1,1,59.34
+1572,2026-03-10,Aqaba,Desktop,Paid Ads,Cash,3,1,1,0,0.0
+1573,2026-01-03,Irbid,Mobile,TikTok,Cash,4,0,0,0,0.0
+1574,2026-03-11,Irbid,Desktop,Paid Ads,Cash,2,0,0,0,0.0
+1575,2026-02-23,Aqaba,Desktop,Instagram,Cash,4,1,1,0,0.0
+1576,2026-03-27,Irbid,Desktop,TikTok,Wallet,4,1,1,1,44.19
+1577,2026-02-22,Aqaba,Desktop,Email,Cash,3,1,1,1,10.98
+1578,2026-01-07,Aqaba,Mobile,TikTok,Card,2,1,1,1,26.14
+1579,2026-03-30,Irbid,Desktop,Email,Card,2,1,1,1,46.03
+1580,2026-01-20,Aqaba,Desktop,Email,Wallet,4,1,1,1,46.94
+1581,2026-03-09,Amman,Desktop,Organic,Cash,1,1,1,1,5.48
+1582,2026-02-15,Zarqa,Mobile,Instagram,Wallet,2,1,0,0,0.0
+1583,2026-02-10,Aqaba,Desktop,Instagram,Wallet,5,0,0,0,0.0
+1584,2026-01-23,Irbid,Desktop,Organic,Wallet,3,1,1,1,53.43
+1585,2026-03-21,Irbid,Mobile,Paid Ads,Cash,4,1,1,1,59.08
+1586,2026-01-13,Amman,Desktop,TikTok,Wallet,1,1,1,1,14.38
+1587,2026-03-15,Zarqa,Desktop,Organic,Cash,2,1,1,1,41.95
+1588,2026-01-09,Irbid,Desktop,Instagram,Wallet,2,1,1,1,13.22
+1589,2026-01-11,Aqaba,Mobile,Instagram,Cash,3,1,1,1,54.01
+1590,2026-01-25,Irbid,Mobile,Paid Ads,Wallet,5,1,1,1,31.93
+1591,2026-02-09,Aqaba,Mobile,Instagram,Wallet,3,1,1,1,46.25
+1592,2026-01-05,Amman,Mobile,Instagram,Cash,2,0,0,0,0.0
+1593,2026-01-26,Zarqa,Desktop,Email,Cash,4,1,1,1,43.33
+1594,2026-02-22,Zarqa,Desktop,Organic,Cash,3,1,1,1,15.61
+1595,2026-03-27,Zarqa,Mobile,Organic,Card,1,0,0,0,0.0
+1596,2026-01-14,Amman,Mobile,Organic,Wallet,2,1,1,1,49.08
+1597,2026-01-02,Amman,Mobile,Email,Wallet,3,0,0,0,0.0
+1598,2026-02-28,Amman,Mobile,Organic,Wallet,3,0,0,0,0.0
+1599,2026-01-18,Amman,Mobile,Organic,Wallet,2,0,0,0,0.0
+1600,2026-01-12,Aqaba,Desktop,Email,Card,1,1,1,1,44.43
+1601,2026-03-02,Amman,Desktop,Paid Ads,Wallet,2,1,1,1,30.81
+1602,2026-01-01,Irbid,Mobile,Organic,Card,1,1,1,1,34.81
+1603,2026-01-24,Irbid,Mobile,TikTok,Wallet,3,0,0,0,0.0
+1604,2026-03-17,Zarqa,Mobile,Email,Card,3,1,1,1,28.46
+1605,2026-03-25,Amman,Desktop,Organic,Wallet,3,1,1,1,32.17
+1606,2026-02-27,Amman,Desktop,Email,Cash,1,0,0,0,0.0
+1607,2026-03-31,Aqaba,Desktop,TikTok,Cash,5,1,1,1,51.18
+1608,2026-03-05,Zarqa,Mobile,Paid Ads,Wallet,3,0,0,0,0.0
+1609,2026-01-22,Aqaba,Desktop,TikTok,Cash,1,1,1,1,22.84
+1610,2026-01-20,Zarqa,Desktop,Paid Ads,Cash,2,1,1,1,53.03
+1611,2026-02-16,Irbid,Mobile,Organic,Card,1,1,1,1,13.31
+1612,2026-02-20,Zarqa,Desktop,Paid Ads,Card,4,1,1,1,26.57
+1613,2026-03-04,Irbid,Desktop,Organic,Cash,5,1,1,0,0.0
+1614,2026-01-14,Aqaba,Desktop,Paid Ads,Card,1,0,0,0,0.0
+1615,2026-03-08,Aqaba,Desktop,Organic,Cash,4,0,0,0,0.0
+1616,2026-03-22,Irbid,Desktop,Instagram,Wallet,2,1,1,1,38.64
+1617,2026-02-17,Amman,Mobile,TikTok,Cash,2,1,0,0,0.0
+1618,2026-02-23,Zarqa,Desktop,Instagram,Wallet,2,1,1,1,52.95
+1619,2026-02-13,Irbid,Mobile,Instagram,Wallet,5,0,0,0,0.0
+1620,2026-03-15,Irbid,Desktop,Email,Cash,2,1,1,0,0.0
+1621,2026-01-03,Amman,Desktop,TikTok,Wallet,3,1,1,1,39.3
+1622,2026-02-04,Irbid,Desktop,Organic,Cash,1,1,1,1,20.19
+1623,2026-02-01,Irbid,Desktop,Instagram,Cash,2,1,1,1,31.54
+1624,2026-02-10,Irbid,Mobile,Email,Wallet,5,0,0,0,0.0
+1625,2026-01-16,Zarqa,Mobile,TikTok,Cash,3,1,1,1,48.94
+1626,2026-03-31,Aqaba,Mobile,Instagram,Cash,1,1,1,1,6.59
+1627,2026-01-19,Amman,Desktop,TikTok,Cash,4,1,1,1,46.72
+1628,2026-01-26,Amman,Mobile,Instagram,Wallet,5,1,1,1,57.59
+1629,2026-03-03,Aqaba,Desktop,TikTok,Card,3,1,1,1,6.4
+1630,2026-02-11,Amman,Desktop,Instagram,Wallet,5,0,0,0,0.0
+1631,2026-03-14,Amman,Mobile,TikTok,Card,1,0,0,0,0.0
+1632,2026-01-09,Zarqa,Desktop,Instagram,Card,2,1,1,1,17.93
+1633,2026-02-22,Aqaba,Desktop,Email,Card,3,0,0,0,0.0
+1634,2026-03-09,Irbid,Desktop,Paid Ads,Card,4,1,1,1,50.26
+1635,2026-02-03,Irbid,Desktop,Organic,Card,2,1,1,1,7.89
+1636,2026-01-29,Irbid,Desktop,Instagram,Cash,2,0,0,0,0.0
+1637,2026-03-23,Aqaba,Mobile,Organic,Card,4,1,1,1,41.83
+1638,2026-03-17,Zarqa,Mobile,TikTok,Card,1,1,1,1,43.6
+1639,2026-01-20,Zarqa,Desktop,Paid Ads,Card,5,1,1,1,19.61
+1640,2026-03-19,Zarqa,Desktop,Organic,Cash,3,1,1,1,11.55
+1641,2026-03-19,Irbid,Mobile,Organic,Card,5,0,0,0,0.0
+1642,2026-02-19,Zarqa,Mobile,Email,Cash,1,1,1,1,36.36
+1643,2026-02-16,Zarqa,Mobile,Email,Card,4,1,1,1,53.64
+1644,2026-02-09,Aqaba,Desktop,TikTok,Cash,1,1,1,1,32.48
+1645,2026-03-19,Aqaba,Desktop,Paid Ads,Card,2,0,0,0,0.0
+1646,2026-03-20,Amman,Mobile,Organic,Cash,1,0,0,0,0.0
+1647,2026-01-01,Amman,Mobile,Instagram,Card,3,1,1,0,0.0
+1648,2026-03-24,Zarqa,Mobile,Instagram,Cash,2,0,0,0,0.0
+1649,2026-03-25,Aqaba,Mobile,Organic,Wallet,1,1,1,1,12.8
+1650,2026-03-29,Aqaba,Mobile,Organic,Card,1,0,0,0,0.0
+1651,2026-01-12,Zarqa,Desktop,Organic,Wallet,2,1,0,0,0.0
+1652,2026-03-14,Aqaba,Mobile,Organic,Cash,4,1,1,1,26.86
+1653,2026-02-25,Amman,Mobile,Instagram,Wallet,4,1,0,0,0.0
+1654,2026-02-06,Irbid,Mobile,TikTok,Card,4,1,1,1,57.98
+1655,2026-03-25,Aqaba,Desktop,Paid Ads,Wallet,1,0,0,0,0.0
+1656,2026-01-07,Irbid,Desktop,Instagram,Wallet,3,1,1,1,30.99
+1657,2026-03-12,Aqaba,Desktop,TikTok,Cash,5,1,1,1,14.57
+1658,2026-02-07,Aqaba,Desktop,Instagram,Cash,2,0,0,0,0.0
+1659,2026-01-12,Aqaba,Mobile,Organic,Cash,5,1,1,1,40.5
+1660,2026-03-06,Irbid,Mobile,Paid Ads,Wallet,2,1,1,0,0.0
+1661,2026-02-20,Amman,Mobile,Email,Card,1,0,0,0,0.0
+1662,2026-03-15,Irbid,Desktop,TikTok,Card,1,1,1,0,0.0
+1663,2026-02-11,Zarqa,Desktop,Organic,Card,3,1,1,1,26.6
+1664,2026-03-23,Amman,Mobile,TikTok,Card,4,1,1,0,0.0
+1665,2026-01-10,Amman,Mobile,Organic,Card,3,1,1,1,34.81
+1666,2026-01-04,Zarqa,Desktop,Organic,Cash,3,1,1,1,8.92
+1667,2026-02-15,Zarqa,Desktop,Email,Wallet,4,1,1,1,25.62
+1668,2026-03-03,Aqaba,Desktop,Instagram,Card,5,1,1,0,0.0
+1669,2026-02-02,Aqaba,Mobile,TikTok,Wallet,4,0,0,0,0.0
+1670,2026-03-17,Aqaba,Mobile,TikTok,Card,5,0,0,0,0.0
+1671,2026-03-04,Amman,Desktop,TikTok,Wallet,1,1,1,1,44.84
+1672,2026-02-13,Aqaba,Mobile,Email,Cash,2,1,1,1,35.39
+1673,2026-01-13,Aqaba,Mobile,Email,Card,1,1,1,1,6.55
+1674,2026-03-01,Amman,Desktop,Email,Card,3,1,1,0,0.0
+1675,2026-03-31,Zarqa,Mobile,Organic,Cash,5,1,0,0,0.0
+1676,2026-03-18,Amman,Mobile,TikTok,Cash,3,1,1,0,0.0
+1677,2026-02-01,Aqaba,Mobile,Instagram,Card,1,1,1,1,14.71
+1678,2026-01-29,Aqaba,Mobile,TikTok,Wallet,3,0,0,0,0.0
+1679,2026-01-15,Amman,Desktop,TikTok,Cash,1,1,1,0,0.0
+1680,2026-03-31,Amman,Desktop,TikTok,Card,4,1,1,1,39.92
+1681,2026-02-05,Zarqa,Desktop,TikTok,Wallet,4,1,1,1,19.45
+1682,2026-02-01,Aqaba,Desktop,Email,Cash,2,1,1,1,41.56
+1683,2026-03-03,Irbid,Desktop,Organic,Wallet,1,0,0,0,0.0
+1684,2026-01-06,Zarqa,Mobile,Email,Card,2,1,1,1,26.49
+1685,2026-01-15,Irbid,Desktop,Paid Ads,Cash,5,1,1,1,53.42
+1686,2026-01-28,Amman,Mobile,Paid Ads,Wallet,2,1,1,1,14.48
+1687,2026-01-19,Amman,Mobile,Paid Ads,Wallet,1,1,0,0,0.0
+1688,2026-02-22,Zarqa,Desktop,Organic,Cash,3,0,0,0,0.0
+1689,2026-01-06,Amman,Mobile,Instagram,Cash,3,0,0,0,0.0
+1690,2026-02-27,Irbid,Mobile,TikTok,Wallet,5,0,0,0,0.0
+1691,2026-03-07,Zarqa,Desktop,Organic,Cash,4,1,1,1,37.94
+1692,2026-03-18,Amman,Desktop,Instagram,Cash,1,1,1,1,47.74
+1693,2026-02-05,Zarqa,Desktop,Email,Wallet,4,1,0,0,0.0
+1694,2026-02-11,Aqaba,Desktop,TikTok,Wallet,3,0,0,0,0.0
+1695,2026-03-17,Irbid,Desktop,Instagram,Card,5,0,0,0,0.0
+1696,2026-03-30,Amman,Desktop,Instagram,Cash,4,0,0,0,0.0
+1697,2026-02-06,Irbid,Desktop,Instagram,Card,5,1,1,1,54.9
+1698,2026-02-12,Irbid,Mobile,Instagram,Card,5,1,1,1,41.83
+1699,2026-03-29,Irbid,Mobile,Instagram,Wallet,3,1,1,1,30.45
+1700,2026-02-01,Aqaba,Desktop,Paid Ads,Cash,2,1,1,1,53.8
+1701,2026-03-03,Aqaba,Desktop,Paid Ads,Cash,3,0,0,0,0.0
+1702,2026-03-19,Aqaba,Mobile,Organic,Card,1,1,0,0,0.0
+1703,2026-02-02,Zarqa,Desktop,Paid Ads,Cash,4,1,0,0,0.0
+1704,2026-01-07,Zarqa,Mobile,Paid Ads,Card,4,1,1,1,29.04
+1705,2026-01-16,Amman,Mobile,Organic,Cash,3,0,0,0,0.0
+1706,2026-01-14,Aqaba,Mobile,Organic,Wallet,5,1,1,1,45.87
+1707,2026-03-14,Aqaba,Mobile,Paid Ads,Card,1,1,1,1,20.24
+1708,2026-03-21,Irbid,Mobile,Email,Wallet,5,1,1,1,51.24
+1709,2026-02-10,Aqaba,Mobile,Email,Wallet,2,1,0,0,0.0
+1710,2026-01-03,Zarqa,Desktop,Organic,Card,2,1,1,0,0.0
+1711,2026-02-01,Irbid,Desktop,Organic,Card,4,1,1,1,14.54
+1712,2026-01-31,Irbid,Mobile,Organic,Cash,3,1,1,1,29.54
+1713,2026-02-26,Aqaba,Mobile,Email,Cash,4,1,0,0,0.0
+1714,2026-01-27,Aqaba,Desktop,Email,Card,4,1,1,1,6.14
+1715,2026-02-17,Aqaba,Mobile,Paid Ads,Cash,2,1,1,1,25.77
+1716,2026-02-15,Aqaba,Mobile,Email,Card,4,1,1,1,25.87
+1717,2026-03-24,Aqaba,Mobile,TikTok,Cash,1,1,1,1,23.99
+1718,2026-02-27,Zarqa,Desktop,Paid Ads,Card,4,1,1,1,25.16
+1719,2026-01-29,Aqaba,Desktop,Organic,Card,5,1,1,1,51.52
+1720,2026-01-12,Zarqa,Desktop,Paid Ads,Cash,2,1,1,1,9.36
+1721,2026-01-19,Irbid,Desktop,Instagram,Card,4,1,0,0,0.0
+1722,2026-03-08,Irbid,Desktop,Email,Cash,1,1,1,1,41.0
+1723,2026-02-24,Amman,Mobile,Instagram,Card,2,1,1,1,44.19
+1724,2026-03-10,Zarqa,Mobile,Paid Ads,Wallet,1,0,0,0,0.0
+1725,2026-01-24,Zarqa,Mobile,Instagram,Wallet,2,0,0,0,0.0
+1726,2026-01-03,Irbid,Mobile,Paid Ads,Wallet,5,1,1,1,7.66
+1727,2026-02-17,Aqaba,Mobile,TikTok,Card,5,0,0,0,0.0
+1728,2026-01-15,Irbid,Mobile,Instagram,Cash,2,1,1,1,59.06
+1729,2026-03-09,Aqaba,Desktop,Email,Wallet,4,1,1,1,27.21
+1730,2026-02-21,Amman,Mobile,Organic,Wallet,3,1,1,1,32.48
+1731,2026-02-17,Aqaba,Desktop,Instagram,Cash,3,1,0,0,0.0
+1732,2026-01-04,Irbid,Desktop,Email,Wallet,3,1,1,1,47.63
+1733,2026-01-18,Zarqa,Desktop,TikTok,Cash,3,1,1,1,54.7
+1734,2026-03-01,Aqaba,Mobile,TikTok,Card,3,0,0,0,0.0
+1735,2026-02-01,Amman,Desktop,Instagram,Card,2,0,0,0,0.0
+1736,2026-02-14,Aqaba,Mobile,Email,Cash,4,0,0,0,0.0
+1737,2026-02-15,Aqaba,Mobile,Instagram,Cash,5,1,1,0,0.0
+1738,2026-01-25,Irbid,Mobile,Organic,Card,3,0,0,0,0.0
+1739,2026-03-13,Aqaba,Desktop,Instagram,Wallet,3,1,1,1,25.42
+1740,2026-02-28,Amman,Desktop,TikTok,Cash,3,1,1,1,33.43
+1741,2026-03-07,Amman,Mobile,TikTok,Cash,1,1,1,0,0.0
+1742,2026-03-26,Irbid,Mobile,Email,Cash,4,1,1,1,46.92
+1743,2026-02-05,Aqaba,Mobile,TikTok,Card,4,1,1,1,12.31
+1744,2026-02-24,Irbid,Mobile,Organic,Card,5,1,0,0,0.0
+1745,2026-01-05,Irbid,Desktop,Organic,Card,3,1,1,1,55.33
+1746,2026-03-27,Zarqa,Desktop,TikTok,Cash,4,0,0,0,0.0
+1747,2026-03-15,Zarqa,Desktop,Email,Card,5,1,0,0,0.0
+1748,2026-03-27,Irbid,Mobile,TikTok,Cash,5,1,1,1,54.31
+1749,2026-02-04,Zarqa,Desktop,TikTok,Card,3,0,0,0,0.0
+1750,2026-03-17,Zarqa,Mobile,Paid Ads,Wallet,3,0,0,0,0.0
+1751,2026-01-29,Irbid,Desktop,Paid Ads,Card,2,0,0,0,0.0
+1752,2026-03-31,Zarqa,Mobile,Paid Ads,Card,5,1,1,1,36.16
+1753,2026-03-21,Amman,Desktop,Organic,Cash,4,0,0,0,0.0
+1754,2026-02-21,Amman,Desktop,Paid Ads,Cash,4,1,1,1,56.57
+1755,2026-03-04,Zarqa,Mobile,Email,Card,4,1,1,0,0.0
+1756,2026-02-13,Amman,Mobile,Paid Ads,Wallet,2,1,1,1,10.54
+1757,2026-02-24,Irbid,Mobile,Organic,Cash,4,0,0,0,0.0
+1758,2026-01-23,Zarqa,Desktop,Email,Card,1,1,0,0,0.0
+1759,2026-01-06,Zarqa,Mobile,Organic,Wallet,2,0,0,0,0.0
+1760,2026-01-11,Aqaba,Desktop,Organic,Cash,1,1,1,1,14.35
+1761,2026-03-17,Zarqa,Mobile,Organic,Cash,3,1,1,0,0.0
+1762,2026-03-19,Irbid,Desktop,Organic,Cash,3,1,1,1,32.3
+1763,2026-02-13,Zarqa,Desktop,TikTok,Card,2,1,1,1,32.99
+1764,2026-02-09,Amman,Mobile,Paid Ads,Card,3,1,1,1,7.02
+1765,2026-02-27,Irbid,Desktop,TikTok,Cash,2,1,1,1,42.82
+1766,2026-01-16,Amman,Desktop,Paid Ads,Cash,5,1,1,1,54.26
+1767,2026-01-25,Irbid,Desktop,TikTok,Wallet,3,1,1,1,18.87
+1768,2026-02-20,Zarqa,Mobile,Organic,Card,3,1,1,1,43.91
+1769,2026-02-02,Irbid,Mobile,Email,Wallet,4,1,1,1,7.31
+1770,2026-03-05,Irbid,Desktop,Organic,Card,3,0,0,0,0.0
+1771,2026-03-22,Aqaba,Mobile,Paid Ads,Card,3,1,1,1,5.15
+1772,2026-02-12,Irbid,Desktop,Organic,Cash,5,1,1,1,37.48
+1773,2026-03-17,Aqaba,Mobile,Instagram,Cash,5,1,0,0,0.0
+1774,2026-01-03,Amman,Desktop,TikTok,Cash,4,1,0,0,0.0
+1775,2026-03-19,Zarqa,Mobile,Paid Ads,Wallet,5,1,1,1,29.71
+1776,2026-03-16,Aqaba,Mobile,TikTok,Card,3,1,1,1,17.2
+1777,2026-02-25,Zarqa,Desktop,Organic,Wallet,1,0,0,0,0.0
+1778,2026-03-23,Amman,Desktop,Email,Card,3,0,0,0,0.0
+1779,2026-03-10,Zarqa,Mobile,Email,Wallet,5,1,1,1,59.41
+1780,2026-01-26,Amman,Mobile,Paid Ads,Wallet,1,1,1,1,57.06
+1781,2026-02-03,Irbid,Mobile,Instagram,Card,2,1,1,1,54.83
+1782,2026-02-06,Amman,Mobile,Paid Ads,Card,3,0,0,0,0.0
+1783,2026-01-01,Irbid,Mobile,TikTok,Cash,2,1,1,1,19.85
+1784,2026-01-16,Aqaba,Mobile,TikTok,Wallet,5,0,0,0,0.0
+1785,2026-03-20,Zarqa,Mobile,Instagram,Card,3,0,0,0,0.0
+1786,2026-02-19,Amman,Mobile,Paid Ads,Card,2,1,1,1,55.26
+1787,2026-02-13,Zarqa,Mobile,Instagram,Cash,2,1,1,1,59.51
+1788,2026-02-25,Aqaba,Mobile,Paid Ads,Card,1,0,0,0,0.0
+1789,2026-03-21,Amman,Mobile,TikTok,Wallet,4,0,0,0,0.0
+1790,2026-02-28,Irbid,Mobile,Email,Cash,4,1,1,1,7.0
+1791,2026-01-03,Aqaba,Mobile,Paid Ads,Card,3,1,1,1,58.33
+1792,2026-03-18,Zarqa,Mobile,Email,Card,5,1,1,1,32.19
+1793,2026-03-23,Amman,Mobile,Instagram,Wallet,3,1,1,1,7.14
+1794,2026-01-18,Irbid,Desktop,Instagram,Cash,3,0,0,0,0.0
+1795,2026-01-10,Amman,Desktop,Instagram,Card,5,1,1,1,27.38
+1796,2026-01-12,Amman,Desktop,Organic,Card,2,0,0,0,0.0
+1797,2026-02-03,Amman,Mobile,Organic,Cash,3,1,1,1,37.02
+1798,2026-02-09,Amman,Desktop,Email,Wallet,5,0,0,0,0.0
+1799,2026-02-08,Amman,Desktop,TikTok,Card,1,0,0,0,0.0
+1800,2026-03-26,Amman,Mobile,TikTok,Card,3,1,1,1,57.19
+1801,2026-03-02,Irbid,Mobile,Instagram,Card,3,1,1,1,56.68
+1802,2026-01-24,Irbid,Mobile,Email,Card,5,1,1,1,30.87
+1803,2026-02-22,Irbid,Desktop,Email,Card,1,1,1,1,45.14
+1804,2026-01-08,Zarqa,Mobile,TikTok,Wallet,4,1,1,1,34.03
+1805,2026-02-22,Aqaba,Desktop,Email,Cash,5,1,1,1,11.86
+1806,2026-01-01,Irbid,Mobile,Paid Ads,Card,1,1,1,1,12.05
+1807,2026-01-06,Amman,Mobile,TikTok,Card,2,0,0,0,0.0
+1808,2026-01-28,Amman,Mobile,Organic,Wallet,3,0,0,0,0.0
+1809,2026-01-02,Amman,Desktop,Instagram,Cash,4,1,1,1,44.84
+1810,2026-02-18,Irbid,Desktop,Instagram,Card,5,1,1,1,39.93
+1811,2026-03-27,Aqaba,Mobile,Instagram,Card,2,1,0,0,0.0
+1812,2026-02-25,Zarqa,Mobile,TikTok,Card,4,1,1,1,46.16
+1813,2026-02-06,Amman,Desktop,Instagram,Cash,2,1,1,1,31.03
+1814,2026-03-24,Aqaba,Desktop,Paid Ads,Cash,2,1,1,1,31.23
+1815,2026-01-29,Amman,Mobile,TikTok,Cash,4,0,0,0,0.0
+1816,2026-01-29,Amman,Desktop,Instagram,Wallet,5,1,0,0,0.0
+1817,2026-02-02,Amman,Mobile,Email,Card,1,1,1,1,46.05
+1818,2026-01-31,Irbid,Desktop,Email,Card,3,1,1,0,0.0
+1819,2026-01-20,Amman,Desktop,Paid Ads,Card,1,1,1,1,36.24
+1820,2026-01-14,Irbid,Desktop,Email,Wallet,3,1,1,1,19.96
+1821,2026-03-14,Amman,Desktop,Instagram,Cash,3,1,1,1,18.47
+1822,2026-01-31,Amman,Mobile,Organic,Wallet,5,1,1,0,0.0
+1823,2026-01-18,Amman,Mobile,Email,Cash,2,1,1,1,34.42
+1824,2026-01-18,Aqaba,Mobile,Instagram,Wallet,2,1,1,1,19.11
+1825,2026-03-17,Amman,Desktop,Paid Ads,Wallet,4,0,0,0,0.0
+1826,2026-01-16,Irbid,Mobile,TikTok,Wallet,1,0,0,0,0.0
+1827,2026-02-05,Aqaba,Mobile,TikTok,Cash,5,1,1,1,55.94
+1828,2026-01-13,Zarqa,Desktop,TikTok,Wallet,1,1,1,1,5.01
+1829,2026-03-31,Zarqa,Mobile,Paid Ads,Card,2,1,1,1,6.17
+1830,2026-01-30,Aqaba,Mobile,TikTok,Card,1,1,1,1,12.29
+1831,2026-03-21,Zarqa,Desktop,TikTok,Card,2,1,1,0,0.0
+1832,2026-03-30,Irbid,Desktop,TikTok,Card,1,0,0,0,0.0
+1833,2026-01-22,Amman,Mobile,Paid Ads,Card,3,1,1,1,28.12
+1834,2026-01-20,Zarqa,Desktop,Paid Ads,Wallet,4,1,1,1,19.64
+1835,2026-03-10,Aqaba,Desktop,Instagram,Cash,5,1,1,1,51.02
+1836,2026-03-19,Amman,Mobile,TikTok,Cash,2,0,0,0,0.0
+1837,2026-02-18,Irbid,Mobile,Paid Ads,Wallet,5,1,1,1,48.81
+1838,2026-03-31,Amman,Desktop,TikTok,Wallet,5,0,0,0,0.0
+1839,2026-03-16,Irbid,Mobile,Organic,Wallet,2,1,1,0,0.0
+1840,2026-03-19,Irbid,Mobile,Instagram,Wallet,5,0,0,0,0.0
+1841,2026-03-10,Aqaba,Desktop,Paid Ads,Card,1,1,1,1,14.81
+1842,2026-01-29,Amman,Desktop,TikTok,Card,1,1,1,1,44.65
+1843,2026-03-29,Zarqa,Mobile,Organic,Card,3,0,0,0,0.0
+1844,2026-01-04,Amman,Mobile,Instagram,Card,1,0,0,0,0.0
+1845,2026-03-23,Aqaba,Desktop,Organic,Wallet,5,1,1,1,49.3
+1846,2026-03-19,Zarqa,Desktop,Organic,Wallet,1,1,0,0,0.0
+1847,2026-03-24,Zarqa,Mobile,Organic,Wallet,3,0,0,0,0.0
+1848,2026-01-19,Amman,Mobile,Paid Ads,Cash,5,1,1,1,33.72
+1849,2026-03-06,Zarqa,Desktop,TikTok,Card,5,0,0,0,0.0
+1850,2026-03-06,Irbid,Desktop,Instagram,Wallet,4,1,1,1,41.41
+1851,2026-02-13,Amman,Mobile,TikTok,Card,1,1,1,1,27.29
+1852,2026-02-04,Irbid,Desktop,Organic,Wallet,5,1,1,1,25.14
+1853,2026-01-06,Aqaba,Desktop,Organic,Wallet,4,1,1,1,52.08
+1854,2026-03-23,Amman,Desktop,Instagram,Wallet,5,1,1,1,7.58
+1855,2026-01-16,Amman,Desktop,Instagram,Wallet,5,0,0,0,0.0
+1856,2026-01-23,Aqaba,Mobile,Email,Card,5,0,0,0,0.0
+1857,2026-02-18,Amman,Mobile,TikTok,Wallet,2,1,1,1,13.52
+1858,2026-03-28,Zarqa,Desktop,Instagram,Card,3,1,1,1,41.68
+1859,2026-01-03,Irbid,Desktop,Email,Cash,2,0,0,0,0.0
+1860,2026-01-28,Aqaba,Desktop,TikTok,Card,1,1,1,1,53.04
+1861,2026-02-15,Amman,Mobile,TikTok,Card,3,0,0,0,0.0
+1862,2026-03-28,Amman,Mobile,TikTok,Cash,3,1,1,1,57.76
+1863,2026-02-09,Zarqa,Mobile,Paid Ads,Wallet,4,0,0,0,0.0
+1864,2026-01-14,Zarqa,Desktop,Paid Ads,Cash,3,1,1,1,50.67
+1865,2026-03-20,Zarqa,Mobile,Paid Ads,Card,1,1,1,1,40.15
+1866,2026-01-27,Amman,Desktop,Paid Ads,Card,3,1,1,1,53.59
+1867,2026-01-14,Amman,Mobile,Email,Card,1,1,1,1,44.67
+1868,2026-01-31,Zarqa,Mobile,Organic,Cash,5,1,1,1,12.41
+1869,2026-01-05,Aqaba,Desktop,TikTok,Card,1,0,0,0,0.0
+1870,2026-03-01,Amman,Mobile,Paid Ads,Card,5,0,0,0,0.0
+1871,2026-01-04,Amman,Mobile,TikTok,Cash,1,1,1,1,35.24
+1872,2026-03-02,Amman,Desktop,Organic,Wallet,4,1,1,0,0.0
+1873,2026-03-29,Amman,Desktop,Email,Card,2,1,1,1,53.72
+1874,2026-01-16,Irbid,Desktop,Email,Cash,5,1,1,1,21.07
+1875,2026-02-13,Irbid,Mobile,Email,Wallet,1,1,1,1,14.38
+1876,2026-03-06,Amman,Desktop,Organic,Wallet,2,1,1,1,28.0
+1877,2026-02-07,Amman,Desktop,Paid Ads,Cash,2,1,1,1,50.63
+1878,2026-02-20,Amman,Mobile,TikTok,Card,4,1,1,1,43.15
+1879,2026-01-06,Amman,Mobile,Instagram,Cash,2,0,0,0,0.0
+1880,2026-02-20,Aqaba,Mobile,Instagram,Wallet,5,1,1,1,13.47
+1881,2026-01-28,Irbid,Desktop,Instagram,Cash,1,0,0,0,0.0
+1882,2026-01-07,Aqaba,Desktop,Email,Wallet,4,1,1,1,31.7
+1883,2026-01-19,Amman,Mobile,Paid Ads,Cash,5,1,1,1,46.23
+1884,2026-03-12,Aqaba,Mobile,Instagram,Cash,1,0,0,0,0.0
+1885,2026-01-31,Irbid,Desktop,Organic,Card,4,0,0,0,0.0
+1886,2026-01-30,Amman,Mobile,Email,Cash,3,1,1,1,25.38
+1887,2026-03-14,Amman,Desktop,Instagram,Wallet,5,1,1,1,15.0
+1888,2026-01-22,Aqaba,Desktop,Instagram,Wallet,4,0,0,0,0.0
+1889,2026-03-24,Aqaba,Mobile,Email,Cash,5,0,0,0,0.0
+1890,2026-01-19,Aqaba,Mobile,Paid Ads,Cash,5,0,0,0,0.0
+1891,2026-03-14,Irbid,Mobile,Paid Ads,Card,1,1,1,0,0.0
+1892,2026-01-24,Aqaba,Mobile,TikTok,Wallet,2,1,1,0,0.0
+1893,2026-03-31,Aqaba,Mobile,TikTok,Wallet,1,0,0,0,0.0
+1894,2026-01-16,Amman,Desktop,Paid Ads,Wallet,4,0,0,0,0.0
+1895,2026-01-28,Irbid,Mobile,Instagram,Wallet,3,1,0,0,0.0
+1896,2026-03-26,Irbid,Mobile,Email,Card,5,0,0,0,0.0
+1897,2026-02-06,Aqaba,Mobile,Paid Ads,Wallet,1,0,0,0,0.0
+1898,2026-03-14,Irbid,Desktop,Email,Cash,5,1,1,0,0.0
+1899,2026-03-11,Aqaba,Desktop,Instagram,Cash,2,1,1,0,0.0
+1900,2026-03-22,Irbid,Mobile,Email,Cash,1,0,0,0,0.0
+1901,2026-02-24,Zarqa,Desktop,Organic,Cash,1,1,1,1,15.47
+1902,2026-01-25,Zarqa,Mobile,Organic,Card,3,1,1,1,47.52
+1903,2026-03-03,Aqaba,Mobile,Organic,Card,2,1,1,1,38.02
+1904,2026-02-19,Amman,Mobile,Organic,Cash,5,1,1,1,38.65
+1905,2026-03-09,Zarqa,Mobile,TikTok,Cash,1,1,1,1,38.36
+1906,2026-01-23,Irbid,Mobile,Instagram,Card,5,1,1,1,27.61
+1907,2026-03-23,Aqaba,Desktop,Email,Cash,3,1,0,0,0.0
+1908,2026-02-20,Irbid,Desktop,TikTok,Wallet,2,1,0,0,0.0
+1909,2026-01-17,Aqaba,Desktop,TikTok,Card,5,1,1,1,46.02
+1910,2026-01-21,Aqaba,Desktop,Organic,Card,5,1,1,1,19.5
+1911,2026-01-26,Zarqa,Mobile,Paid Ads,Cash,2,1,1,1,56.23
+1912,2026-02-21,Aqaba,Mobile,Paid Ads,Card,1,1,0,0,0.0
+1913,2026-03-28,Aqaba,Mobile,Email,Wallet,1,1,1,1,17.04
+1914,2026-02-10,Aqaba,Mobile,Paid Ads,Card,2,1,1,0,0.0
+1915,2026-02-27,Zarqa,Desktop,Instagram,Wallet,1,0,0,0,0.0
+1916,2026-01-07,Zarqa,Mobile,Paid Ads,Cash,2,0,0,0,0.0
+1917,2026-02-07,Amman,Mobile,TikTok,Card,5,1,1,1,20.66
+1918,2026-03-29,Aqaba,Desktop,Email,Card,3,0,0,0,0.0
+1919,2026-01-19,Amman,Mobile,Paid Ads,Wallet,4,1,1,1,55.33
+1920,2026-01-12,Irbid,Mobile,Paid Ads,Cash,4,0,0,0,0.0
+1921,2026-03-08,Aqaba,Desktop,Paid Ads,Cash,4,1,1,0,0.0
+1922,2026-01-30,Zarqa,Desktop,Organic,Cash,5,1,1,1,34.89
+1923,2026-01-30,Amman,Desktop,Email,Wallet,5,0,0,0,0.0
+1924,2026-03-23,Amman,Desktop,TikTok,Wallet,4,1,0,0,0.0
+1925,2026-01-08,Aqaba,Mobile,TikTok,Wallet,4,0,0,0,0.0
+1926,2026-01-19,Irbid,Mobile,Paid Ads,Wallet,1,1,1,1,9.64
+1927,2026-02-14,Zarqa,Mobile,Instagram,Wallet,3,1,1,1,53.04
+1928,2026-02-27,Irbid,Mobile,Email,Card,1,1,1,1,9.01
+1929,2026-02-11,Zarqa,Mobile,TikTok,Wallet,5,1,1,1,7.17
+1930,2026-03-19,Amman,Desktop,Organic,Wallet,5,1,1,1,13.71
+1931,2026-03-30,Zarqa,Desktop,Paid Ads,Cash,2,1,1,0,0.0
+1932,2026-03-19,Amman,Mobile,Instagram,Cash,3,0,0,0,0.0
+1933,2026-02-27,Amman,Desktop,Organic,Cash,5,1,0,0,0.0
+1934,2026-01-23,Aqaba,Desktop,TikTok,Cash,2,0,0,0,0.0
+1935,2026-01-26,Irbid,Mobile,Email,Cash,5,0,0,0,0.0
+1936,2026-02-05,Amman,Desktop,TikTok,Wallet,4,0,0,0,0.0
+1937,2026-03-10,Aqaba,Mobile,Paid Ads,Cash,4,1,1,1,55.34
+1938,2026-03-08,Amman,Desktop,Email,Card,5,1,0,0,0.0
+1939,2026-02-21,Amman,Desktop,TikTok,Cash,2,1,1,1,43.25
+1940,2026-03-21,Zarqa,Mobile,Instagram,Cash,3,1,1,1,11.87
+1941,2026-02-04,Irbid,Desktop,Email,Cash,3,1,1,1,26.67
+1942,2026-01-24,Zarqa,Desktop,Paid Ads,Card,2,1,1,1,36.68
+1943,2026-03-11,Zarqa,Desktop,Paid Ads,Cash,5,0,0,0,0.0
+1944,2026-01-11,Irbid,Desktop,TikTok,Card,3,1,1,1,56.27
+1945,2026-03-15,Irbid,Desktop,Email,Wallet,2,1,1,0,0.0
+1946,2026-03-29,Amman,Desktop,Instagram,Cash,3,1,1,0,0.0
+1947,2026-01-04,Zarqa,Mobile,Email,Cash,4,1,0,0,0.0
+1948,2026-03-04,Irbid,Mobile,Paid Ads,Cash,3,0,0,0,0.0
+1949,2026-03-22,Amman,Desktop,Email,Cash,5,1,1,1,36.73
+1950,2026-01-22,Amman,Mobile,Instagram,Card,1,1,1,1,17.98
+1951,2026-02-20,Irbid,Mobile,Paid Ads,Wallet,3,1,1,1,50.52
+1952,2026-01-23,Amman,Mobile,TikTok,Cash,3,1,1,1,45.03
+1953,2026-02-10,Irbid,Mobile,Instagram,Card,1,1,1,0,0.0
+1954,2026-01-05,Aqaba,Mobile,Email,Wallet,3,1,1,1,59.87
+1955,2026-01-17,Zarqa,Desktop,Paid Ads,Card,4,1,1,1,33.28
+1956,2026-02-12,Aqaba,Desktop,Organic,Cash,5,0,0,0,0.0
+1957,2026-03-16,Irbid,Mobile,TikTok,Wallet,5,1,1,1,20.37
+1958,2026-02-13,Zarqa,Desktop,Instagram,Cash,5,1,1,1,34.77
+1959,2026-03-20,Amman,Mobile,TikTok,Cash,3,1,1,0,0.0
+1960,2026-01-04,Amman,Mobile,Organic,Card,2,0,0,0,0.0
+1961,2026-02-09,Irbid,Mobile,Organic,Cash,3,1,1,1,9.0
+1962,2026-02-10,Aqaba,Mobile,Organic,Cash,1,1,1,1,33.7
+1963,2026-02-08,Aqaba,Desktop,Email,Wallet,3,0,0,0,0.0
+1964,2026-03-04,Irbid,Desktop,TikTok,Wallet,2,1,1,0,0.0
+1965,2026-02-26,Irbid,Desktop,Instagram,Card,3,1,1,1,25.15
+1966,2026-01-09,Amman,Mobile,Paid Ads,Card,5,1,1,1,49.43
+1967,2026-01-17,Amman,Mobile,TikTok,Wallet,2,1,1,1,39.48
+1968,2026-01-02,Aqaba,Desktop,Organic,Wallet,1,1,1,1,16.22
+1969,2026-01-22,Irbid,Desktop,TikTok,Cash,4,1,1,1,14.73
+1970,2026-02-11,Aqaba,Mobile,Email,Card,3,1,1,1,31.61
+1971,2026-02-11,Aqaba,Desktop,Email,Card,2,1,1,1,41.84
+1972,2026-01-14,Aqaba,Mobile,Organic,Cash,4,1,1,1,57.82
+1973,2026-03-29,Irbid,Mobile,Instagram,Card,2,1,1,0,0.0
+1974,2026-01-23,Irbid,Mobile,TikTok,Cash,2,1,1,1,45.75
+1975,2026-03-26,Irbid,Desktop,Instagram,Wallet,5,1,1,1,12.91
+1976,2026-02-01,Irbid,Desktop,Email,Cash,5,0,0,0,0.0
+1977,2026-02-04,Aqaba,Mobile,Paid Ads,Cash,4,1,1,1,45.9
+1978,2026-02-07,Zarqa,Desktop,Instagram,Wallet,2,0,0,0,0.0
+1979,2026-03-05,Aqaba,Mobile,Paid Ads,Wallet,5,1,1,0,0.0
+1980,2026-01-23,Aqaba,Desktop,Organic,Card,4,1,1,1,54.56
+1981,2026-03-04,Irbid,Mobile,Paid Ads,Card,3,1,0,0,0.0
+1982,2026-03-28,Amman,Mobile,Paid Ads,Card,1,1,1,0,0.0
+1983,2026-01-06,Aqaba,Desktop,Email,Wallet,3,0,0,0,0.0
+1984,2026-03-06,Zarqa,Desktop,Paid Ads,Card,5,1,1,1,44.71
+1985,2026-03-23,Amman,Mobile,Organic,Cash,5,1,1,0,0.0
+1986,2026-02-08,Amman,Desktop,Organic,Cash,2,0,0,0,0.0
+1987,2026-01-09,Irbid,Mobile,Email,Card,3,0,0,0,0.0
+1988,2026-01-03,Zarqa,Mobile,Organic,Cash,2,1,1,1,56.8
+1989,2026-01-26,Irbid,Mobile,Email,Cash,4,1,1,1,8.12
+1990,2026-03-02,Irbid,Desktop,Organic,Wallet,1,1,1,1,58.21
+1991,2026-01-20,Aqaba,Desktop,TikTok,Wallet,2,1,1,1,55.82
+1992,2026-01-18,Aqaba,Desktop,Organic,Card,1,1,1,1,11.38
+1993,2026-01-24,Aqaba,Mobile,Paid Ads,Wallet,1,1,1,1,44.76
+1994,2026-01-28,Amman,Mobile,TikTok,Wallet,1,1,1,1,16.46
+1995,2026-03-27,Amman,Mobile,Instagram,Card,3,0,0,0,0.0
+1996,2026-01-13,Irbid,Desktop,Organic,Wallet,1,1,1,1,39.39
+1997,2026-03-27,Irbid,Desktop,TikTok,Card,3,0,0,0,0.0
+1998,2026-01-03,Zarqa,Desktop,Organic,Wallet,5,1,1,0,0.0
+1999,2026-03-25,Irbid,Desktop,Paid Ads,Wallet,1,0,0,0,0.0
+2000,2026-03-16,Amman,Mobile,TikTok,Card,4,0,0,0,0.0
